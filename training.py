@@ -5,7 +5,7 @@ from models import LSTMLanguageModel
 from math import exp
 
 # Hyperparams
-block_size = 128
+block_size = 256
 batch_size = 64
 epochs     = 3
 device     = "cuda" if torch.cuda.is_available() else "cpu"
