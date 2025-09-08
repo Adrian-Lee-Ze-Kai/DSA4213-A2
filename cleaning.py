@@ -1,7 +1,10 @@
 import requests, pathlib, sys
 from xml.etree import ElementTree as ET
 
-PMCIDS = ["PMC10952103", "PMC11906441", "PMC11150048","PMC11512351","PMC12197743"]  # replace to the article desired
+PMCIDS = ["PMC10952103", "PMC11906441", "PMC11150048", "PMC11512351", "PMC12197743","PMC11768232", "PMC11974452",
+          "PMC10468816","PMC10796032","PMC10556267","PMC12135148","PMC10186953","PMC10303212","PMC11810083",
+          "PMC9863601","PMC11703581","PMC10057056","PMC10376530","PMC11779990","PMC12310597"]
+
 
 def fetch_xml(pmcid: str) -> str:
     url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi"
@@ -15,6 +18,7 @@ def fetch_xml(pmcid: str) -> str:
     r.raise_for_status()
     return r.text
 
+
 def pretty_print_xml(xml_text: str) -> str:
     # Pretty-print with stdlib (fast + no extra deps)
     # Remove DOCTYPE first (ElementTree can choke on it)
@@ -26,6 +30,7 @@ def pretty_print_xml(xml_text: str) -> str:
     # insert a newline between close><open to avoid mega-lines
     pretty = rough.replace("><", ">\n<")
     return pretty
+
 
 def extract_plain_text(xml_text: str) -> str:
     """
@@ -121,12 +126,26 @@ def extract_plain_text(xml_text: str) -> str:
     text = "\n\n".join(out)
 
     # Normalize whitespace a bit
-    import re
     text = text.replace("\r", "")
     text = re.sub(r"[ \t]+", " ", text)
     text = re.sub(r" +\n", "\n", text)
     text = re.sub(r"\n{3,}", "\n\n", text)
-    return text.strip()
+
+    # === Remove all bracketed/parenthesized content ===
+    text = re.sub(r"\[[^\]]*\]", "", text)   # remove [stuff]
+    text = re.sub(r"\([^)]*\)", "", text)    # remove (stuff)
+
+    # === Clean up punctuation/spaces left behind by removals ===
+    text = re.sub(r"\s{2,}", " ", text)
+    text = re.sub(r"\s+([.,;:!?])", r"\1", text)
+    text = re.sub(r"\s+\.", ".", text)
+    text = re.sub(r"(?m)^\s*•\s*$\n?", "", text)
+    text = re.sub(r"(?m)^[ \t]+", "", text)
+    text = re.sub(r"(?m)[ \t]+$", "", text)
+    text = re.sub(r"\n{3,}", "\n\n", text)
+
+    return text.strip().lower()
+
 
 def main():
     pathlib.Path("data").mkdir(exist_ok=True)
@@ -154,7 +173,10 @@ def main():
         except Exception as e:
             print(f"  ERROR {pmcid}: {e}")
 
-    print(f"Saved:\n  - raw XML   → {raw_xml_path}\n  - pretty XML→ {pretty_path}\n  - plain text→ {txt_path}\n")
+    print(
+        f"Saved:\n  - raw XML   → {raw_xml_path}\n  - pretty XML→ {pretty_path}\n  - plain text→ {txt_path}\n"
+    )
+
 
 if __name__ == "__main__":
     try:

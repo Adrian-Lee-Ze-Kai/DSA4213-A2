@@ -1,0 +1,1925 @@
+<pmc-articleset xmlns:ns0="http://www.w3.org/1999/xlink" xmlns:ns1="http://www.niso.org/schemas/ali/1.0/">
+<article xml:lang="en" article-type="review-article" dtd-version="1.4">
+<processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+<restricted-by>pmc</restricted-by>
+</processing-meta>
+<front>
+<journal-meta>
+<journal-id journal-id-type="nlm-ta">Virulence</journal-id>
+<journal-id journal-id-type="iso-abbrev">Virulence</journal-id>
+<journal-id journal-id-type="pmc-domain-id">1371</journal-id>
+<journal-id journal-id-type="pmc-domain">viru</journal-id>
+<journal-title-group>
+<journal-title>Virulence</journal-title>
+</journal-title-group>
+<issn pub-type="ppub">2150-5594</issn>
+<issn pub-type="epub">2150-5608</issn>
+<publisher>
+<publisher-name>Taylor &amp; Francis</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="pmcid">PMC11810083</article-id>
+<article-id pub-id-type="pmcid-ver">PMC11810083.1</article-id>
+<article-id pub-id-type="pmcaid">11810083</article-id>
+<article-id pub-id-type="pmcaiid">11810083</article-id>
+<article-id pub-id-type="pmid">39921615</article-id>
+<article-id pub-id-type="doi">10.1080/21505594.2025.2457958</article-id>
+<article-id pub-id-type="publisher-id">2457958</article-id>
+<article-version-alternatives>
+<article-version article-version-type="pmc-version">1</article-version>
+<article-version vocab="JAV" vocab-identifier="http://www.niso.org/publications/rp/RP-8-2008.pdf" vocab-term="Version of Record" article-version-type="VoR">Version of Record</article-version>
+</article-version-alternatives>
+<article-categories>
+<subj-group subj-group-type="article-type">
+<subject>Review Article</subject>
+</subj-group>
+<subj-group subj-group-type="heading">
+<subject>Review Article</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Mpox: Global epidemic situation and countermeasures</article-title>
+<alt-title alt-title-type="left-running-head">W. HOU ET AL.</alt-title>
+<alt-title alt-title-type="right-running-head">VIRULENCE</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Hou</surname>
+<given-names initials="W">Wenshuang</given-names>
+</name>
+<xref rid="aff0001" ref-type="aff">
+<sup>a</sup>
+</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Wu</surname>
+<given-names initials="N">Nan</given-names>
+</name>
+<xref rid="aff0001" ref-type="aff">
+<sup>a</sup>
+</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Liu</surname>
+<given-names initials="Y">Yanzhi</given-names>
+</name>
+<xref rid="aff0001" ref-type="aff">
+<sup>a</sup>
+</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Tang</surname>
+<given-names initials="Y">Yanjun</given-names>
+</name>
+<xref rid="aff0002" ref-type="aff">
+<sup>b</sup>
+</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Quan</surname>
+<given-names initials="Q">Quan</given-names>
+</name>
+<xref rid="aff0001" ref-type="aff">
+<sup>a</sup>
+</xref>
+</contrib>
+<contrib contrib-type="author">
+<name name-style="western">
+<surname>Luo</surname>
+<given-names initials="Y">Yinghua</given-names>
+</name>
+<xref rid="aff0003" ref-type="aff">
+<sup>c</sup>
+</xref>
+</contrib>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-4431-2623</contrib-id>
+<name name-style="western">
+<surname>Jin</surname>
+<given-names initials="C">Chenghao</given-names>
+</name>
+<xref rid="aff0001" ref-type="aff">
+<sup>a</sup>
+</xref>
+<xref rid="aff0002" ref-type="aff">
+<sup>b</sup>
+</xref>
+<xref rid="aff0004" ref-type="aff">
+<sup>d</sup>
+</xref>
+<xref rid="an0001" ref-type="corresp" />
+</contrib>
+<aff id="aff0001">
+<label>a</label>Department of Biochemistry and Molecular Biology, College of Life Science and Technology, <institution-wrap>
+<institution>Heilongjiang Bayi Agricultural University</institution>
+</institution-wrap>, <city>Daqing</city>, <country>People’s Republic of China</country>
+</aff>
+<aff id="aff0002">
+<label>b</label>Department of Food Quality and safety, College of Food Science, <institution-wrap>
+<institution>Heilongjiang Bayi Agricultural University</institution>
+</institution-wrap>, <city>Daqing</city>, <country>People’s Republic of China</country>
+</aff>
+<aff id="aff0003">
+<label>c</label>Department of Grass Science, College of Animal Science and Veterinary Medicine, <institution-wrap>
+<institution>Heilongjiang Bayi Agricultural University</institution>
+</institution-wrap>, <city>Daqing</city>, <country>People’s Republic of China</country>
+</aff>
+<aff id="aff0004">
+<label>d</label>
+<institution-wrap>
+<institution>National Coarse Cereals Engineering Research Center</institution>
+</institution-wrap>, <city>Daqing</city>, <country>People’s Republic of China</country>
+</aff>
+</contrib-group>
+<author-notes>
+<corresp id="an0001">CONTACT Chenghao Jin <email ns0:href="mailto:jinchenghao3727@qq.com">jinchenghao3727@qq.com</email>
+</corresp>
+</author-notes>
+<pub-date date-type="pub" publication-format="electronic">
+<day>8</day>
+<month>2</month>
+<year>2025</year>
+</pub-date>
+<pub-date date-type="collection" publication-format="electronic">
+<year>2025</year>
+</pub-date>
+<volume>16</volume>
+<issue>1</issue>
+<issue-id pub-id-type="pmc-issue-id">478704</issue-id>
+<elocation-id seq="33">2457958</elocation-id>
+<pub-history>
+<event event-type="pmc-release">
+<date>
+<day>08</day>
+<month>02</month>
+<year>2025</year>
+</date>
+</event>
+<event event-type="pmc-live">
+<date>
+<day>10</day>
+<month>02</month>
+<year>2025</year>
+</date>
+</event>
+<event event-type="pmc-last-change">
+<date iso-8601-date="2025-02-13 06:25:40.480">
+<day>13</day>
+<month>02</month>
+<year>2025</year>
+</date>
+</event>
+<event event-type="tagger">
+<event-desc>Integra</event-desc>
+<date>
+<day>08</day>
+<month>2</month>
+<year>2025</year>
+</date>
+</event>
+<event event-type="final">
+<event-desc>Integra</event-desc>
+<date>
+<day>08</day>
+<month>2</month>
+<year>2025</year>
+</date>
+</event>
+<event event-type="received">
+<date>
+<day>07</day>
+<month>8</month>
+<year>2024</year>
+</date>
+</event>
+<event event-type="revised">
+<date>
+<day>01</day>
+<month>1</month>
+<year>2025</year>
+</date>
+</event>
+<event event-type="accepted">
+<date>
+<day>20</day>
+<month>1</month>
+<year>2025</year>
+</date>
+</event>
+</pub-history>
+<permissions>
+<copyright-statement>© 2025 The Author(s). Published by Informa UK Limited, trading as Taylor &amp; Francis Group.</copyright-statement>
+<copyright-year>2025</copyright-year>
+<copyright-holder>The Author(s)</copyright-holder>
+<license>
+<ns1:license_ref specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ns1:license_ref>
+<license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial License (<ext-link ext-link-type="uri" ns0:href="https://creativecommons.org/licenses/by-nc/4.0/">http://creativecommons.org/licenses/by-nc/4.0/</ext-link>), which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited. The terms on which this article has been published allow the posting of the Accepted Manuscript in a repository by the author(s) or with their consent.</license-p>
+</license>
+</permissions>
+<self-uri content-type="pmc-pdf" ns0:href="KVIR_16_2457958.pdf" />
+<self-uri content-type="pdf" ns0:href="KVIR_16_2457958.pdf" />
+<abstract>
+<title>ABSTRACT</title>
+<p>Mpox, is a zoonotic disease caused by the monkeypox virus and is primarily endemic to Africa. As countries gradually stop smallpox vaccination, resistance to the smallpox virus is declining, increasing the risk of infection with mpox and other viruses. On 14 August 2024, the World Health Organization announced that the spread of mpox constituted a public health emergency of international concern. Mpox’s transmission routes and symptoms are complex and pose new challenges to global health. Several vaccines (such as ACAM2000, JYNNEOS, LC16m8, and genetically engineered vaccines) and antiviral drugs (such as tecovirimat, brincidofovir, cidofovir, and varicella immunoglobulin intravenous injection) have been developed and marketed to prevent and control this disease. This review aims to introduce the epidemic situation, epidemiological characteristics, physiological and pathological characteristics, and preventive measures for mpox in detail, to provide a scientific basis for the prevention and control of mpox viruses worldwide.</p>
+</abstract>
+<abstract abstract-type="graphical">
+<title>Graphical abstract</title>
+<fig position="anchor" id="uf0001" orientation="portrait">
+<alternatives>
+<graphic content-type="color" specific-use="web-only" position="float" orientation="portrait" ns0:href="KVIR_A_2457958_UF0001_OC.jpg" />
+<graphic content-type="black-white" specific-use="print-only" position="float" orientation="portrait" ns0:href="KVIR_A_2457958_UF0001_PB.jpg" />
+</alternatives>
+</fig>
+</abstract>
+<kwd-group kwd-group-type="author">
+<title>KEYWORDS</title>
+<kwd>Mpox</kwd>
+<kwd>epidemiology</kwd>
+<kwd>pathophysiology</kwd>
+<kwd>vaccine</kwd>
+<kwd>global implications</kwd>
+</kwd-group>
+<support-group>
+<funding-group>
+<award-group>
+<funding-source>
+<institution-wrap>
+<institution>Central Government Supports Local College Reform and Development Fund Talent Training Project</institution>
+</institution-wrap>
+</funding-source>
+<award-id>Grant No. 2020GSP16</award-id>
+</award-group>
+<award-group>
+<funding-source>
+<institution-wrap>
+<institution>Heilongjiang Province Key Research and Development Plan Guidance Project</institution>
+</institution-wrap>
+</funding-source>
+<award-id>Grant No. GZ20220039</award-id>
+</award-group>
+<funding-statement>This research was supported by Central Government Supports Local College Reform and Development Fund Talent Training Project [Grant No. 2020GSP16]; Heilongjiang Province Key Research and Development Plan Guidance Project [Grant No. GZ20220039].</funding-statement>
+</funding-group>
+</support-group>
+<counts>
+<fig-count count="6" />
+<ref-count count="82" />
+<page-count count="1" />
+<word-count count="5556" />
+</counts>
+<custom-meta-group>
+<custom-meta>
+<meta-name>pmc-status-qastatus</meta-name>
+<meta-value>0</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-status-live</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-status-embargo</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-status-released</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-open-access</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-olf</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-manuscript</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-legally-suppressed</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-has-pdf</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-has-supplement</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-pdf-only</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-suppress-copyright</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-is-real-version</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-is-scanned-article</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-preprint</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-in-epmc</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-license-ref</meta-name>
+<meta-value>CC BY-NC</meta-value>
+</custom-meta>
+</custom-meta-group>
+</article-meta>
+</front>
+<body>
+<sec sec-type="intro" disp-level="1" id="s0001">
+<title>Introduction</title>
+<p>In 1958, an unknown disease characterized by small pox-like blisters on the skin spread in a group of monkeys in Africa. Danish virologists isolated this new virus during their research and named it Monkeypox Virus (MPXV) [<xref rid="cit0001" ref-type="bibr">1</xref>]. MPXV belongs to the genus Orthopoxvirus in the family Poxviridae and can cause zoonotic disease [<xref rid="cit0002" ref-type="bibr">2</xref>]. Because MPXV is resistant to low temperatures and dryness and can survive for several months in soil, scabs, and clothing, researchers have speculated that the primary hosts of MPXV are primates (various monkeys and apes) and African rodents (tree squirrels, Gambian kangaroos, and spittle rats) [<xref rid="cit0003" ref-type="bibr">3</xref>,<xref rid="cit0004" ref-type="bibr">4</xref>]. In 1970, in the Democratic Republic of Congo (DRC), a nine-month-old child was infected with MPXV and exhibited symptoms similar to smallpox [<xref rid="cit0005" ref-type="bibr">5</xref>]. Although smallpox has been eradicated, different subtypes of the smallpox virus have similar genetic and antigenic properties, and infection with one may produce antibodies against other subtypes. Furthermore, human MPXV infection has always been considered a rare and self-limiting disease, and has received little attention [<xref rid="cit0006" ref-type="bibr">6</xref>]. However, the resistance of the population to different viruses has gradually weakened with the cessation of smallpox vaccination in various countries. In recent years, against the background that the general population has started a secondary infection with the novel coronavirus, the number and geographical distribution of human cases infected with MPXV have significantly increased [<xref rid="cit0007" ref-type="bibr">7</xref>].</p>
+<p>MPXV is divided into two main genetic clades: clade I, distributed in Central Africa, and clade II, unique to West Africa. Clade I is further subdivided into sub-clades Ia and Ib, whereas clade II is subdivided into sub clades IIa and IIb [<xref rid="cit0002" ref-type="bibr">2</xref>,<xref rid="cit0008" ref-type="bibr">8</xref>,<xref rid="cit0009" ref-type="bibr">9</xref>]. These clades vary in their modes of transmission, pathogenicity, and clinical manifestations. Clade I human infection is similar to typical smallpox and is characterized by symptoms such as fever, headache, and discomfort. Compared to clade II, clade I exhibits higher transmissibility and virulence, leading to more severe disease manifestations and higher mortality rates. The mortality rate of clade I is as high as 10 %, whereas that of clade IIa is lower [<xref rid="cit0010" ref-type="bibr">10–14</xref>]. Unlike clades I and IIa, clade IIb exhibits increased human-to-human transmission capability. Between 2022 and 2023, mpox outbreaks worldwide were mainly caused by strains of evolutionary clade IIb [<xref rid="cit0011" ref-type="bibr">11</xref>,<xref rid="cit0015" ref-type="bibr">15</xref>,<xref rid="cit0016" ref-type="bibr">16</xref>]. The outbreak of this epidemic began in 2022 and continues to the present day, with particularly significant impacts on some African countries [<xref rid="cit0017" ref-type="bibr">17–20</xref>]. Since May 2022, a series of global outbreaks involving clade IIb have been recognized by the World Health Organization (WHO) as public health emergencies of international concern, marking the launch of global prevention and control mechanisms [<xref rid="cit0021" ref-type="bibr">21</xref>]. In August 2022, the number of reported cases peaked globally, making this period the most severe and tense stage of the epidemic. The epidemic has rapidly escalated. As of 20 September 2022, a total of 19 827 confirmed cases have been reported in 29 European Union countries, including some European countries and non-traditional measles epidemic areas such as the United States [<xref rid="cit0022" ref-type="bibr">22</xref>]. Because the WHO announced on 12 May 2023, that the Mpox outbreak was a public health emergency of international concern, this epidemic is far from over [<xref rid="cit0023" ref-type="bibr">23</xref>].</p>
+<p>In sharp contrast to this decision, the infection status of sub-clades Ia and Ib in clade I has significantly increased in the DRC and other African countries, indicating the continued threat of these viral clades to public health in these countries [<xref rid="cit0024" ref-type="bibr">24</xref>]. Recent studies have shown a significant increase in mpox cases caused by clade I between 2023 and 2024, with the disease severity being higher than that of clade II. The DRC reported many clade I mpox cases in 2024, including the first case in Kinshasa, raising concerns about global transmission [<xref rid="cit0025" ref-type="bibr">25</xref>]. As of August 2024, the clade Ib strain has been detected in multiple countries outside Africa, indicating that the spread of the MPXV is gradually increasing. Previously, these viruses were prevalent mainly in Africa; however, their emergence suggests that more complex transmission networks may be present. Due to the surge in mpox cases, the Director General of the WHO declared the current outbreak a PHEIC on 14 August 2024 [<xref rid="cit0026" ref-type="bibr">26</xref>]. This series of events highlights the importance of continuous monitoring and research of different clades and their transmission patterns on a global scale. Understanding the epidemiological characteristics, transmission routes, and effective response strategies of these viral clades is crucial [<xref rid="cit0016" ref-type="bibr">16</xref>,<xref rid="cit0027" ref-type="bibr">27</xref>,<xref rid="cit0028" ref-type="bibr">28</xref>] (<xref rid="f0001 f0002" ref-type="fig">Figures 1 and 2</xref>).
+<fig position="float" id="f0001" fig-type="figure" orientation="portrait">
+<label>Figure 1.</label>
+<caption>
+<p>Mpox: journey from viral isolation to global outbreak. From 1796, when Edward Jenner developed the smallpox vaccine using cowpox, to 2024, with 97,000 confirmed cases of mpox globally, the discovery, research, and control of mpox have evolved from vaccine foundations to global attention and breakthroughs in antiviral treatments. (By boardmix).</p>
+</caption>
+<alternatives>
+<graphic content-type="color" specific-use="web-only" position="float" orientation="portrait" ns0:href="KVIR_A_2457958_F0001_OC.jpg" />
+<graphic content-type="black-white" specific-use="print-only" position="float" orientation="portrait" ns0:href="KVIR_A_2457958_F0001_PB.jpg" />
+</alternatives>
+</fig>
+<fig position="float" id="f0002" fig-type="figure" orientation="portrait">
+<label>Figure 2.</label>
+<caption>
+<p>Global distribution of mpox cases. Since January 1, 2024, the total number of laboratory-confirmed mpox cases, which may include cases only confirmed as orthopoxvirus, is 21,430. Among these, 5,813 cases are in locations with only clade II mpox 11,911 cases are in locations with only clade I mpox virus, and 3,702 cases are in locations with both clade I and clade II mpox. Data presented as of October 6, 2024, were obtained from the CDC.</p>
+</caption>
+<alternatives>
+<graphic content-type="color" specific-use="web-only" position="float" orientation="portrait" ns0:href="KVIR_A_2457958_F0002_OC.jpg" />
+<graphic content-type="black-white" specific-use="print-only" position="float" orientation="portrait" ns0:href="KVIR_A_2457958_F0002_PB.jpg" />
+</alternatives>
+</fig>
+</p>
+</sec>
+<sec disp-level="1" id="s0002">
+<title>Materials and methods</title>
+<p>To understand the epidemiological characteristics, transmission routes, and effective prevention and control strategies for mpox, we searched multiple databases and resources through literature retrieval. We mainly used academic databases, such as PubMed, Web of Science, and Google Scholar, as well as the official documents and reports of the WHO, Centers for Disease Control and Prevention (CDC), and health departments of various countries. These resources provide the latest research results on mpox and relevant public health information. The key words included “Mpox,” “monkeypox,” and their combinations, such as “Mpox and outbreak” and “Mpox surveillance and epidemiology.” To ensure coverage of key literature in this field. In order to ensure the relevance of the search results, we set clear inclusion and exclusion criteria: the included literature should clearly involve all aspects of MPOX, such as epidemiological characteristics, clinical manifestations, prevention and treatment measures, and be limited to the time range from 2020 to now. The language is English or other major languages. All the included literatures were double independently screened to ensure the objectivity and consistency of the literature screening process. Through these steps, we aimed to systematically sort and analyse the retrieved data and provide a solid basis for the review.</p>
+</sec>
+<sec disp-level="1" id="s0003">
+<title>Physiological and pathological characteristics of mpox</title>
+<p>MPXV is an enveloped, double-stranded DNA virus. The viral particles were oval or brick shaped, with diameters of approximately 200–250 nm. The MPXV genome mainly includes a central conserved region and reverse terminal repeats, and virus-host interaction genes are located in the terminal region [<xref rid="cit0029" ref-type="bibr">29</xref>]. MPXV replication is a complex and precise process that involves interactions between the virus and host cells at multiple stages. MPXV has two main forms: the intracellular mature virus (IMV) and extracellular envelope virus (EEV). The virus enters the host cells through attachment and fusion, and the viral genome is released into the cytoplasm for transcription and replication. During replication, the IMV and EEV are formed. The IMV are assembled in the cytoplasm and released outside the cell by lysis, and part of the IMV can be further transformed into the EEV. The EEV mediates long-distance transmission in hosts by interacting with actin. The IMV is responsible for the transmission of infections between hosts [<xref rid="cit0029" ref-type="bibr">29</xref>,<xref rid="cit0030" ref-type="bibr">30</xref>]. This complex replication process allows MPXV to spread effectively in the host and between cells (<xref rid="f0003" ref-type="fig">Figure 3</xref>).
+<fig position="float" id="f0003" fig-type="figure" orientation="portrait">
+<label>Figure 3.</label>
+<caption>
+<p>Replication cycle of mpox virus. This figure illustrates the life cycle of the mpox within a human cell. The replication cycle of the mpox virus transpires in the cytoplasm of the host cell. Subsequent to viral attachment, the virion adheres to and merges with the host cell membrane, resulting in the release of the viral core into the host cell’s cytoplasm. Viral particles are formed into intracellular mature viruses (MV), which remain in the cytoplasm as intracellular mature virions or are discharged as extracellular enveloped viruses upon cell lysis. MV can encapsulate an extra envelope and adhere to the cell membrane, subsequently releasing through exocytosis. (By Figdraw).</p>
+</caption>
+<alternatives>
+<graphic content-type="color" specific-use="web-only" position="float" orientation="portrait" ns0:href="KVIR_A_2457958_F0003_OC.jpg" />
+<graphic content-type="black-white" specific-use="print-only" position="float" orientation="portrait" ns0:href="KVIR_A_2457958_F0003_PB.jpg" />
+</alternatives>
+</fig>
+</p>
+<p>The clinical manifestations of MPXV infection are similar to those of smallpox virus infection, which usually include prodromal symptoms such as fever, headache, myalgia, fatigue, sore throat, and subsequent rash. The primary distinction between mpox and smallpox is the presence of lymphadenopathy. Approximately 10% of the patients with mpox have superficial lymphadenopathy, whereas patients with smallpox do not. The rash characteristics of mpox are essential for its identification. Notably, mpox rashes have a centrifugal distribution, whereas chickenpox rashes are centripetal [<xref rid="cit0031" ref-type="bibr">31</xref>]. Mpox is a self-limiting disease. The incubation period is usually 5–21 d, and the disease course lasts for 2–5 weeks. Deaths primarily occurred in children, pregnant women, and immunodeficient individuals. MPXV infection may involve the oral mucosa, digestive tract, genitalia, conjunctiva, cornea, and other organs [<xref rid="cit0032" ref-type="bibr">32</xref>,<xref rid="cit0033" ref-type="bibr">33</xref>]. Currently, mpox diagnosis usually depends on clinical symptoms and PCR detection of viral DNA. There is no specific treatment for this disease, and most treatments are mainly symptomatic or conservative. Preventive measures include avoiding contact with infected animals, eating thoroughly cooked meat, avoiding close contact with patients with mpox, and vaccination against smallpox (<xref rid="f0004" ref-type="fig">Figure 4</xref>) [<xref rid="cit0004" ref-type="bibr">4</xref>,<xref rid="cit0034" ref-type="bibr">34</xref>].
+<fig position="float" id="f0004" fig-type="figure" orientation="portrait">
+<label>Figure 4.</label>
+<caption>
+<p>Pathophysiology and symptoms of mpox. General features such as lymphadenopathy, fever, headache, sweats, sore throat, muscle ache, lack of energy, rash, and genital rashes are seen commonly. Complications of mpox include pneumonitis, encephalitis, keratitis, and secondary bacterial infections. (By Figdraw).</p>
+</caption>
+<alternatives>
+<graphic content-type="color" specific-use="web-only" position="float" orientation="portrait" ns0:href="KVIR_A_2457958_F0004_OC.jpg" />
+<graphic content-type="black-white" specific-use="print-only" position="float" orientation="portrait" ns0:href="KVIR_A_2457958_F0004_PB.jpg" />
+</alternatives>
+</fig>
+</p>
+<p>The transmission routes of MPXV are complex and primarily involve animal- and human-to-human modes of transport. Animal-to-human transmission routes include contact with infected animal blood, bodily fluids, skin, mucous membranes, scratches, bites from infected animals, or even consumption of infected animal meat. Human-to-human transmission primarily occurs through contact with bodily fluids, blood, respiratory droplets, or even through sexual contact with infected individuals (<xref rid="f0005" ref-type="fig">Figure 5</xref>) [<xref rid="cit0023" ref-type="bibr">23</xref>,<xref rid="cit0035" ref-type="bibr">35</xref>,<xref rid="cit0036" ref-type="bibr">36</xref>]. Recent studies have revealed that MPXV exhibits a high rate of genetic variation, which may result in unstable epidemiological characteristics, including speed of transmission and pathogenicity of the virus. Studies have indicated that viral strains in recent mpox outbreaks differ from typical African strains by approximately 50 nucleotide sites, reflecting significant changes in the viral genome. This variation could lead to various manifestations of MPXV during human-to-human transmission, further complicating the epidemiological profile [<xref rid="cit0037" ref-type="bibr">37</xref>]. Therefore, there is an urgent need to accelerate the development of vaccines and medications to effectively control the mpox Zepidemic. Vaccines can confer immunity, thereby reducing the infection rate and disease severity. In contrast, medications treat individuals who are already infected, reduce complications, and prevent worsening of the disease. The spread of mpox can be effectively curtailed by intensifying the research and development of vaccines and medications.
+<fig position="float" id="f0005" fig-type="figure" orientation="portrait">
+<label>Figure 5.</label>
+<caption>
+<p>Modes of mpox transmission. Mpox can be transmitted through various means, including contact with animals infected with the mpox virus (such as squirrels, rodents, monkeys, and primates), direct contact with the body fluids or lesions of infected animals, animal bites or scratches, eating meat from infected animals, sexual contact, and contact with contaminated objects, respiratory secretions of infected individuals, as well as their bedding and clothing. (By Figdraw).</p>
+</caption>
+<alternatives>
+<graphic content-type="color" specific-use="web-only" position="float" orientation="portrait" ns0:href="KVIR_A_2457958_F0005_OC.jpg" />
+<graphic content-type="black-white" specific-use="print-only" position="float" orientation="portrait" ns0:href="KVIR_A_2457958_F0005_PB.jpg" />
+</alternatives>
+</fig>
+</p>
+</sec>
+<sec disp-level="1" id="s0004">
+<title>Prevention and treatment of mpox</title>
+<p>MPXV belongs to the Orthopoxvirus genus, and its differential diagnosis is complex and important because its clinical manifestations are similar to those of other members of the Poxvirus family [<xref rid="cit0038" ref-type="bibr">38</xref>]. PCR is considered the primary diagnostic tool for detecting viral DNA. Samples scraped from rashes, scabs, or blisters are considered the best specimens and require sterile refrigeration to maintain their stability. Additionally, immunohistochemistry, viral culture, and electron microscopy can assist in confirming the presence of the virus [<xref rid="cit0030" ref-type="bibr">30</xref>,<xref rid="cit0039" ref-type="bibr">39</xref>]. Recent studies have shown that individuals are generally susceptible to MPXV and that vaccination with a smallpox vaccine provides a certain degree of cross-protection against MPXV [<xref rid="cit0040" ref-type="bibr">40</xref>]. Mpox can be prevented by smallpox or cowpox vaccination. However, currently no specific vaccine exists for the prevention of mpox infections. Researchers have only improved the vaccine through gene recombination based on existing vaccines such as smallpox, which has improved its effectiveness and reduced toxicity and side effects [<xref rid="cit0041" ref-type="bibr">41</xref>,<xref rid="cit0042" ref-type="bibr">42</xref>]. Additionally, antiviral drugs have been developed to treat patients with viral infections.</p>
+<sec disp-level="2" id="s0004-s2001">
+<title>Preventive effect of vaccines</title>
+<p>Vaccines are vital tools to prevent disease infection, and can effectively control transmission before a disease outbreak and intervene in the development of the disease after disease exposure to reduce its severity [<xref rid="cit0043" ref-type="bibr">43</xref>]. MPXV immunomodulatory proteins can be categorized by function into three separate groups: virostealth, virotransduction, and biomimicry. The virostealth proteins function intracellularly, diminishing the detection of MPX infection signals by disrupting host signalling pathways, hence impairing the ability of cell-mediated immune responses (cytotoxic T cells) to identify and eliminate virus-infected cells. The virotransducer proteins function intracellularly to suppress innate antiviral signalling pathways and apoptotic responses to MPX infection. Viromimetics (virokines and viroceptors) represent the sole category of MPXV proteins with external functions. Viroreceptors are cell surface glycoproteins that imitate host immune-related cytokine and chemokine receptors, binding to them and disrupting their functions, whereas virokines emulate host cytokines and chemokines, hence inhibiting their effects. MPXV immunomodulatory proteins function synergistically to circumvent the host’s antiviral innate immune response via several mechanisms, facilitating viral replication. MPXV and smallpox viruses belong to the genus Orthopoxvirus and have significant similarities in genome structure and immune responses. Studies have shown that the approved smallpox vaccines also provide cross-protection against mpox [<xref rid="cit0044" ref-type="bibr">44</xref>]. Dendritic cells (DCs) can capture foreign antigens presented by different types of vaccines through phagocytosis, process them in the endoplasmic reticulum, and express their fragments on the cell surface through the major histocompatibility complex (MHC-I or MHC-II). Cells directly recognize antigens and initiate humoral immune responses through B-cell receptors. Simultaneously, they present antigen peptide fragments to helper T cells (CD4+T cells) via MHC- II molecules. Antigen-presenting cells activate CD4+T cells and promote their differentiation into different subtypes, such as T follicular helper cells, which help B cells differentiate into memory B cells and plasma cells that secrete antibodies, thus promoting the generation of high-affinity antibodies. In addition, cytotoxic T cells (CD8+T cells) recognize antigen peptide fragments presented by MHC-I molecules through the T-cell receptor and trigger a cellular immune response to kill and remove the virus-infected cells [<xref rid="cit0032" ref-type="bibr">32</xref>,<xref rid="cit0041" ref-type="bibr">41</xref>,<xref rid="cit0045" ref-type="bibr">45</xref>]. The specific mechanism is illustrated in <xref rid="f0006" ref-type="fig">Figure 6</xref>. However, since the global suspension of the smallpox vaccination in 1980, the number of individuals without cross-protection has increased, making it a potentially significant threat to human health. Therefore, developing an mpox vaccine can prevent another large-scale outbreak of mpox and provide sufficient technical resources for subsequent research on other positive pox vaccines. Currently, three smallpox vaccines have been approved for mpox treatment: ACAM2000, JYNNEOS, and LC16m8. These vaccines were initially developed to prevent smallpox; however, they are also effective against mpox. However, these vaccines have different degrees of side effects, which must be considered [<xref rid="cit0040" ref-type="bibr">40</xref>,<xref rid="cit0046" ref-type="bibr">46</xref>,<xref rid="cit0047" ref-type="bibr">47</xref>].
+<fig position="float" id="f0006" fig-type="figure" orientation="portrait">
+<label>Figure 6.</label>
+<caption>
+<p>MPXV virus escape mechanism and vaccine-induced immune response. In viral mimicry, MPXV mimicry inhibits IFN, IL-1β, and TNF, as well as host receptors bound by MPXV-encoded chemokines and growth factors. During viral transduction, intracellular MPXV-encoded proteins inhibit its function by interfering with antiviral pathways such as IFN, NF-κB, IRF 3, and apoptosis. Viral stealth is achieved with F1, an antiapoptotic host-range protein that contributes to viral replication and the spread of MPX infection. Approved smallpox vaccines also provide cross-protection against mpox. After further vaccination, the foreign antigens presented by different types of vaccines are captured by Dendritic cells (DCs) through phagocytosis, processed in the endoplasmic reticulum, and processed by the major histocompatibility complex (MHC). MHC-I or MHC-II) express their fragments on the cell surface. The cells directly recognize the antigen and initiate a humoral immune response through B-cell receptors. At the same time, they present antigen peptide fragments to helper T cells (CD4+T cells) through MHC-II molecules. Antigen-presenting cells activate CD4+T cells and promote their differentiation into different subtypes, such as follicular helper T cells, which help B cells differentiate into memory B cells and antigen-secreting plasma cells, thereby promoting the production of high-affinity antibodies. In addition, cytotoxic T cells (CD8+T cells) recognize antigenic peptide fragments presented by MHC-I molecules through T-cell receptors and trigger cellular immune responses to kill and eliminate virus-infected cells. (By Figdraw).</p>
+</caption>
+<alternatives>
+<graphic content-type="color" specific-use="web-only" position="float" orientation="portrait" ns0:href="KVIR_A_2457958_F0006_OC.jpg" />
+<graphic content-type="black-white" specific-use="print-only" position="float" orientation="portrait" ns0:href="KVIR_A_2457958_F0006_PB.jpg" />
+</alternatives>
+</fig>
+</p>
+<sec disp-level="3" id="s0004-s2001-s3001">
+<title>ACAM2000</title>
+<p>ACAM2000 is a second-generation smallpox vaccine based on vaccinia virus (VACV) replication. Emergency product development (Gaithersburg, Inc.) produces it in the United States and is mainly used to prevent smallpox viral infections. This vaccine was approved by the Food and Drug Administration (FDA) in 2007 and is regarded as an essential strategic tool for dealing with smallpox virus outbreaks. ACAM2000 significantly prevents smallpox infection and exerts a protective effect against MPXV in animal models [<xref rid="cit0048" ref-type="bibr">48</xref>,<xref rid="cit0049" ref-type="bibr">49</xref>]. Studies have found that crab-eating macaques inoculated with ACAM2000 (a single dose) survive attacks by atomized MPXV. Although signs of viral infection were observed, the animals were healthy. Humoral and cell-mediated immune responses were initiated and high concentrations of neutralizing and IgG antibodies were detected after vaccination [<xref rid="cit0050" ref-type="bibr">50–52</xref>]. In addition, in a prairie groundhog model evaluating the effect of ACAM2000 after exposure, ACAM2000 showed significant effectiveness when applied on the first and third days after exposure [<xref rid="cit0007" ref-type="bibr">7</xref>,<xref rid="cit0053" ref-type="bibr">53</xref>]. However, the use of ACAM2000 is accompanied by high-risk side effects, including skin reactions (such as urticaria and cowpox eczema), eye complications (eye cowpox), severe heart inflammation (myocarditis and pericarditis), and encephalitis (post-vaccine encephalitis), especially in individuals with a poor immune system or other health problems [<xref rid="cit0054" ref-type="bibr">54</xref>]. Therefore, although ACAM2000 is effective and provides an emergency response in dealing with smallpox virus infections, its use needs to be carefully weighed and evaluated in terms of the potential risk of severe side effects and the need for disease prevention.</p>
+</sec>
+<sec disp-level="3" id="s0004-s2001-s3002">
+<title>JYNNEOS</title>
+<p>JYNNEOS is a non-replicative vaccine made from modified live Ankara vaccinia virus. The Danish Bavarian Nordic Company prepared this vaccine after more than 570 passages for viral reduction and six rounds of plaque purification. Its safety and immunogenicity have been dramatically improved with the aim of treating MPXV infections and preventing smallpox. This vaccine has been approved in the United States and Europe. Unlike ACAM2000 and JYNNEOS, these vaccinators do not produce live viruses; therefore, they are safer for use in individuals with poor immune function. However, individuals with poor immune function may have weak protection against JYNNEOS vaccination than healthy people because of their compromised/reduced immune system. In a clinical trial, JYNNEOS reached a peak in immune protection 14 d after the second subcutaneous injection, with a vaccination interval of 28 d [<xref rid="cit0053" ref-type="bibr">53</xref>,<xref rid="cit0055" ref-type="bibr">55</xref>]. MPXV-neutralizing antibodies were detected in vivo after inoculation with the JYNNEOS vaccine. However, some vaccinators may experience mild adverse reactions, such as tachycardia, palpitations, redness, swelling, pain, and itching at the injection site, which may occasionally be accompanied by fever. Severe allergic reactions are relatively rare [<xref rid="cit0056" ref-type="bibr">56–60</xref>]. Although JYNNEOS appears to be a safer choice for the current mpox epidemic, it efficacy and durability remain unknown. According to previous studies, the vaccine efficacy rate was approximately 85%, which requires further research and monitoring [<xref rid="cit0040" ref-type="bibr">40</xref>,<xref rid="cit0061" ref-type="bibr">61</xref>,<xref rid="cit0062" ref-type="bibr">62</xref>]. Therefore, when using the JYNNEOS vaccine, especially in individuals with cardiovascular disease or other potential risks, close monitoring and evaluation are required to ensure a balance between safety and effectiveness.</p>
+</sec>
+<sec disp-level="3" id="s0004-s2001-s3003">
+<title>LC16m8</title>
+<p>LC16m8 is a minimum replication-attenuated live vaccine that was developed in Japan in the 1970s. The vaccine was officially licenced by Japanese regulatory authorities in 1980 and is currently being produced by Kaketsuken (Kumamoto, Japan) [<xref rid="cit0040" ref-type="bibr">40</xref>]. The active ingredient of LC16m8 was derived from the Lister/Elstree strain of cowpox virus. This is mainly caused by a frameshift mutation in the extracellular envelope viral particle antigen B5R, which leads to the expression of a truncated protein, thereby weakening the virulence and replication abilities of the strain [<xref rid="cit0063" ref-type="bibr">63–65</xref>]. Previous animal models have shown that pre-exposure to the LC16m8 vaccine can prevent symptomatic MPXV infection, with a protective effect lasting up to 12 months. For animals with immune dysfunction/deficiency, LC16m8 does not cause severe vaccine-related adverse events, such as progressive cowpox, making it safer than the Dryvax/List vaccine. Post-exposure vaccination can improve clinical manifestations. Human clinical trials have shown that the serum positivity rate for MPXV 30 d after LC16m8 vaccination was 100%. Although the neutralizing titre was lower than that of the Dryvax vaccine, it induced a strong cellular immune response with a higher trend of lymphocyte proliferation than Dryvax and no serious adverse events occurred [<xref rid="cit0041" ref-type="bibr">41</xref>,<xref rid="cit0066" ref-type="bibr">66</xref>]. Large-scale vaccinations in the 1970s did not result in serious adverse events. However, some vaccinated individuals may experience mild-to-moderate adverse events such as pain and redness at the injection site. There may be limitations or increased risks for individuals with poor immune function and some patients with atopic dermatitis [<xref rid="cit0046" ref-type="bibr">46</xref>]. However, the production and storage of LC16m8 require highly specialized facilities and technology, which may limit its promotion and application in resource-scarce areas. Therefore, when choosing a vaccine, comprehensively considering the health status and medical history of an individual is necessary to ensure their safety and health.</p>
+</sec>
+<sec disp-level="3" id="s0004-s2001-s3004">
+<title>Genetically engineered vaccines</title>
+<p>Many studies have focused on developing genetically engineered vaccines. One vaccine, which combines the VACV LIR and A33R genes, showed significant protection in mice. In further studies, the protective effects of vaccines containing the A27L and B5R genes were explored in mice. The results showed that the effects of these vaccines were consistent with previous research results [<xref rid="cit0067" ref-type="bibr">67</xref>]. Subsequently, these four genes were combined and a combination vaccine was administered to rhesus monkeys. Research has shown that this four-gene combination vaccine can trigger an antibody response to the homologous protein of MPXV, demonstrating the potential of multigene vaccines to prevent mpox [<xref rid="cit0068" ref-type="bibr">68</xref>]. Hooper et al. developed a DNA vaccine targeting four known vaccinia virus genes (L1R, A27L, A33R, and B5R) and administered it to rhesus monkeys before exposure to mpox. They found that, although single-gene vaccines can help monkeys survive, they cannot effectively protect them from mpox, possibly because of insufficient antibody production to neutralize the virus. However, when these four genes were included in the vaccine, their protective effect was significantly improved, and the virus was not detected in the oral secretions of the monkeys. These results support the critical role of multicomponent vaccine-antigen mixtures in the prevention and treatment of infection with smallpox viruses. Simultaneously, Hirao et al. conducted relevant research and established experimental groups of eight DNA-encoded antigens, including A4L, A27L, A33R, A56R, B5R, F9L, H3L, and L1R. They found that five of these antigens produced high-level antibody reactions in macaques, which is consistent with the results of Hooper et al. [<xref rid="cit0069" ref-type="bibr">69</xref>]. Furthermore, vaccines against mpox are under active development, such as mRNA vaccines targeting MPXV (e.g. BNT166a and mrNA-1769) developed by BioNTech, Moderna, and Wuhan Institute of Virology; these vaccines are in the early stages of development and have shown great potential for controlling future mpox transmission [<xref rid="cit0070" ref-type="bibr">70</xref>]. In summary, these studies provide new directions for the development of effective mpox vaccines.</p>
+</sec>
+</sec>
+<sec disp-level="2" id="s0004-s2002">
+<title>Therapeutic effect of antiviral drugs</title>
+<p>For patients with MPXV infection, the CDC recommends the use of tecovirimat (also known as TPOXX or ST-246), cidofovir, brinciclovir, and varicella immunoglobulin intravenous injection (VIGIV). Because tecovirimat, cidofovir, and brinciclovir are genetically similar to members of the orthopoxvirus family, they show potential effectiveness against orthopoxviruses (including MPXV) [<xref rid="cit0069" ref-type="bibr">69</xref>,<xref rid="cit0071" ref-type="bibr">71</xref>]. Recent studies have found that VIGIV can be used to treat serious complications caused by vaccinia vaccines, such as generalized vaccinia and vaccinia eczema, and is suitable for patients with mpox infections who have poor immune function. Although clinical data supporting human mpox infections is lacking, given the restrictions on vaccination and contraindications of some patients, these drugs have become a critical choice in emergency treatment, especially when disease symptoms cannot be effectively alleviated after mpox vaccination [<xref rid="cit0072" ref-type="bibr">72</xref>].</p>
+<sec disp-level="3" id="s0004-s2002-s3001">
+<title>Tekverimat (TPOXX/ST-246)</title>
+<p>Tecovirimat is an oral antiviral drug that has been developed by SIGA Technologies and approved by the FDA for smallpox treatment. The European Drug Administration has approved its use for the treatment of infections caused by other orthopoxviruses. It can effectively block further transmission of the virus in the host by inhibiting the function of the envelope protein, VP37, of the orthopoxviruses and preventing the release of viral particles. This drug is administered orally or intravenously. For adults and children weighing at least 3 kg, the oral dose is 6 mg administered twice daily for 14 consecutive days. The intravenous injection dose is adjusted according to the body weight of adult patients [<xref rid="cit0073" ref-type="bibr">73</xref>,<xref rid="cit0074" ref-type="bibr">74</xref>]. The therapeutic efficacies of the smallpox vaccine ACAM2000 and tecovirimat administered alone or in combination, starting on day 3 post-infection, were compared in a cynomolgus macaque model of lethal mpox viral infection. Post-exposure administration of ACAM2000 alone did not protect against severe mpox disease or mortality. In contrast, post-exposure treatment with tecovirimat, alone or in combination with ACAM2000, provided full protection [<xref rid="cit0075" ref-type="bibr">75</xref>]. However, its shortcomings and limitations cannot be ignored, such as insufficient treatment data for human mpox infection and possible side effects, such as headache, nausea, abdominal pain, vomiting, and other gastrointestinal discomfort, as well as reactions at the injection site. In addition, although it has been approved for clinical use, its practical application is limited due to cost and accessibility [<xref rid="cit0076" ref-type="bibr">76</xref>].</p>
+</sec>
+<sec disp-level="3" id="s0004-s2002-s3002">
+<title>Cidofovir</title>
+<p>Cidofovir is a broad-spectrum antiviral drug with an active form of a 5’- diphosphate metabolite that mainly acts by inhibiting DNA polymerase replication. Thus, cidofovir is effective against HIV, cowpox, mpox, and smallpox infections. In terms of usage, this drug is mainly administered through local and intravenous injections, with a recommended dose of 5 mg/kg for intravenous injection. Common side effects include congenital disability, neutropenia, nausea, and muscle pain [<xref rid="cit0075" ref-type="bibr">75</xref>,<xref rid="cit0077" ref-type="bibr">77</xref>,<xref rid="cit0078" ref-type="bibr">78</xref>]. Studies have shown that cidofovir can effectively reduce lesion formation and mortality in experimental animal models, especially when used as a second-line treatment for severe cowpox. In addition, cidofovir can limit the production of inflammatory cytokines and chemokines in experimental animals, thereby further controlling the severity of viral infection. However, cidofovir may cause nephrotoxicity when administered intravenously; therefore, renal function must be closely monitored and appropriate dose adjustments must be made to reduce the risk of this side effect [<xref rid="cit0072" ref-type="bibr">72</xref>,<xref rid="cit0073" ref-type="bibr">73</xref>,<xref rid="cit0078" ref-type="bibr">78</xref>]. Cidofovir has shown significant potential for treating viral infections, particularly in immunocompromised individuals or cases of severe infections. However, its side effects and insufficient clinical data limit its application. Further research and clinical validation are needed to improve its role in the treatment of mpox and other diseases.</p>
+</sec>
+<sec disp-level="3" id="s0004-s2002-s3003">
+<title>Brinciclovir</title>
+<p>Brincidofovir, also known as CMX001, inhibits MPXV replication by phosphorylating its active metabolite, cidofovir diphosphate. It is a lipid conjugate of cidofovir and functions as a diphosphate prodrug that explicitly targets DNA viruses by selectively inhibiting viral DNA polymerase activity [<xref rid="cit0072" ref-type="bibr">72</xref>,<xref rid="cit0073" ref-type="bibr">73</xref>,<xref rid="cit0076" ref-type="bibr">76</xref>]. Brincidofovir is available for oral consumption in the form of 100 mg tablets or a 10 mg/mL oral suspension, and is typically administered once every alternate week. Recent studies have shown that some patients experience adverse reactions due to elevated liver enzymes after treatment with weekly oral doses of 200 mg brincidofovir, leading to non-completion of the entire treatment course. Furthermore, gastrointestinal symptoms including diarrhoea, vomiting, and abdominal pain have been linked to its use [<xref rid="cit0074" ref-type="bibr">74</xref>]. Brincidofovir has demonstrated significant therapeutic potential in various animal models of MPXV, suggesting that it may be an effective treatment for MPXV infections. Additionally, Parker et al. showed that a combined treatment of first- and second-generation vaccines and brincidofovir reduced the severity of vaccine-related lesions. In the case of post-exposure prevention, the combined administration of brincidofovir and vaccination should be considered as the first reaction of individuals with uncertain exposure status to a smallpox emergency or as a means to reduce the incidence and severity of vaccine-related adverse events [<xref rid="cit0079" ref-type="bibr">79</xref>]. Despite its promising performance in animal models, clinical implementation presents several challenges and constraints. For instance, the elevation of liver enzymes and other gastrointestinal adverse reactions in clinical trials necessitate close monitoring and management. Additionally, owing to safety concerns related to drug accumulation, brincidofovir is contraindicated in immunocompromised individuals, pregnant women, and neonates [<xref rid="cit0080" ref-type="bibr">80</xref>,<xref rid="cit0081" ref-type="bibr">81</xref>].</p>
+</sec>
+<sec disp-level="3" id="s0004-s2002-s3004">
+<title>VIGIV</title>
+<p>VIGIV is a hyperimmunoglobulin used to treat the complications of vaccination against cowpox. It originates from plasma and contains high titres of cowpox virus-specific IgG antibodies, which are used to neutralize viral particles, thereby reducing viraemia and mortality [<xref rid="cit0082" ref-type="bibr">82</xref>]. Studies have shown that VIGIV can significantly reduce viraemia and mortality rates by 30%–40%. VIGIV is usually used to treat serious complications that may occur after vaccination against cowpox, such as progressive cowpox, systemic cowpox, cowpox dermatitis, and eye infections induced by the cowpox virus. In addition, prophylactic treatment with VIGIV can be considered if immunodeficient individuals with severely impaired T-cell function have a history of exposure to the cowpox virus [<xref rid="cit0073" ref-type="bibr">73</xref>,<xref rid="cit0076" ref-type="bibr">76</xref>]. Furthermore, VIGIV has shown successful application in some cases, significantly reducing the severity and mortality rate of eye infections caused by the cowpox virus [<xref rid="cit0072" ref-type="bibr">72</xref>]. However, this drug has some drawbacks such as potential effects on blood sugar and insulin levels, and caution should be exercised in patients with renal insufficiency [<xref rid="cit0080" ref-type="bibr">80</xref>]. In addition, although VIGIV has been approved for cowpox treatment, its widespread use against other smallpox viral infections, such as mpox, lacks sufficient clinical data. Further research is needed to verify its effectiveness and safety in these viral infections.</p>
+</sec>
+</sec>
+</sec>
+<sec disp-level="1" id="s0005">
+<title>Conclusions</title>
+<p>With continuous changes in the environment and human activities, individuals have significantly increased opportunities to come in contact with potential sources of infection, leading to a rapid increase in the incidence of mpoxes. With the extension and increase in the mpox transmission chain, genetic variation of the MPXV continues, which may further enhance its transmissibility, toxicity, and pathogenicity. Therefore, vigilance should be maintained when mpox continues to recur worldwide. Outbreaks of potential diseases are often caused by neglecting the disease in its early stages, and every outbreak of a significant disease has an indelible impact on various parts of the world, posing a significant threat to human health. Many questions remain regarding human diseases, animal hosts, viruses, and their environments, and more effective prevention and control methods are required. Currently, few approved vaccines are available against mpox, and the specific mechanisms of action of effective antiviral drugs require further investigation. Therefore, there is an urgent need to accelerate the development of novel vaccines and antiviral agents. In addition, implementing more robust preventive measures and reliable diagnostic tools to identify mpox and control the further spread of the virus is necessary.</p>
+</sec>
+</body>
+<back>
+<ack>
+<title>Acknowledgements</title>
+<p>We thank Taylor &amp; Francis Group (www. Taylor &amp; Francis Group.com) for linguistic assistance and pre-submission expert review.</p>
+</ack>
+<sec sec-type="COI-statement" disp-level="1" id="s0006">
+<title>Disclosure statement</title>
+<p>No potential conflict of interest was reported by the author(s).</p>
+</sec>
+<sec disp-level="1" id="s0007">
+<title>Author contributions statement</title>
+<p>Conception and design of study: W.S. Hou, N. Wu, C.H. Jin; Acquisition of data: W.S. Hou, Y.Z. Liu, Y.J. Tang; Data analysis and/or interpretation: W.S. Hou, Q. Quan, Y.H. Luo; Drafting of manuscript and/or critical revision: W.S. Hou, C.H. Jin; Approval of final version of manuscript: W.S. Hou, N. Wu, Y.Z. Liu, Y.J. Tang, Q. Quan, Y.H. Luo, and C.H. Jin. All authors have read and approved the final manuscript.</p>
+</sec>
+<sec sec-type="data-availability" disp-level="1" id="s0008">
+<title>Data Availability statement</title>
+<p>Data sharing does not apply to this article, as no new data were created or analysed in this study.</p>
+</sec>
+<ref-list>
+<title>References</title>
+<ref id="cit0001">
+<label>[1]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>McCarthy</surname>
+<given-names>MW.</given-names>
+</string-name>
+</person-group>
+<article-title>Recent advances in the diagnosis monkeypox: implications for public health</article-title>. <source>Expert Rev Mol Diagn</source>. <year>2022</year>;<volume>22</volume>(<issue>7</issue>):<fpage>739</fpage>–<lpage>14</lpage>. doi: <pub-id pub-id-type="doi">10.1080/14737159.2022.2116979</pub-id>
+<pub-id pub-id-type="pmid">35997157</pub-id>
+<pub-id pub-id-type="pmcid">PMC9491073</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0002">
+<label>[2]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Bunge</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hoet</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>L</given-names>
+</string-name>, et al</person-group>. <article-title>The changing epidemiology of human monkeypox-A potential threat? A systematic review</article-title>. <source>PLOS Negl Trop Dis</source>. <year>2022</year>;<volume>16</volume>(<issue>2</issue>):<fpage>e0010141</fpage>. doi: <pub-id pub-id-type="doi">10.1371/journal.pntd.0010141</pub-id>
+<pub-id pub-id-type="pmid">35148313</pub-id>
+<pub-id pub-id-type="pmcid">PMC8870502</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0003">
+<label>[3]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Kumar</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Acharya</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gendelman</surname>
+<given-names>HE</given-names>
+</string-name>, et al</person-group>. <article-title>The 2022 outbreak and the pathobiology of the monkeypox virus</article-title>. <source>J Autoimmun</source>. <year>2022</year>;<volume>131</volume>:<fpage>102855</fpage>. doi: <pub-id pub-id-type="doi">10.1016/j.jaut.2022.102855</pub-id>
+<pub-id pub-id-type="pmid">35760647</pub-id>
+<pub-id pub-id-type="pmcid">PMC9534147</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0004">
+<label>[4]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Hutson</surname>
+<given-names>CL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nakazawa</surname>
+<given-names>YJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Self</surname>
+<given-names>J</given-names>
+</string-name>, et al</person-group>. <article-title>Laboratory investigations of African pouched rats (Cricetomys gambianus) as a potential reservoir host species for monkeypox virus</article-title>. <source>PLOS Negl Trop Dis</source>. <year>2015</year>;<volume>9</volume>(<issue>10</issue>):<fpage>e0004013</fpage>. doi: <pub-id pub-id-type="doi">10.1371/journal.pntd.0004013</pub-id>
+<pub-id pub-id-type="pmid">26517724</pub-id>
+<pub-id pub-id-type="pmcid">PMC4627651</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0005">
+<label>[5]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Piparva</surname>
+<given-names>KG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fichadiya</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Joshi</surname>
+<given-names>T</given-names>
+</string-name>, et al</person-group>. <article-title>Monkeypox: From emerging trends to therapeutic concerns</article-title>. <source>Cureus</source>. <year>2024</year>;<volume>16</volume>(<issue>4</issue>):<fpage>e58866</fpage>. doi: <pub-id pub-id-type="doi">10.7759/cureus.58866</pub-id>
+<pub-id pub-id-type="pmid">38800170</pub-id>
+<pub-id pub-id-type="pmcid">PMC11116278</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0006">
+<label>[6]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Cabanillas</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Valdelvira</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ca</surname>
+<given-names>A</given-names>
+</string-name>
+</person-group>. <article-title>Monkeypox outbreak in Europe, UK, North America, and Australia: A changing trend of a zoonotic disease</article-title>. <source>Allergy</source>. <year>2022</year>;<volume>77</volume>(<issue>8</issue>):<fpage>2284</fpage>–<lpage>2286</lpage>. doi: <pub-id pub-id-type="doi">10.1111/all.15393</pub-id>
+<pub-id pub-id-type="pmid">35645141</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0007">
+<label>[7]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Hutson</surname>
+<given-names>CL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kondas</surname>
+<given-names>AV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mauldin</surname>
+<given-names>MR</given-names>
+</string-name>, et al</person-group>. <article-title>Pharmacokinetics and efficacy of a potential smallpox therapeutic, brincidofovir, in a lethal monkeypox virus animal model</article-title>. <source>mSphere</source>. <year>2021</year>;<volume>6</volume>(<issue>1</issue>):<fpage>e00927</fpage>–<lpage>20</lpage>. doi: <pub-id pub-id-type="doi">10.1128/mSphere.00927-20</pub-id>
+<pub-id pub-id-type="pmid">33536322</pub-id>
+<pub-id pub-id-type="pmcid">PMC7860987</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0008">
+<label>[8]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Alakunle</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moens</surname>
+<given-names>U</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nchinda</surname>
+<given-names>G</given-names>
+</string-name>, et al</person-group>. <article-title>Monkeypox Virus in Nigeria: Infection biology, epidemiology, and evolution</article-title>. <source>Viruses</source>. <year>2020</year>;<volume>12</volume>(<issue>11</issue>):<fpage>1257</fpage>. doi: <pub-id pub-id-type="doi">10.3390/v12111257</pub-id>
+<pub-id pub-id-type="pmid">33167496</pub-id>
+<pub-id pub-id-type="pmcid">PMC7694534</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0009">
+<label>[9]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Schwartz</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pittman</surname>
+<given-names>PR</given-names>
+</string-name>
+</person-group>. <article-title>Mpox (Monkeypox) in pregnancy: viral clade differences and their associations with varying obstetrical and fetal outcomes</article-title>. <source>Viruses</source>. <year>2023</year>;<volume>15</volume>(<issue>8</issue>):<fpage>1649</fpage>. doi: <pub-id pub-id-type="doi">10.3390/v15081649</pub-id>
+<pub-id pub-id-type="pmid">37631992</pub-id>
+<pub-id pub-id-type="pmcid">PMC10458075</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0010">
+<label>[10]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Agarwal</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shukla</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bhatia</surname>
+<given-names>A</given-names>
+</string-name>, et al</person-group>. <article-title>Comparative genome analysis reveals driving forces behind monkeypox virus evolution and sheds light on the role of ATC trinucleotide motif</article-title>. <source>Virus Evol</source>. <year>2024</year>;<volume>10</volume>(<issue>1</issue>):<fpage>veae043</fpage>. doi: <pub-id pub-id-type="doi">10.1093/ve/veae043</pub-id>
+<pub-id pub-id-type="pmid">38827420</pub-id>
+<pub-id pub-id-type="pmcid">PMC11141602</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0011">
+<label>[11]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Monzón</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Varona</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Negredo</surname>
+<given-names>A</given-names>
+</string-name>, et al</person-group>. <article-title>Monkeypox virus genomic accordion strategies</article-title>. <source>Nat Commun</source>. <year>2024</year>;<volume>15</volume>(<issue>1</issue>):<fpage>3059</fpage>. doi: <pub-id pub-id-type="doi">10.1038/s41467-024-46949-7</pub-id>
+<pub-id pub-id-type="pmid">38637500</pub-id>
+<pub-id pub-id-type="pmcid">PMC11026394</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0012">
+<label>[12]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Hussein</surname>
+<given-names>MH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mohamad</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dhakal</surname>
+<given-names>S</given-names>
+</string-name>, et al</person-group>. <article-title>Cellulitis or Lymphadenopathy: A challenging monkeypox virus infection case</article-title>. <source>Cureus</source>. <year>2023</year>;<volume>15</volume>(<issue>6</issue>):<fpage>e40008</fpage>. doi: <pub-id pub-id-type="doi">10.7759/cureus.40008</pub-id>
+<pub-id pub-id-type="pmid">37416038</pub-id>
+<pub-id pub-id-type="pmcid">PMC10322260</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0013">
+<label>[13]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Watanabe</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kimura</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hashimoto</surname>
+<given-names>R</given-names>
+</string-name>, et al</person-group>. <article-title>Virological characterization of the 2022 outbreak-causing monkeypox virus using human keratinocytes and colon organoids</article-title>. <source>J Med Virol</source>. <year>2023</year>;<volume>95</volume>(<issue>6</issue>):<fpage>e28827</fpage>. doi: <pub-id pub-id-type="doi">10.1002/jmv.28827</pub-id>
+<pub-id pub-id-type="pmid">37278443</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0014">
+<label>[14]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Shan</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tang</surname>
+<given-names>X</given-names>
+</string-name>, et al</person-group>. <article-title>Molecular evolution of protein sequences and codon usage in monkeypox viruses</article-title>. <source>Genomics, Proteomics Bioinf</source>. <year>2024</year>;<volume>22</volume>(<issue>1</issue>):<fpage>qzad003</fpage>. doi: <pub-id pub-id-type="doi">10.1093/gpbjnl/qzad003</pub-id>
+<pub-id pub-id-type="pmcid">PMC11425058</pub-id>
+<pub-id pub-id-type="pmid">38862422</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0015">
+<label>[15]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Okwor</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mbala</surname>
+<given-names>PK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Evans</surname>
+<given-names>DH</given-names>
+</string-name>, et al</person-group>. <article-title>A contemporary review of clade-specific virological differences in monkeypox viruses</article-title>. <source>Clin Microbiol Infect</source>. <year>2023</year>;<volume>29</volume>(<issue>12</issue>):<fpage>1502</fpage>–<lpage>1507</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.cmi.2023.07.011</pub-id>
+<pub-id pub-id-type="pmid">37507009</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0016">
+<label>[16]</label>
+<mixed-citation publication-type="webpage">
+<article-title>Mpox in the United States and around the world: Current Situation. CDC</article-title>. <source>2024</source>. [<comment>Available from:</comment>
+<ext-link ns0:href="https://www.cdc.gov/mpox/situation-summary/index.html" ext-link-type="uri">https://www.cdc.gov/mpox/situation-summary/index.html</ext-link>
+</mixed-citation>
+</ref>
+<ref id="cit0017">
+<label>[17]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Desingu</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nagarajan</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sundaresan</surname>
+<given-names>NR</given-names>
+</string-name>, et al</person-group>. <article-title>Unique tandem repeats in the inverted terminal repeat regions of monkeypox viruses</article-title>. <source>Microbiol Spectr</source>. <year>2023</year>;<volume>11</volume>(<issue>2</issue>):<fpage>e0319922</fpage>. doi: <pub-id pub-id-type="doi">10.1128/spectrum.03199-22</pub-id>
+<pub-id pub-id-type="pmid">36975806</pub-id>
+<pub-id pub-id-type="pmcid">PMC10101126</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0018">
+<label>[18]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Scarpa</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Azzena</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ciccozzi</surname>
+<given-names>A</given-names>
+</string-name>, et al</person-group>. <article-title>Update of the genetic variability of monkeypox virus clade iib lineage b.1</article-title>. <source>Microorganisms</source>. <year>2024</year>;<volume>12</volume>(<issue>9</issue>):<fpage>1874</fpage>. doi: <pub-id pub-id-type="doi">10.3390/microorganisms12091874</pub-id>
+<pub-id pub-id-type="pmid">39338547</pub-id>
+<pub-id pub-id-type="pmcid">PMC11434445</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0019">
+<label>[19]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Obermeier</surname>
+<given-names>PE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Plinke</surname>
+<given-names>CF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brinkmann</surname>
+<given-names>A</given-names>
+</string-name>, et al</person-group>. <article-title>Reemergence of clade iib-associated mpox, germany, july-december 2023</article-title>. <source>Emerg Infect Dis</source>. <year>2024</year>;<volume>30</volume>(<issue>7</issue>):<fpage>1416</fpage>–<lpage>1419</lpage>. doi: <pub-id pub-id-type="doi">10.3201/eid3007.240092</pub-id>
+<pub-id pub-id-type="pmid">38916584</pub-id>
+<pub-id pub-id-type="pmcid">PMC11210634</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0020">
+<label>[20]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Desingu</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rubeni</surname>
+<given-names>TP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nagarajan</surname>
+<given-names>K</given-names>
+</string-name>, et al</person-group>. <article-title>Molecular evolution of 2022 multi-country outbreak-causing monkeypox virus clade IIb. iScience</article-title>. <source>iScience</source>. <year>2024</year>;<volume>27</volume>(<issue>1</issue>):<fpage>108601</fpage>. doi: <pub-id pub-id-type="doi">10.1016/j.isci.2023.108601</pub-id>
+<pub-id pub-id-type="pmid">38188513</pub-id>
+<pub-id pub-id-type="pmcid">PMC10770499</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0021">
+<label>[21]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Srivastava</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kumar</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jain</surname>
+<given-names>S</given-names>
+</string-name>, et al</person-group>. <article-title>The global monkeypox (mpox) outbreak: acomprehensive review</article-title>. <source>Vaccines (Basel)</source>. <year>2023</year>;<volume>11</volume>(<issue>6</issue>):<fpage>1093</fpage>. doi: <pub-id pub-id-type="doi">10.3390/vaccines11061093</pub-id>
+<pub-id pub-id-type="pmid">37376482</pub-id>
+<pub-id pub-id-type="pmcid">PMC10303212</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0022">
+<label>[22]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Bruno</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Buccoliero</surname>
+<given-names>GB</given-names>
+</string-name>
+</person-group>. <article-title>Antivirals against Monkeypox (Mpox) in Humans: An Updated Narrative Review</article-title>. <source>Life (Basel)</source>. <year>2023</year>;<volume>13</volume>(<issue>10</issue>):<fpage>1969</fpage>. doi: <pub-id pub-id-type="doi">10.3390/life13101969</pub-id>
+<pub-id pub-id-type="pmid">37895350</pub-id>
+<pub-id pub-id-type="pmcid">PMC10608433</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0023">
+<label>[23]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Martínez-Fernández</surname>
+<given-names>DE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fernández-Quezada</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Casillas-Muñoz</surname>
+<given-names>FAG</given-names>
+</string-name>, et al</person-group>. <article-title>Human Monkeypox: A Comprehensive Overview of Epidemiology, Pathogenesis, Diagnosis, Treatment, and Prevention Strategies</article-title>. <source>Pathogens</source>. <year>2023</year>;<volume>12</volume>(<issue>7</issue>):<fpage>947</fpage>. doi: <pub-id pub-id-type="doi">10.3390/pathogens12070947</pub-id>
+<pub-id pub-id-type="pmid">37513794</pub-id>
+<pub-id pub-id-type="pmcid">PMC10384102</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0024">
+<label>[24]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Marziano</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guzzetta</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Longini</surname>
+<given-names>I</given-names>
+</string-name>, et al</person-group>. <article-title>Epidemiologic Quantities for Monkeypox Virus Clade I from Historical Data with Implications for Current Outbreaks, Democratic Republic of the Congo</article-title>. <source>Emerg Infect Dis</source>. <year>2024</year>;<volume>30</volume>(<issue>10</issue>):<fpage>2042</fpage>–<lpage>2046</lpage>. doi: <pub-id pub-id-type="doi">10.3201/eid3010.240665</pub-id>
+<pub-id pub-id-type="pmid">39255234</pub-id>
+<pub-id pub-id-type="pmcid">PMC11431919</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0025">
+<label>[25]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Wawina-Bokalanga</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Akil-Bandali</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kinganda-Lusamaki</surname>
+<given-names>E</given-names>
+</string-name>, et al</person-group>. <article-title>Co-circulation of monkeypox virus subclades Ia and Ib in Kinshasa Province, Democratic Republic of the Congo, July to August 2024</article-title>. <source>Euro Surveill</source>. <year>2024</year>;<volume>29</volume>(<issue>38</issue>): 2400592. doi: <pub-id pub-id-type="doi">10.2807/1560-7917.ES.2024.29.38.2400592</pub-id>
+<pub-id pub-id-type="pmcid">PMC11484285</pub-id>
+<pub-id pub-id-type="pmid">39301745</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0026">
+<label>[26]</label>
+<mixed-citation publication-type="journal">
+<article-title>WHO Director-General declares mpox outbreak a public health emergency of international concern</article-title>. <source>Saudi Med J</source>. <year>2024</year>;<volume>45</volume>(<issue>9</issue>):<fpage>1002</fpage>–<lpage>1003</lpage>. <ext-link ns0:href="https://www.who.int/news/item/14-08-2024-who-director-general-declares-mpox-outbreak-a-public-health-emergency-of-international-concern" ext-link-type="uri">https://www.who.int/news/item/14-08-2024-who-director-general-declares-mpox-outbreak-a-public-health-emergency-of-international-concern</ext-link>.<pub-id pub-id-type="pmid">39218470</pub-id>
+<pub-id pub-id-type="pmcid">PMC11376700</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0027">
+<label>[27]</label>
+<mixed-citation publication-type="webpage">
+<article-title>Mpox (Monkeypox) Outbreak: Global Trends</article-title>. <source>2024</source>. <comment>Available from:</comment>
+<ext-link ns0:href="https://worldhealthorg.shinyapps.io/mpx_global" ext-link-type="uri">https://worldhealthorg.shinyapps.io/mpx_global</ext-link>
+</mixed-citation>
+</ref>
+<ref id="cit0028">
+<label>[28]</label>
+<mixed-citation publication-type="webpage">
+<person-group person-group-type="author">
+<collab>WHO</collab>
+</person-group>. <article-title>Mpox 2024</article-title>. <comment>Available from:</comment>
+<ext-link ns0:href="https://www.who.int/news-room/fact-sheets/detail/mpox" ext-link-type="uri">https://www.who.int/news-room/fact-sheets/detail/mpox</ext-link>
+</mixed-citation>
+</ref>
+<ref id="cit0029">
+<label>[29]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Lu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xing</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>C</given-names>
+</string-name>, et al</person-group>. <article-title>Mpox (formerly monkeypox): pathogenesis, prevention, and treatment</article-title>. <source>Signal Transduct Target Ther</source>. <year>2023</year>;<volume>8</volume>(<issue>1</issue>):<fpage>458</fpage>. doi: <pub-id pub-id-type="doi">10.1038/s41392-023-01675-2</pub-id>
+<pub-id pub-id-type="pmid">38148355</pub-id>
+<pub-id pub-id-type="pmcid">PMC10751291</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0030">
+<label>[30]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Islam</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dutta</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rashid</surname>
+<given-names>R</given-names>
+</string-name>, et al</person-group>. <article-title>Pathogenicity and virulence of monkeypox at the human-animal-ecology interface</article-title>. <source>Virulence</source>. <year>2023</year>;<volume>14</volume>(<issue>1</issue>):<fpage>2186357</fpage>. doi: <pub-id pub-id-type="doi">10.1080/21505594.2023.2186357</pub-id>
+<pub-id pub-id-type="pmid">36864002</pub-id>
+<pub-id pub-id-type="pmcid">PMC10012937</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0031">
+<label>[31]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Lucena-Neto</surname>
+<given-names>FD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Falcão</surname>
+<given-names>LFM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vieira-Junior</surname>
+<given-names>AS</given-names>
+</string-name>, et al</person-group>. <article-title>Monkeypox Virus Immune Evasion and Eye Manifestation: Beyond Eyelid Implications</article-title>. <source>Viruses</source>. <year>2023</year>;<volume>15</volume>(<issue>12</issue>):<fpage>2301</fpage>. doi: <pub-id pub-id-type="doi">10.3390/v15122301</pub-id>
+<pub-id pub-id-type="pmid">38140542</pub-id>
+<pub-id pub-id-type="pmcid">PMC10747317</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0032">
+<label>[32]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Malik</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ahmed</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ahsan</surname>
+<given-names>O</given-names>
+</string-name>, et al</person-group>. <article-title>Monkeypox Virus: A Comprehensive Overview of Viral Pathology, Immune Response, and Antiviral Strategies</article-title>. <source>Vaccines (Basel)</source>. <year>2023</year>;<volume>11</volume>(<issue>8</issue>):<fpage>1345</fpage>. doi: <pub-id pub-id-type="doi">10.3390/vaccines11081345</pub-id>
+<pub-id pub-id-type="pmid">37631913</pub-id>
+<pub-id pub-id-type="pmcid">PMC10459537</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0033">
+<label>[33]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>He</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>C</given-names>
+</string-name>, et al</person-group>. <article-title>The Global Health Threat of Monkeypox Virus: Understanding Its Biology, Transmission, and Potential Therapeutic Interventions</article-title>. <source>Infect Drug Resist</source>. <year>2023</year> [<date-in-citation>cited 2023 <month>December</month>
+<day>21</day>
+</date-in-citation>];<volume>16</volume>:<fpage>7759</fpage>–<lpage>7766</lpage>. doi: <pub-id pub-id-type="doi">10.2147/IDR.S438725</pub-id>
+<pub-id pub-id-type="pmid">38146310</pub-id>
+<pub-id pub-id-type="pmcid">PMC10749784</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0034">
+<label>[34]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Nisar</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Saleem</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sapna</surname>
+<given-names>F</given-names>
+</string-name>, et al</person-group>. <article-title>A Narrative Review on the Monkeypox Virus: An Ongoing Global Outbreak Hitting the Non-Endemic Countries</article-title>. <source>Cureus</source>. <year>2023</year>;<volume>15</volume>(<issue>8</issue>):<fpage>e43322</fpage>. doi: <pub-id pub-id-type="doi">10.7759/cureus.43322</pub-id>
+<pub-id pub-id-type="pmid">37700987</pub-id>
+<pub-id pub-id-type="pmcid">PMC10493466</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0035">
+<label>[35]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Van Dijck</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hoff</surname>
+<given-names>NA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mbala-Kingebeni</surname>
+<given-names>P</given-names>
+</string-name>, et al</person-group>. <article-title>Emergence of mpox in the post-smallpox era-a narrative review on mpox epidemiology</article-title>. <source>Clin Microbiol Infect</source>. <year>2023</year>;<volume>29</volume>(<issue>12</issue>):<fpage>1487</fpage>–<lpage>1492</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.cmi.2023.08.008</pub-id>
+<pub-id pub-id-type="pmid">37574113</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0036">
+<label>[36]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Pastula</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tyler</surname>
+<given-names>KL</given-names>
+</string-name>
+</person-group>. <article-title>An Overview of Monkeypox Virus and Its Neuroinvasive Potential</article-title>. <source>Ann Neurol</source>. <year>2022</year>;<volume>92</volume>(<issue>4</issue>):<fpage>527</fpage>–<lpage>531</lpage>. doi: <pub-id pub-id-type="doi">10.1002/ana.26473</pub-id>
+<pub-id pub-id-type="pmid">35932225</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0037">
+<label>[37]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Zhu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Qin</surname>
+<given-names>H</given-names>
+</string-name>, et al</person-group>. <article-title>Exploring the key genomic variation in monkeypox virus during the 2022 outbreak</article-title>. <source>BMC Genom Data</source>. <year>2023</year>;<volume>24</volume>(<issue>1</issue>):<fpage>67</fpage>. doi: <pub-id pub-id-type="doi">10.1186/s12863-023-01171-0</pub-id>
+<pub-id pub-id-type="pmid">37968621</pub-id>
+<pub-id pub-id-type="pmcid">PMC10652487</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0038">
+<label>[38]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Subissi</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stefanelli</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rezza</surname>
+<given-names>G</given-names>
+</string-name>
+</person-group>. <article-title>Human mpox: global trends, molecular epidemiology and options for vaccination</article-title>. <source>Pathog Glob Health</source>. <year>2024</year>;<volume>118</volume>(<issue>1</issue>):<fpage>25</fpage>–<lpage>32</lpage>. doi: <pub-id pub-id-type="doi">10.1080/20477724.2023.2258641</pub-id>
+<pub-id pub-id-type="pmid">37715739</pub-id>
+<pub-id pub-id-type="pmcid">PMC10769137</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0039">
+<label>[39]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Rahmani</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bayat</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Farrokhi</surname>
+<given-names>M</given-names>
+</string-name>, et al</person-group>. <article-title>Monkeypox: A Comprehensive Review of Virology, Epidemiology, Transmission, Diagnosis, Prevention, Treatment, and Artificial Intelligence Applications</article-title>. <source>Arch Acad Emerg Med</source>. <year>2024</year>;<volume>12</volume>(<issue>1</issue>):<fpage>e70</fpage>. doi: <pub-id pub-id-type="doi">10.22037/aaem.v12i1.2491</pub-id>.<pub-id pub-id-type="pmid">39296520</pub-id>
+<pub-id pub-id-type="pmcid">PMC11408898</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0040">
+<label>[40]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Poland</surname>
+<given-names>GA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kennedy</surname>
+<given-names>RB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tosh</surname>
+<given-names>PK</given-names>
+</string-name>
+</person-group>. <article-title>Prevention of monkeypox with vaccines: a rapid review</article-title>. <source>Lancet Infect Dis</source>. <year>2022</year>;<volume>22</volume>(<issue>12</issue>):<fpage>e349</fpage>–<lpage>e358</lpage>. doi: <pub-id pub-id-type="doi">10.1016/S1473-3099(22)00574-6</pub-id>
+<pub-id pub-id-type="pmid">36116460</pub-id>
+<pub-id pub-id-type="pmcid">PMC9628950</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0041">
+<label>[41]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Luo</surname>
+<given-names>YH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cao</surname>
+<given-names>JL</given-names>
+</string-name>, et al</person-group>. <article-title>Monkeypox: An outbreak of a rare viral disease</article-title>. <source>J Microbiol Immunol Infect</source>. <year>2024</year>;<volume>57</volume>(<issue>1</issue>):<fpage>1</fpage>–<lpage>10</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.jmii.2023.12.006</pub-id>
+<pub-id pub-id-type="pmid">38177001</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0042">
+<label>[42]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Mitjà</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ogoina</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Titanji</surname>
+<given-names>BK</given-names>
+</string-name>, et al</person-group>. <article-title>Monkeypox</article-title>. <source>The Lancet</source>. <year>2023</year>;<volume>401</volume>(<issue>10370</issue>):<fpage>60</fpage>–<lpage>74</lpage>. doi: <pub-id pub-id-type="doi">10.1016/S0140-6736(22)02075-X</pub-id>
+<pub-id pub-id-type="pmcid">PMC9671644</pub-id>
+<pub-id pub-id-type="pmid">36403582</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0043">
+<label>[43]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Wellington</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dong</surname>
+<given-names>T</given-names>
+</string-name>
+</person-group>. <article-title>T cells are ready for the fight against monkeypox</article-title>. <source>Cell Host Microbe</source>. <year>2022</year>;<volume>30</volume>(<issue>12</issue>):<fpage>1653</fpage>–<lpage>1654</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.chom.2022.11.004</pub-id>
+<pub-id pub-id-type="pmid">36521439</pub-id>
+<pub-id pub-id-type="pmcid">PMC9749185</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0044">
+<label>[44]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Hatmal</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Al-Hatamleh</surname>
+<given-names>MAI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Olaimat</surname>
+<given-names>AN</given-names>
+</string-name>, et al</person-group>. <article-title>Comprehensive literature review of monkeypox</article-title>. <source>Emerg Microbes Infect</source>. <year>2022</year>
+<month>Dec</month>;<volume>11</volume>(<issue>1</issue>):<fpage>2600</fpage>–<lpage>2631</lpage>. doi: <pub-id pub-id-type="doi">10.1080/22221751.2022.2132882</pub-id>
+<pub-id pub-id-type="pmid">36263798</pub-id>
+<pub-id pub-id-type="pmcid">PMC9627636</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0045">
+<label>[45]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Alakunle</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kolawole</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Diaz-Cánova</surname>
+<given-names>D</given-names>
+</string-name>, et al</person-group>. <article-title>A comprehensive review of monkeypox virus and mpox characteristics</article-title>. <source>Front Cell Infect Microbiol</source>. <year>2024</year>;<volume>14</volume>:<fpage>1360586</fpage>. doi: <pub-id pub-id-type="doi">10.3389/fcimb.2024.1360586</pub-id>
+<pub-id pub-id-type="pmid">38510963</pub-id>
+<pub-id pub-id-type="pmcid">PMC10952103</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0046">
+<label>[46]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Sah</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Paul</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mohanty</surname>
+<given-names>A</given-names>
+</string-name>, et al</person-group>. <article-title>Monkeypox (Mpox) vaccines and their side effects: the other side of the coin</article-title>. <source>Int J Surg</source>. <year>2023</year>;<volume>109</volume>(<issue>2</issue>):<fpage>215</fpage>–<lpage>217</lpage>. doi: <pub-id pub-id-type="doi">10.1097/JS9.0000000000000142</pub-id>
+<pub-id pub-id-type="pmid">36799858</pub-id>
+<pub-id pub-id-type="pmcid">PMC10389550</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0047">
+<label>[47]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Rana</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Patel</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Agrawal</surname>
+<given-names>A</given-names>
+</string-name>, et al</person-group>. <article-title>Mpox vaccination in global perspective: priorities and challenges</article-title>. <source>Ann Med Surg (Lond)</source>. <year>2023</year>;<volume>85</volume>(<issue>5</issue>):<fpage>2243</fpage>–<lpage>2246</lpage>. doi: <pub-id pub-id-type="doi">10.1097/MS9.0000000000000550</pub-id>
+<pub-id pub-id-type="pmid">37228971</pub-id>
+<pub-id pub-id-type="pmcid">PMC10205209</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0048">
+<label>[48]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Natami</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gorgzadeh</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gholipour</surname>
+<given-names>A</given-names>
+</string-name>, et al</person-group>. <article-title>An overview on mRNA-based vaccines to prevent monkeypox infection</article-title>. <source>J Nanobiotechnology</source>. <year>2024</year>;<volume>22</volume>(<issue>1</issue>):<fpage>86</fpage>. doi: <pub-id pub-id-type="doi">10.1186/s12951-024-02355-1</pub-id>
+<pub-id pub-id-type="pmid">38429829</pub-id>
+<pub-id pub-id-type="pmcid">PMC10908150</pub-id>
+<related-article related-article-type="retraction-forward" ext-link-type="pmc" ns0:href="PMC11232192" />
+</mixed-citation>
+</ref>
+<ref id="cit0049">
+<label>[49]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Kandeel</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Morsy</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abd El-Lateef</surname>
+<given-names>HM</given-names>
+</string-name>, et al</person-group>. <article-title>Efficacy of the modified vaccinia Ankara virus vaccine and the replication-competent vaccine ACAM2000 in monkeypox prevention</article-title>. <source>Int Immunopharmacol</source>. <year>2023</year>;<volume>119</volume>:<fpage>110206</fpage>. doi: <pub-id pub-id-type="doi">10.1016/j.intimp.2023.110206</pub-id>
+<pub-id pub-id-type="pmid">37087871</pub-id>
+<pub-id pub-id-type="pmcid">PMC10120163</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0050">
+<label>[50]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Keckler</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Salzer</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Patel</surname>
+<given-names>N</given-names>
+</string-name>, et al</person-group>. <article-title>IMVAMUNE® and ACAM2000® Provide Different Protection against Disease When Administered Postexposure in an Intranasal Monkeypox Challenge Prairie Dog Model</article-title>. <source>Vaccines (Basel)</source>. <year>2020</year> [<date-in-citation>cited 2020 <month>July</month>
+<day>20</day>
+</date-in-citation>];<volume>8</volume>(<issue>3</issue>):<fpage>396</fpage>. doi: <pub-id pub-id-type="doi">10.3390/vaccines8030396</pub-id>
+<pub-id pub-id-type="pmid">32698399</pub-id>
+<pub-id pub-id-type="pmcid">PMC7565152</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0051">
+<label>[51]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Karim</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kwon</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Karim</surname>
+<given-names>MA</given-names>
+</string-name>, et al</person-group>. <article-title>Comprehensive update on the monkeypox outbreak</article-title>. <source>Front Microbiol</source>. <year>2022</year>;<volume>13</volume>:<fpage>1037583</fpage>. doi: <pub-id pub-id-type="doi">10.3389/fmicb.2022.1037583</pub-id>
+<pub-id pub-id-type="pmid">36439787</pub-id>
+<pub-id pub-id-type="pmcid">PMC9686369</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0052">
+<label>[52]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Hatch</surname>
+<given-names>GJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Graham</surname>
+<given-names>VA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bewley</surname>
+<given-names>KR</given-names>
+</string-name>, et al</person-group>. <article-title>Assessment of the protective effect of Imvamune and Acam2000 vaccines against aerosolized monkeypox virus in cynomolgus macaques</article-title>. <source>J Virol</source>. <year>2013</year>;<volume>87</volume>(<issue>14</issue>):<fpage>7805</fpage>–<lpage>7815</lpage>. doi: <pub-id pub-id-type="doi">10.1128/JVI.03481-12</pub-id>
+<pub-id pub-id-type="pmid">23658452</pub-id>
+<pub-id pub-id-type="pmcid">PMC3700201</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0053">
+<label>[53]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Ghosh</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chacko</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vallamkondu</surname>
+<given-names>J</given-names>
+</string-name>, et al</person-group>. <article-title>Clinical Strategies and Therapeutics for Human Monkeypox Virus: A Revised Perspective on Recent Outbreaks</article-title>. <source>Viruses</source>. <year>2023</year>;<volume>15</volume>(<issue>7</issue>):<fpage>1533</fpage>. doi: <pub-id pub-id-type="doi">10.3390/v15071533</pub-id>
+<pub-id pub-id-type="pmid">37515218</pub-id>
+<pub-id pub-id-type="pmcid">PMC10384767</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0054">
+<label>[54]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Wei</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fortman</surname>
+<given-names>J</given-names>
+</string-name>, et al</person-group>. <article-title>Coadministration of cidofovir and smallpox vaccine reduced vaccination side effects but interfered with vaccine-elicited immune responses and immunity to monkeypox</article-title>. <source>J Virol</source>. <year>2009</year>;<volume>83</volume>(<issue>2</issue>):<fpage>1115</fpage>–<lpage>1125</lpage>. doi: <pub-id pub-id-type="doi">10.1128/JVI.00984-08</pub-id>
+<pub-id pub-id-type="pmid">19004937</pub-id>
+<pub-id pub-id-type="pmcid">PMC2612404</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0055">
+<label>[55]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Guagliardo</surname>
+<given-names>SAJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kracalik</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carter</surname>
+<given-names>RJ</given-names>
+</string-name>, et al</person-group>. <article-title>Monkeypox Virus Infections After 2 Preexposure Doses of JYNNEOS Vaccine - United States, May 2022–May 2024</article-title>. <source>MMWR Morb Mortal Wkly Rep</source>. <year>2024</year>;<volume>73</volume>(<issue>20</issue>):<fpage>460</fpage>–<lpage>466</lpage>. doi: <pub-id pub-id-type="doi">10.15585/mmwr.mm7320a3</pub-id>
+<pub-id pub-id-type="pmid">38781111</pub-id>
+<pub-id pub-id-type="pmcid">PMC11115437</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0056">
+<label>[56]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Meo</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Al-Masri</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Klonoff</surname>
+<given-names>DC</given-names>
+</string-name>, et al</person-group>. <article-title>Comparison of Biological, Pharmacological Characteristics, Indications, Contraindications and Adverse Effects of JYNNEOS and ACAM2000 Monkeypox Vaccines</article-title>. <source>Vaccines (Basel)</source>. <year>2022</year>;<volume>10</volume>(<issue>11</issue>):<fpage>1971</fpage>. doi: <pub-id pub-id-type="doi">10.3390/vaccines10111971</pub-id>
+<pub-id pub-id-type="pmid">36423066</pub-id>
+<pub-id pub-id-type="pmcid">PMC9698380</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0057">
+<label>[57]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Shrestha</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mehta</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zahid</surname>
+<given-names>MJ</given-names>
+</string-name>, et al</person-group>. <article-title>Concerns over cardiovascular manifestations associated with monkeypox immunization: a literature review</article-title>. <source>Ann Med Surg (Lond)</source>. <year>2023</year>;<volume>85</volume>(<issue>6</issue>):<fpage>2797</fpage>–<lpage>2801</lpage>. doi: <pub-id pub-id-type="doi">10.1097/MS9.0000000000000861</pub-id>
+<pub-id pub-id-type="pmid">37363545</pub-id>
+<pub-id pub-id-type="pmcid">PMC10289523</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0058">
+<label>[58]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Kriss</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Boersma</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Martin</surname>
+<given-names>E</given-names>
+</string-name>, et al</person-group>. <article-title>Receipt of First and Second Doses of JYNNEOS Vaccine for Prevention of Monkeypox - United States, May 22-October 10, 2022</article-title>. <source>MMWR Morb Mortal Wkly Rep</source>. <year>2022</year>;<volume>71</volume>(<issue>43</issue>):<fpage>1374</fpage>–<lpage>1378</lpage>. doi: <pub-id pub-id-type="doi">10.15585/mmwr.mm7143e2</pub-id>
+<pub-id pub-id-type="pmid">36301741</pub-id>
+<pub-id pub-id-type="pmcid">PMC9620573</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0059">
+<label>[59]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Zaeck</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lamers</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Verstrepen</surname>
+<given-names>BE</given-names>
+</string-name>, et al</person-group>. <article-title>Low levels of monkeypox virus-neutralizing antibodies after MVA-BN vaccination in healthy individuals</article-title>. <source>Nat Med</source>. <year>2023</year>;<volume>29</volume>(<issue>1</issue>):<fpage>270</fpage>–<lpage>278</lpage>. doi: <pub-id pub-id-type="doi">10.1038/s41591-022-02090-w</pub-id>
+<pub-id pub-id-type="pmid">36257333</pub-id>
+<pub-id pub-id-type="pmcid">PMC9873555</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0060">
+<label>[60]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Priyamvada</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carson</surname>
+<given-names>WC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ortega</surname>
+<given-names>E</given-names>
+</string-name>, et al</person-group>. <article-title>Serological responses to the MVA-based JYNNEOS monkeypox vaccine in a cohort of participants from the Democratic Republic of Congo</article-title>. <source>Vaccine</source>. <year>2022</year>;<volume>40</volume>(<issue>50</issue>):<fpage>7321</fpage>–<lpage>7327</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.vaccine.2022.10.078</pub-id>
+<pub-id pub-id-type="pmid">36344361</pub-id>
+<pub-id pub-id-type="pmcid">PMC9635871</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0061">
+<label>[61]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Sah</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Humayun</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baig</surname>
+<given-names>E</given-names>
+</string-name>, et al</person-group>. <article-title>FDA’s authorized “JYNNEOS” vaccine for counteracting monkeypox global public health emergency; an update - correspondence</article-title>. <source>Int J Surg</source>. <year>2022</year>;<volume>107</volume>:<fpage>106971</fpage>. doi: <pub-id pub-id-type="doi">10.1016/j.ijsu.2022.106971</pub-id>
+<pub-id pub-id-type="pmid">36330988</pub-id>
+<pub-id pub-id-type="pmcid">PMC9617681</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0062">
+<label>[62]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Berry</surname>
+<given-names>MT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Khan</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schlub</surname>
+<given-names>TE</given-names>
+</string-name>, et al</person-group>. <article-title>Predicting vaccine effectiveness for mpox</article-title>. <source>Nat Commun</source>. <year>2024</year>;<volume>15</volume>(<issue>1</issue>):<fpage>3856</fpage>. doi: <pub-id pub-id-type="doi">10.1038/s41467-024-48180-w</pub-id>
+<pub-id pub-id-type="pmid">38719852</pub-id>
+<pub-id pub-id-type="pmcid">PMC11078999</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0063">
+<label>[63]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Saijo</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ami</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Suzaki</surname>
+<given-names>Y</given-names>
+</string-name>, et al</person-group>. <article-title>LC16m8, a highly attenuated vaccinia virus vaccine lacking expression of the membrane protein B5R, protects monkeys from monkeypox</article-title>. <source>J Virol</source>. <year>2006</year>;<volume>80</volume>(<issue>11</issue>):<fpage>5179</fpage>–<lpage>5188</lpage>. doi: <pub-id pub-id-type="doi">10.1128/JVI.02642-05</pub-id>
+<pub-id pub-id-type="pmid">16698998</pub-id>
+<pub-id pub-id-type="pmcid">PMC1472157</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0064">
+<label>[64]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Pischel</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Martini</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yu</surname>
+<given-names>N</given-names>
+</string-name>, et al</person-group>. <article-title>Vaccine effectiveness of 3rd generation mpox vaccines against mpox and disease severity: A systematic review and meta-analysis</article-title>. <source>Vaccine</source>. <year>2024</year>;<volume>42</volume>(<issue>25</issue>):<fpage>126053</fpage>. doi: <pub-id pub-id-type="doi">10.1016/j.vaccine.2024.06.021</pub-id>
+<pub-id pub-id-type="pmid">38906763</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0065">
+<label>[65]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Li</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ding</surname>
+<given-names>K</given-names>
+</string-name>, et al</person-group>. <article-title>The evolving epidemiology of monkeypox virus</article-title>. <source>Cytokine Growth Factor Rev</source>. <year>2022</year>;<volume>68</volume>:<fpage>1</fpage>–<lpage>12</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.cytogfr.2022.10.002</pub-id>
+<pub-id pub-id-type="pmid">36244878</pub-id>
+<pub-id pub-id-type="pmcid">PMC9547435</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0066">
+<label>[66]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Huang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mu</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>W</given-names>
+</string-name>
+</person-group>. <article-title>Monkeypox: epidemiology, pathogenesis, treatment and prevention</article-title>. <source>Signal Transduct Target Ther</source>. <year>2022</year>;<volume>7</volume>(<issue>1</issue>):<fpage>373</fpage>. doi: <pub-id pub-id-type="doi">10.1038/s41392-022-01215-4</pub-id>
+<pub-id pub-id-type="pmid">36319633</pub-id>
+<pub-id pub-id-type="pmcid">PMC9626568</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0067">
+<label>[67]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Hooper</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Custer</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Thompson</surname>
+<given-names>E</given-names>
+</string-name>
+</person-group>. <article-title>Four-gene-combination DNA vaccine protects mice against a lethal vaccinia virus challenge and elicits appropriate antibody responses in nonhuman primates</article-title>. <source>Virology</source>. <year>2003</year>;<volume>306</volume>(<issue>1</issue>):<fpage>181</fpage>–<lpage>195</lpage>. doi: <pub-id pub-id-type="doi">10.1016/s0042-6822(02)00038-7</pub-id>
+<pub-id pub-id-type="pmid">12620810</pub-id>
+<pub-id pub-id-type="pmcid">PMC9628742</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0068">
+<label>[68]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Hooper</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Thompson</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wilhelmsen</surname>
+<given-names>C</given-names>
+</string-name>, et al</person-group>. <article-title>Smallpox DNA vaccine protects nonhuman primates against lethal monkeypox</article-title>. <source>J Virol</source>. <year>2004</year>;<volume>78</volume>(<issue>9</issue>):<fpage>4433</fpage>–<lpage>4443</lpage>. doi: <pub-id pub-id-type="doi">10.1128/jvi.78.9.4433-4443.2004</pub-id>
+<pub-id pub-id-type="pmid">15078924</pub-id>
+<pub-id pub-id-type="pmcid">PMC387704</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0069">
+<label>[69]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Hirao</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Draghia-Akli</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Prigge</surname>
+<given-names>JT</given-names>
+</string-name>, et al</person-group>. <article-title>Multivalent smallpox DNA vaccine delivered by intradermal electroporation drives protective immunity in nonhuman primates against lethal monkeypox challenge</article-title>. <source>J Infect Dis</source>. <year>2011</year>;<volume>203</volume>(<issue>1</issue>):<fpage>95</fpage>–<lpage>102</lpage>. doi: <pub-id pub-id-type="doi">10.1093/infdis/jiq017</pub-id>
+<pub-id pub-id-type="pmid">21148501</pub-id>
+<pub-id pub-id-type="pmcid">PMC3086429</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0070">
+<label>[70]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Zinnah</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Uddin</surname>
+<given-names>MB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hasan</surname>
+<given-names>T</given-names>
+</string-name>, et al</person-group>. <article-title>The Re-Emergence of Mpox: Old Illness, Modern Challenges</article-title>. <source>Biomedicines</source>. <year>2024</year>;<volume>12</volume>(<issue>7</issue>):<fpage>1457</fpage>. doi: <pub-id pub-id-type="doi">10.3390/biomedicines12071457</pub-id>
+<pub-id pub-id-type="pmid">39062032</pub-id>
+<pub-id pub-id-type="pmcid">PMC11274818</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0071">
+<label>[71]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Sharma</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>KT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sharma</surname>
+<given-names>R</given-names>
+</string-name>
+</person-group>. <article-title>Emerging evidence on Monkeypox: resurgence, global burden, molecular insights, genomics and possible management</article-title>. <source>Front Cell Infect Microbiol</source>. <year>2023</year>;<volume>13</volume>:<fpage>1134712</fpage>. doi: <pub-id pub-id-type="doi">10.3389/fcimb.2023.1134712</pub-id>
+<pub-id pub-id-type="pmid">37153147</pub-id>
+<pub-id pub-id-type="pmcid">PMC10154632</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0072">
+<label>[72]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Rao</surname>
+<given-names>AK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schrodt</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Minhaj</surname>
+<given-names>FS</given-names>
+</string-name>, et al</person-group>. <article-title>Interim Clinical Treatment Considerations for Severe Manifestations of Mpox - United States, February 2023</article-title>. <source>MMWR Morbidity and Mortal Wkly report</source>. <year>2023</year>;<volume>72</volume>(<issue>9</issue>):<fpage>232</fpage>–<lpage>243</lpage>. doi: <pub-id pub-id-type="doi">10.15585/mmwr.mm7209a4</pub-id>
+<pub-id pub-id-type="pmcid">PMC9997665</pub-id>
+<pub-id pub-id-type="pmid">36862595</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0073">
+<label>[73]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Zovi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ferrara</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Langella</surname>
+<given-names>R</given-names>
+</string-name>, et al</person-group>. <article-title>Pharmacological Agents with Antiviral Activity against Monkeypox Infection</article-title>. <source>Int J Mol Sci</source>. <year>2022</year>;<volume>23</volume>(<issue>24</issue>):<fpage>15941</fpage>. doi: <pub-id pub-id-type="doi">10.3390/ijms232415941</pub-id>
+<pub-id pub-id-type="pmid">36555584</pub-id>
+<pub-id pub-id-type="pmcid">PMC9784635</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0074">
+<label>[74]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Asadi Noghabi</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rizk J</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Makkar</surname>
+<given-names>D</given-names>
+</string-name>, et al</person-group>. <article-title>Managing Monkeypox Virus Infections: A Contemporary Review</article-title>. <source>Iran J Med Sci</source>. <year>2024</year>;<volume>49</volume>(<issue>1</issue>):<fpage>1</fpage>–<lpage>9</lpage>. doi: <pub-id pub-id-type="doi">10.30476/IJMS.2022.96738.2837</pub-id>
+<pub-id pub-id-type="pmid">38322157</pub-id>
+<pub-id pub-id-type="pmcid">PMC10839137</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0075">
+<label>[75]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Berhanu</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Prigge</surname>
+<given-names>JT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Silvera</surname>
+<given-names>PM</given-names>
+</string-name>, et al</person-group>. <article-title>Treatment with the smallpox antiviral tecovirimat (ST-246) alone or in combination with ACAM2000 vaccination is effective as a postsymptomatic therapy for monkeypox virus infection</article-title>. <source>Antimicrob Agents Chemother</source>. <year>2015</year>;<volume>59</volume>(<issue>7</issue>):<fpage>4296</fpage>–<lpage>4300</lpage>. doi: <pub-id pub-id-type="doi">10.1128/AAC.00208-15</pub-id>
+<pub-id pub-id-type="pmid">25896687</pub-id>
+<pub-id pub-id-type="pmcid">PMC4468657</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0076">
+<label>[76]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Rizk</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lippi</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Henry</surname>
+<given-names>BM</given-names>
+</string-name>, et al</person-group>. <article-title>Prevention and Treatment of Monkeypox Drugs</article-title>. <source>Drugs</source>. <year>2022</year>;<volume>82</volume>(<issue>9</issue>):<fpage>957</fpage>–<lpage>963</lpage>. doi: <pub-id pub-id-type="doi">10.1007/s40265-022-01742-y</pub-id>
+<pub-id pub-id-type="pmid">35763248</pub-id>
+<pub-id pub-id-type="pmcid">PMC9244487</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0077">
+<label>[77]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Stafford</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rimmer</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gilchrist</surname>
+<given-names>M</given-names>
+</string-name>, et al</person-group>. <article-title>Use of cidofovir in a patient with severe mpox and uncontrolled HIV infection</article-title>. <source>Lancet Infect Dis</source>. <year>2023</year>;<volume>23</volume>(<issue>6</issue>):<fpage>e218</fpage>–<lpage>e226</lpage>. doi: <pub-id pub-id-type="doi">10.1016/S1473-3099(23)00044-0</pub-id>
+<pub-id pub-id-type="pmid">36773621</pub-id>
+<pub-id pub-id-type="pmcid">PMC9908088</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0078">
+<label>[78]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Sobral-Costas</surname>
+<given-names>TG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Escudero-Tornero</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Servera-Negre</surname>
+<given-names>G</given-names>
+</string-name>, et al</person-group>. <article-title>Human monkeypox outbreak: Epidemiological data and therapeutic potential of topical cidofovir in a prospective cohort study</article-title>. <source>J Am Acad Dermatol</source>. <year>2023</year>;<volume>88</volume>(<issue>5</issue>):<fpage>1074</fpage>–<lpage>1082</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.jaad.2022.10.043</pub-id>
+<pub-id pub-id-type="pmid">36455826</pub-id>
+<pub-id pub-id-type="pmcid">PMC9707642</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0079">
+<label>[79]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Parker</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Crump</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Foster</surname>
+<given-names>S</given-names>
+</string-name>, et al</person-group>. <article-title>Co-administration of the broad-spectrum antiviral, brincidofovir (CMX001), with smallpox vaccine does not compromise vaccine protection in mice challenged with ectromelia virus</article-title>. <source>Antiviral Res</source>. <year>2014</year>;<volume>111</volume>:<fpage>42</fpage>–<lpage>52</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.antiviral2014.08.003</pub-id>.<pub-id pub-id-type="pmid">25128688</pub-id>
+<pub-id pub-id-type="pmcid">PMC9533899</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0080">
+<label>[80]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Malik</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ahmad</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ahsan</surname>
+<given-names>O</given-names>
+</string-name>, et al</person-group>. <article-title>Recent Developments in Mpox Prevention and Treatment Options</article-title>. <source>Vaccines (Basel)</source>. <year>2023</year>;<volume>11</volume>(<issue>3</issue>):<fpage>500</fpage>. doi: <pub-id pub-id-type="doi">10.3390/vaccines11030500</pub-id>
+<pub-id pub-id-type="pmid">36992085</pub-id>
+<pub-id pub-id-type="pmcid">PMC10057056</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0081">
+<label>[81]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Niu</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liang</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ling</surname>
+<given-names>Q</given-names>
+</string-name>, et al</person-group>. <article-title>Insights into monkeypox pathophysiology, global prevalence, clinical manifestation and treatments</article-title>. <source>Front Immunol</source>. <year>2023</year>;<volume>14</volume>:<fpage>1132250</fpage>. doi: <pub-id pub-id-type="doi">10.3389/fimmu.2023.1132250</pub-id>
+<pub-id pub-id-type="pmid">37026012</pub-id>
+<pub-id pub-id-type="pmcid">PMC10070694</pub-id>
+</mixed-citation>
+</ref>
+<ref id="cit0082">
+<label>[82]</label>
+<mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<string-name name-style="western">
+<surname>Ajmera</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Goyal</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pandit</surname>
+<given-names>T</given-names>
+</string-name>, et al</person-group>. <article-title>Monkeypox - an emerging pandemic</article-title>. <source>IDCases</source>. <year>2022</year>;<volume>29</volume>:<fpage>e01587</fpage>. doi: <pub-id pub-id-type="doi">10.1016/j.idcr.2022.e01587</pub-id>
+<pub-id pub-id-type="pmid">35938150</pub-id>
+<pub-id pub-id-type="pmcid">PMC9352457</pub-id>
+</mixed-citation>
+</ref>
+</ref-list>
+</back>
+</article>
+</pmc-articleset>
