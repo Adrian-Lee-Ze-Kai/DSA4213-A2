@@ -9,15 +9,20 @@ class WordLMSeqDataset(Dataset):
       x = words[i : i+block_size]
       y = words[i+1 : i+block_size+1]
     """
-    def __init__(self, txt_path, block_size=32):
+    def __init__(self, txt_path, block_size=32, vocab=None, stoi=None, itos=None):
         with open(txt_path, "r", encoding="utf-8") as f:
             text = f.read()
         # Simple word tokenizer: split on whitespace and punctuation
         self.words = re.findall(r"\w+|[^\w\s]", text, re.UNICODE)
-        self.vocab = sorted(set(self.words))
-        self.stoi = {w: i for i, w in enumerate(self.vocab)}
-        self.itos = {i: w for w, i in self.stoi.items()}
-        self.data = np.array([self.stoi[w] for w in self.words], dtype=np.int64)
+        if vocab is None:
+            self.vocab = sorted(set(self.words))
+            self.stoi = {w: i for i, w in enumerate(self.vocab)}
+            self.itos = {i: w for w, i in self.stoi.items()}
+        else:
+            self.vocab = vocab
+            self.stoi = stoi
+            self.itos = itos
+        self.data = np.array([self.stoi.get(w, 0) for w in self.words], dtype=np.int64)
         self.block = block_size
 
     def __len__(self):
