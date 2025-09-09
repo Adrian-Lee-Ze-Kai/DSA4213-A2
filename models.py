@@ -7,10 +7,10 @@ class LSTMLanguageModel(nn.Module):
     def __init__(
         self,
         vocab_size=256,
-        emb_dim=128,        
-        hidden_dim=256,     
-        num_layers=1,
-        dropout=0.3
+        emb_dim=128,         
+        hidden_dim=256,       
+        num_layers=2,
+        dropout=0
     ):
         super().__init__()
         self.emb = nn.Embedding(vocab_size, emb_dim)
