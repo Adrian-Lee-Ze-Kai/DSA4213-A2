@@ -1,0 +1,1896 @@
+<pmc-articleset xmlns:ns0="http://www.w3.org/1999/xlink">
+<article article-type="case-report" xml:lang="en" dtd-version="1.4">
+<processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+<restricted-by>pmc</restricted-by>
+</processing-meta>
+<front>
+<journal-meta>
+<journal-id journal-id-type="nlm-ta">Int J Infect Dis</journal-id>
+<journal-id journal-id-type="iso-abbrev">Int J Infect Dis</journal-id>
+<journal-id journal-id-type="pmc-domain-id">4298</journal-id>
+<journal-id journal-id-type="pmc-domain">mpxelsevier</journal-id>
+<journal-title-group>
+<journal-title>International Journal of Infectious Diseases</journal-title>
+</journal-title-group>
+<issn pub-type="ppub">1201-9712</issn>
+<issn pub-type="epub">1878-3511</issn>
+<custom-meta-group>
+<custom-meta>
+<meta-name>pmc-is-collection-domain</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-collection-title</meta-name>
+<meta-value>Elsevier - PMC Mpox Collection</meta-value>
+</custom-meta>
+</custom-meta-group>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="pmcid">PMC10060859</article-id>
+<article-id pub-id-type="pmcid-ver">PMC10060859.1</article-id>
+<article-id pub-id-type="pmcaid">10060859</article-id>
+<article-id pub-id-type="pmcaiid">10060859</article-id>
+<article-id pub-id-type="pmid">37001797</article-id>
+<article-id pub-id-type="doi">10.1016/j.ijid.2023.03.047</article-id>
+<article-id pub-id-type="pii">S1201-9712(23)00126-1</article-id>
+<article-version article-version-type="pmc-version">1</article-version>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Case Report</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Prior viral infection determines the mode and severity of monkeypox virus</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" id="au0001">
+<name name-style="western">
+<surname>Hussain</surname>
+<given-names initials="H">Hussain</given-names>
+</name>
+<xref rid="aff0001" ref-type="aff">1</xref>
+</contrib>
+<contrib contrib-type="author" id="au0002">
+<name name-style="western">
+<surname>Paidas</surname>
+<given-names initials="MJ">Michael J.</given-names>
+</name>
+<xref rid="aff0002" ref-type="aff">2</xref>
+<xref rid="cor0001" ref-type="corresp">⁎</xref>
+</contrib>
+<contrib contrib-type="author" id="au0003">
+<name name-style="western">
+<surname>Fadel</surname>
+<given-names initials="A">Aya</given-names>
+</name>
+<xref rid="aff0003" ref-type="aff">3</xref>
+</contrib>
+<contrib contrib-type="author" id="au0004">
+<name name-style="western">
+<surname>Ramamoorthy</surname>
+<given-names initials="R">Rajalakshmi</given-names>
+</name>
+<xref rid="aff0002" ref-type="aff">2</xref>
+</contrib>
+<contrib contrib-type="author" id="au0005">
+<name name-style="western">
+<surname>Garcia</surname>
+<given-names initials="E">Efrain</given-names>
+</name>
+<xref rid="aff0001" ref-type="aff">1</xref>
+</contrib>
+<contrib contrib-type="author" id="au0006">
+<name name-style="western">
+<surname>Saadoon</surname>
+<given-names initials="ZF">Zahraa F.</given-names>
+</name>
+<xref rid="aff0004" ref-type="aff">4</xref>
+</contrib>
+<contrib contrib-type="author" id="au0007">
+<name name-style="western">
+<surname>Casmartino</surname>
+<given-names initials="E">Ekaterina</given-names>
+</name>
+<xref rid="aff0001" ref-type="aff">1</xref>
+</contrib>
+<contrib contrib-type="author" id="au0008">
+<name name-style="western">
+<surname>Mendez</surname>
+<given-names initials="L">Luis</given-names>
+</name>
+<xref rid="aff0001" ref-type="aff">1</xref>
+</contrib>
+<contrib contrib-type="author" id="au0009">
+<name name-style="western">
+<surname>Williams</surname>
+<given-names initials="EA">Erik A.</given-names>
+</name>
+<xref rid="aff0005" ref-type="aff">5</xref>
+</contrib>
+<contrib contrib-type="author" id="au0010">
+<name name-style="western">
+<surname>Ruiz-Cordero</surname>
+<given-names initials="R">Roberto</given-names>
+</name>
+<xref rid="aff0006" ref-type="aff">6</xref>
+</contrib>
+<contrib contrib-type="author" id="au0011">
+<name name-style="western">
+<surname>Jayakumar</surname>
+<given-names initials="AR">Arumugam R.</given-names>
+</name>
+<xref rid="aff0002" ref-type="aff">2</xref>
+</contrib>
+<aff id="aff0001">
+<label>1</label>Larkin Community Hospital, Department of Internal Medicine and Infectious Disease, Miami, USA</aff>
+<aff id="aff0002">
+<label>2</label>Department of Obstetrics, Gynecology and Reproductive Sciences, University of Miami Miller School of Medicine, Miami, USA</aff>
+<aff id="aff0003">
+<label>3</label>Department of Internal Medicine at Ocean Medical Center, New Jersey, USA</aff>
+<aff id="aff0004">
+<label>4</label>University of Baghdad School of Medicine, Baghdad, Iraq</aff>
+<aff id="aff0005">
+<label>5</label>Sylvester Comprehensive Cancer Center, and Jackson Memorial Hospitals, University of Miami Miller School of Medicine, Miami, USA</aff>
+<aff id="aff0006">
+<label>6</label>Pathology and Laboratory Medicine, University of Miami Miller School of Medicine, Miami, USA</aff>
+</contrib-group>
+<author-notes>
+<corresp id="cor0001">
+<label>⁎</label>Corresponding author: Tel: 305-689-8010</corresp>
+</author-notes>
+<pub-date pub-type="ppub">
+<month>6</month>
+<year>2023</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>30</day>
+<month>3</month>
+<year>2023</year>
+</pub-date>
+<volume>131</volume>
+<issue-id pub-id-type="pmc-issue-id">432350</issue-id>
+<fpage>95</fpage>
+<lpage>99</lpage>
+<history>
+<date date-type="received">
+<day>15</day>
+<month>2</month>
+<year>2023</year>
+</date>
+<date date-type="rev-recd">
+<day>22</day>
+<month>3</month>
+<year>2023</year>
+</date>
+<date date-type="accepted">
+<day>23</day>
+<month>3</month>
+<year>2023</year>
+</date>
+</history>
+<pub-history>
+<event event-type="pmc-release">
+<date>
+<day>30</day>
+<month>03</month>
+<year>2023</year>
+</date>
+</event>
+<event event-type="pmc-live">
+<date>
+<day>30</day>
+<month>03</month>
+<year>2023</year>
+</date>
+</event>
+<event event-type="pmc-last-change">
+<date iso-8601-date="2024-05-26 20:25:25.033">
+<day>26</day>
+<month>05</month>
+<year>2024</year>
+</date>
+</event>
+</pub-history>
+<permissions>
+<copyright-statement>© 2023 The Authors</copyright-statement>
+<copyright-year>2023</copyright-year>
+<license>
+<license-p>Elsevier has created a Monkeypox Information Center (https://www.elsevier.com/connect/monkeypox-information-center) in response to the declared public health emergency of international concern, with free information in English on the monkeypox virus. The Monkeypox Information Center is hosted on Elsevier Connect, the company's public news and information website. Elsevier hereby grants permission to make all its monkeypox related research that is available on the Monkeypox Information Center - including this research content - immediately available in publicly funded repositories, with rights for unrestricted research re-use and analyses in any form or by any means with acknowledgement of the original source. These permissions are granted for free by Elsevier for as long as the Monkeypox Information Center remains active.</license-p>
+</license>
+</permissions>
+<self-uri content-type="pmc-pdf" ns0:href="main.pdf" />
+<abstract id="abs0002">
+<sec>
+<title>Objectives</title>
+<p>Monkeypox (MPox) is a zoonotic virus in the genus <italic toggle="yes">Orthopoxvirus</italic>. It is transmitted from animal to human, and between humans<italic toggle="yes">.</italic> The clinical presentations vary, starting with a prodrome phase to different skin findings and systemic complications.</p>
+</sec>
+<sec>
+<title>Methods</title>
+<p>We present two distinctive cases of MPox co-infected with other viruses (hepatitis C virus [HCV] and HIV) by clinical and histopathological analysis.</p>
+</sec>
+<sec>
+<title>Results</title>
+<p>Surprisingly, the MPox patient with a history of HCV developed different skin pathological characteristics (less severe inflammatory changes than the classic patient with HCV or MPox alone). In contrast, patients living with HIV presenting with MPox had severe inflammatory cutaneous changes and distortion of the skin architecture.</p>
+</sec>
+<sec>
+<title>Conclusion</title>
+<p>Our findings strongly suggest that MPox infections likely occur in the presence of one or more previous other viral infections, and the prior infection with specific microbes determines the severity of MPox infection.</p>
+</sec>
+</abstract>
+<kwd-group id="keys0001">
+<title>Keywords</title>
+<kwd>Co-infection</kwd>
+<kwd>HCV</kwd>
+<kwd>HIV</kwd>
+<kwd>Homosexual</kwd>
+<kwd>Monkeypox</kwd>
+<kwd>Skin rash</kwd>
+</kwd-group>
+<custom-meta-group>
+<custom-meta>
+<meta-name>pmc-status-qastatus</meta-name>
+<meta-value>0</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-status-live</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-status-embargo</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-status-released</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-open-access</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-olf</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-manuscript</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-legally-suppressed</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-has-pdf</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-has-supplement</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-pdf-only</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-suppress-copyright</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-is-real-version</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-is-scanned-article</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-preprint</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-in-epmc</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+</custom-meta-group>
+</article-meta>
+</front>
+<body>
+<sec id="sec0001">
+<title>Introduction</title>
+<p id="para0008">Monkeypox (MPox) is a zoonotic disease that was initially isolated in a laboratory in Denmark (1956) from monkeys <xref rid="bib0001" ref-type="bibr">[1]</xref>, <xref rid="bib0002" ref-type="bibr">[2]</xref>, <xref rid="bib0003" ref-type="bibr">[3]</xref>. The first human case of MPox was diagnosed in the Democratic Republic of Congo in 1970 <xref rid="bib0001" ref-type="bibr">[1</xref>,<xref rid="bib0002" ref-type="bibr">2</xref>,<xref rid="bib0004" ref-type="bibr">4]</xref>. Various MPox outbreaks occurred since 1970 worldwide, with scattered cases of MPox in central and west Africa diagnosed between 1970-1980 <xref rid="bib0001" ref-type="bibr">[1]</xref>, <xref rid="bib0002" ref-type="bibr">[2]</xref>, <xref rid="bib0003" ref-type="bibr">[3]</xref>, <xref rid="bib0004" ref-type="bibr">[4]</xref>.</p>
+<p id="para0009">The most recent outbreak began in December 2021 and continuously spread in western countries, it is considered the largest one (up to 82,474 cases since June-December 2022, and 22 patients died in the USA) <xref rid="bib0002" ref-type="bibr">[2]</xref>, <xref rid="bib0003" ref-type="bibr">[3]</xref>, <xref rid="bib0004" ref-type="bibr">[4]</xref>. Further, this outbreak is commonly observed in men having sex with men, and it is a sexually related ailment <xref rid="bib0001" ref-type="bibr">[1</xref>,<xref rid="bib0005" ref-type="bibr">5</xref>,<xref rid="bib0006" ref-type="bibr">6]</xref>.</p>
+</sec>
+<sec id="sec0002">
+<title>Case presentation</title>
+<sec id="sec0003">
+<title>Case 1</title>
+<p id="para0010">A 41-year-old homeless male with chronic hepatitis C presented to the hospital with a distinct rash on his left upper extremity that started a few days before. The patient states the rash was painful and mildly itchy and spread to his upper arm and back. The rash (yellow arrows, <xref rid="fig0001" ref-type="fig">Figure 1</xref>
+a) was preceded by 2 days of fever, fatigue, and myalgia. The patient had sexual intercourse with a new male partner.<fig id="fig0001" position="float" orientation="portrait">
+<label>Figure 1</label>
+<caption>
+<p>A patient (case 1) with hepatitis C virus co-infected with monkeypox (a, e-g) and a patient (case 2) with HIV co-infected with monkeypox (b-d, h-k) and histological analysis. Figure (a) showed raised vesiculopapular rash on the left upper extremity and back of the hand (yellow arrows). Figure (e) showed pathological changes in the entire tissue sections with different levels of inflammation along with fibrotic changes. Figure (f) showed a cluster of neutrophils in the stratum corneum of the patient, a noticeable viral cytopathic consequence that affects the keratinocytes, including vacuolization, enlargement, and nuclear basophilia with a prominent granular layer and a pronounced basket-weave appearance of the horny layer. The leukocytic interface is rich in inflammatory cells (black arrow, f) and predominately with deep epidermal apoptosis. The subepidermal bulla was festooned by the epidermal papilla (blue arrow, f). Epidermal pallor in the stratum corneum showed hyperkeratosis (green arrow, f), and dyskeratotic keratinocytes (yellow arrow, f). Figure (g) showed pathological cellular changes in the skin at 40X magnification. The cells are characterized by round nuclei, surrounded by intracytoplasmic edema (black arrows). Figure (b,c) showed different stages of diffused skin rash and most of the rash was characterized by a vesiculopapular pattern (yellow arrows). Figure (h) was the cross-section of the skin with severe inflammatory changes and thinning of the epidermal layer. Figure (i) showed novel cells, characterized by duplicated kissing nuclei (yellow arrows) and the bullae filled with severe inflammatory cells and eosinophilic inclusion body (white arrow). Figure (j) showed severe hemorrhage in the dermis and hypodermis (black arrows). Also, severe apoptosis was noticed (white arrow). Figure (k) showed various changes in the skin at 40X magnification, the inset shows few viable keratinocytes; Hydropic degeneration (arrow); severe dermal congestion (asterisks); and epidermal vacuolar degeneration (arrowhead).</p>
+</caption>
+<alt-text id="alt0001">Figure 1</alt-text>
+<graphic position="float" orientation="portrait" ns0:href="gr1_lrg.jpg" />
+</fig>
+</p>
+<p id="para0011">Physical examination showed raised vesiculopapular rash on his left upper extremity and back, associated with lymphadenopathy in the axilla and supraclavicular areas. No organomegaly or neurological deficits. Vital signs are within normal consideration. Laboratory results showed mild leukocytosis with predominant lymphocytes (12.8 × 10<sup>3</sup> [4.5-11 × 10<sup>3</sup>] - lymphocytes 74%). The laboratory investigation including a comprehensive metabolic panel, renal function test, urinalysis, and liver function test is within normal range besides the elevation of alanine aminotransferase (ALT, 47 U/l <xref rid="bib0004" ref-type="bibr">[4]</xref>, <xref rid="bib0005" ref-type="bibr">[5]</xref>, <xref rid="bib0006" ref-type="bibr">[6]</xref>, <xref rid="bib0007" ref-type="bibr">[7]</xref>, <xref rid="bib0008" ref-type="bibr">[8]</xref>, <xref rid="bib0009" ref-type="bibr">[9]</xref>, <xref rid="bib0010" ref-type="bibr">[10]</xref>, <xref rid="bib0011" ref-type="bibr">[11]</xref>, <xref rid="bib0012" ref-type="bibr">[12]</xref>, <xref rid="bib0013" ref-type="bibr">[13]</xref>, <xref rid="bib0014" ref-type="bibr">[14]</xref>, <xref rid="bib0015" ref-type="bibr">[15]</xref>, <xref rid="bib0016" ref-type="bibr">[16]</xref>, <xref rid="bib0017" ref-type="bibr">[17]</xref>, <xref rid="bib0018" ref-type="bibr">[18]</xref>, <xref rid="bib0019" ref-type="bibr">[19]</xref>, <xref rid="bib0020" ref-type="bibr">[20]</xref>, <xref rid="bib0021" ref-type="bibr">[21]</xref>, <xref rid="bib0022" ref-type="bibr">[22]</xref>, <xref rid="bib0023" ref-type="bibr">[23]</xref>, <xref rid="bib0024" ref-type="bibr">[24]</xref>, <xref rid="bib0025" ref-type="bibr">[25]</xref>, <xref rid="bib0026" ref-type="bibr">[26]</xref>, <xref rid="bib0027" ref-type="bibr">[27]</xref>, <xref rid="bib0028" ref-type="bibr">[28]</xref>, <xref rid="bib0029" ref-type="bibr">[29]</xref>, <xref rid="bib0030" ref-type="bibr">[30]</xref>, <xref rid="bib0031" ref-type="bibr">[31]</xref>, <xref rid="bib0032" ref-type="bibr">[32]</xref>, <xref rid="bib0033" ref-type="bibr">[33]</xref>, <xref rid="bib0034" ref-type="bibr">[34]</xref>, <xref rid="bib0035" ref-type="bibr">[35]</xref>, <xref rid="bib0036" ref-type="bibr">[36]</xref>), and aspartate transaminase (AST, 33 U/l <xref rid="bib0008" ref-type="bibr">[8]</xref>, <xref rid="bib0009" ref-type="bibr">[9]</xref>, <xref rid="bib0010" ref-type="bibr">[10]</xref>, <xref rid="bib0011" ref-type="bibr">[11]</xref>, <xref rid="bib0012" ref-type="bibr">[12]</xref>, <xref rid="bib0013" ref-type="bibr">[13]</xref>, <xref rid="bib0014" ref-type="bibr">[14]</xref>, <xref rid="bib0015" ref-type="bibr">[15]</xref>, <xref rid="bib0016" ref-type="bibr">[16]</xref>, <xref rid="bib0017" ref-type="bibr">[17]</xref>, <xref rid="bib0018" ref-type="bibr">[18]</xref>, <xref rid="bib0019" ref-type="bibr">[19]</xref>, <xref rid="bib0020" ref-type="bibr">[20]</xref>, <xref rid="bib0021" ref-type="bibr">[21]</xref>, <xref rid="bib0022" ref-type="bibr">[22]</xref>, <xref rid="bib0023" ref-type="bibr">[23]</xref>, <xref rid="bib0024" ref-type="bibr">[24]</xref>, <xref rid="bib0025" ref-type="bibr">[25]</xref>, <xref rid="bib0026" ref-type="bibr">[26]</xref>, <xref rid="bib0027" ref-type="bibr">[27]</xref>, <xref rid="bib0028" ref-type="bibr">[28]</xref>, <xref rid="bib0029" ref-type="bibr">[29]</xref>, <xref rid="bib0030" ref-type="bibr">[30]</xref>, <xref rid="bib0031" ref-type="bibr">[31]</xref>, <xref rid="bib0032" ref-type="bibr">[32]</xref>, <xref rid="bib0033" ref-type="bibr">[33]</xref>). The liver ultrasound was normal. Tests for chlamydia/gonorrhea, HIV, herpes simplex, and syphilis are negative. The patient was diagnosed with MPox via polymerase chain reaction (PCR), and the biopsy showed various histopathological changes (<xref rid="fig0001" ref-type="fig">Figures 1</xref>e, f, and g). Further, laboratory diagnosis showed hepatitis C antibody, and detectable viral load (715 IU/ml [0-800,000]).</p>
+</sec>
+<sec id="sec0004">
+<title>Case 2</title>
+<p id="para0012">A 32-year-old homosexual male with a past medical history of HIV presented to our clinic with a rash (<xref rid="fig0001" ref-type="fig">Figures 1</xref>b, c, and d) (arrows) on his face, genitalia, and bilateral upper extremity. The patient admitted fever, fatigue, and sweats 4 days before the onset of the rash. The rash was severely diffused, mildly painful, and itchy. As per the patient, he is taking Biktarvy for his HIV, his last checkup 2 months ago showed an undetectable viral load and cluster of differentiation 4 was within the normal range (815 cells/mm [500-1500]). Physical examination showed diffused vesiculopapular rash accompanied by bilateral axillary and anterior cervical lymphadenopathy. The patient was diagnosed with MPox via PCR. The rest of his laboratory results for sexually transmitted diseases (chlamydia, gonorrhea, herpes, syphilis, and hepatitis), urinalysis, comprehensive metabolic panel, and complete blood count (CBC) are within normal consideration. Further, the CBC showed slight leukocytosis with predominant lymphocytes (13.2 × 10<sup>3</sup> [4.5-11 × 10<sup>3</sup>] – lymphocytes 81%).</p>
+</sec>
+</sec>
+<sec id="sec0005">
+<title>Histopathology</title>
+<sec id="sec0006">
+<title>Case 1</title>
+<p id="para0013">We found significant differences in the skin pathology in patients infected with the hepatitis C virus who developed acute MPox infection (<xref rid="fig0001" ref-type="fig">Figure 1</xref>e). The skin pathology showed a cluster of neutrophils in the stratum corneum (<xref rid="fig0001" ref-type="fig">Figure 1</xref>f). Additionally, a prominent viral cytopathic effect in keratinocytes, vacuolization, enlargement, and nuclear basophilia with a prominent granular layer and a pronounced basket-weave appearance of the horny layer were detected (<xref rid="fig0001" ref-type="fig">Figure 1</xref>f). There is leukocytic interface dermatitis, which is rich in inflammatory cells (black arrow), and upper layers of epidermal apoptosis (<xref rid="fig0001" ref-type="fig">Figure 1</xref>f). The subepidermal bulla was also identified with the festooning of the epidermal papilla (blue arrow) (<xref rid="fig0001" ref-type="fig">Figure 1</xref>f). Epidermal pallor in the stratum corneum, hyperkeratosis (green arrow), dyskeratotic keratinocytes (yellow arrow), and a superficial perivascular mixed inflammatory infiltrate in the dermis are also seen in this case (<xref rid="fig0001" ref-type="fig">Figure 1</xref>f). This patient has a mild inflammatory response mentioned previously. Also, the red and black arrows point to distinct cellular changes that are normally not present in the upper epidermal layer (<xref rid="fig0001" ref-type="fig">Figures 1</xref>f and <xref rid="fig0001" ref-type="fig">1</xref>g). Those cells are characterized by round nuclei, surrounded by intracytoplasmic edema. Thus, the differential cells could be melanocytes, Merkel's cells, versus others <xref rid="bib0007" ref-type="bibr">[7]</xref>. Also, the keratinocytes have different characteristics including degenerative changes and a few multinucleated keratinocytes (<xref rid="fig0001" ref-type="fig">Figure 1</xref>g).</p>
+</sec>
+<sec id="sec0007">
+<title>Case 2</title>
+<p id="para0014">We observed differences in the skin pathology of patients infected with the MPox virus who had an earlier history of HIV infection (<xref rid="fig0001" ref-type="fig">Figure 1</xref>h). In this case, the histopathologic examination shows an epidermis with sheets of necrotic keratinocytes with adjacent neutrophil crust (<xref rid="fig0001" ref-type="fig">Figure 1</xref>h). Hydropic degeneration (arrow), severe dermal congestion (asterisks), and epidermal vacuolar degeneration (arrowhead) were identified all over the skin (<xref rid="fig0001" ref-type="fig">Figure 1</xref>k). Severe inflammation was noticed along with fibrosis and apoptotic cells (<xref rid="fig0001" ref-type="fig">Figure 1</xref>h and <xref rid="fig0001" ref-type="fig">1</xref>k). Surprisingly, some odd cell types were observed in this case, and these cells are characterized by duplicated kissing nuclei (yellow arrows) (<xref rid="fig0001" ref-type="fig">Figure 1</xref>i). The classic picture of MPox does not have such cells, also we have not noted such cellular changes in prior cutaneous viral infections. Further, bullae filled with severe inflammatory cells and eosinophilic inclusion bodies were also noticed (white arrow) (<xref rid="fig0001" ref-type="fig">Figure 1</xref>i). Moreover, we found an accumulation of red blood cells, which indicates severe vasodilation and bleeding in that area (black arrow) (<xref rid="fig0001" ref-type="fig">Figure 1</xref>j). This may be related to inflammatory cytokines, endothelial nitrite, and other vasodilators. Furthermore, spongiosis, the presence of multiple bullae in the epidermis and dermis, and the presence of an eosinophilic body were detected, and notably, the stratum corneum was very thin in this patient (<xref rid="fig0001" ref-type="fig">Figures 1</xref>h and <xref rid="fig0001" ref-type="fig">1</xref>j).</p>
+</sec>
+</sec>
+<sec id="sec0008">
+<title>Discussion</title>
+<p id="para0015">Histopathology of skin from these two cases shares few similarities with the classical histopathological changes during acute infection with MPox, but there is a cellular defect noticed among both patients that were not observed in the classical version of histopathological alterations in any of these viruses <xref rid="bib0007" ref-type="bibr">[7]</xref>, <xref rid="bib0008" ref-type="bibr">[8]</xref>, <xref rid="bib0009" ref-type="bibr">[9]</xref>, <xref rid="bib0010" ref-type="bibr">[10]</xref>, <xref rid="bib0011" ref-type="bibr">[11]</xref>.</p>
+<p id="para0016">We found significant differences in the skin histopathology of patients infected with HCV who developed acute MPox infection. Those differences are characterized by a cluster of neutrophils in the stratum corneum, viral cytopathic effect in keratinocytes, vacuolization, and so forth, as described previously in the histopathology section. However, the classical cutaneous changes in HCV infection alone showed accumulation of various inflammatory cells, but predominantly the lymphocytes, a few fibrinoid necroses of the dermal vessels, bullae, saw-tooth appearance of the epidermis, and epidermal pallor. Further, hyperkeratosis, severe dyskeratotic keratinocytes, fibrotic changes, spongiosis, and architecture distortion were also observed in the patient infected with HCV alone <xref rid="bib0010" ref-type="bibr">[10]</xref>. Whereas the classical HIV skin findings consist of Munro micro abscess, inflammatory cell accumulations, thin epidermis, parakeratosis, hyperkeratosis, mild spongiosis, bulla, and spindle cell proliferation <xref rid="bib0007" ref-type="bibr">[7]</xref>. These are common cutaneous findings associated with various skin manifestations in patients living with HIV, which are distinctive from the findings associated with MPox infection alone.</p>
+<p id="para0017">The classic skin findings of MPox during the acute infection showed bullae, spongiosis mild acanthosis with slight inflammatory cells within the epidermis <xref rid="bib0008" ref-type="bibr">[8]</xref>. Although, the junction of dermal-epidermal junction contains mixtures of inflammatory cells (lymphocytes, neutrophils, and eosinophils) and some bullae. In the dermal layer, various mild to moderate inflammatory cells are seen in perieccrine and perivascular circulation <xref rid="bib0008" ref-type="bibr">[8]</xref>. The involvement of eccrine was extended from acrosyringium, where few lymphocytes have shown exocytosis into the epithelium, to the eccrine coils. Further, perivascular involvement is more around the superficial and deep layer of vascular supplies <xref rid="bib0008" ref-type="bibr">[8]</xref>. Moreover, edematous changes and degenerative ballooning of keratinocytes were also seen in the acute stage. Rarely, few multinucleated keratinocytes subsisted, and Guarnieri-type intracytoplasmic inclusion bodies are also observed <xref rid="bib0008" ref-type="bibr">[8]</xref>. Because we found these pathological changes less severe than that observed in patients who were infected with those viruses alone, further investigation is warranted with a large population.</p>
+<p id="para0018">We observed significant differences in the skin pathology of patients infected with the MPox virus who had an earlier history of HIV infection or HCV infection. The histopathologic examination in our patient with HIV co-infected with MPox shows severe cellular and architectural changes that are distinct from the classical MPox, or HIV alone. However, the cutaneous manifestation of MPox co-infection with HCV displayed different pathological characteristics from the classical MPox or HCV, or HIV alone, and/or HIV co-infected with MPox. Most importantly, the changes observed in MPox plus HCV are significantly less severe than those observed in these two conditions independently (i.e., MPox and HCV alone). However, the skin lesions are severe in the case of MPox with HIV co-infection, even when compared to their skin pathological changes independently <xref rid="bib0008" ref-type="bibr">[8</xref>,<xref rid="bib0010" ref-type="bibr">10</xref>,<xref rid="bib0011" ref-type="bibr">11]</xref>. The pathophysiology of such changes in MPox co-infection with various viruses is unclear.</p>
+<p id="para0019">Gigante et al<italic toggle="yes">.</italic>
+<xref rid="bib0009" ref-type="bibr">[9]</xref>, found two different genomic families of MPox from nine distinctive patients in the United States of America in 2022; a cardinal variant named B.1, and an infrequent variant named A.2 <xref rid="bib0009" ref-type="bibr">[9]</xref>. Genetic analysis of those variants demonstrated predominant guanine-to-adenine alterations within themes identified by apolipoprotein B editing complex (APOBEC3), cytosine deaminase, a host anti-viral defence protein, which catalyzes single base pair mutation <xref rid="bib0009" ref-type="bibr">[9]</xref>. These findings suggest that MPox evolution may have been determined by APOBEC3 activity, and additional mutations may emerge or exist among different outbreak patients <xref rid="bib0007" ref-type="bibr">[7</xref>,<xref rid="bib0009" ref-type="bibr">9]</xref>.</p>
+<p id="para0020">Co-infectivity is a broad and complex mechanism. It has been previously reported that the hepatitis E (HEV) virus co-infects individuals with hepatitis B virus (HBV) despite the distinct genetic phenotype (i.e., hepatitis B is a hepadnavirus, and hepatitis E is a calicivirus). Although this co-infectivity has been shown to advance hepatitis B chronicity leading to fulminant hepatitis, the authors noted that co-infectivity also resolves the conditions <xref rid="bib0012" ref-type="bibr">[12]</xref>, <xref rid="bib0013" ref-type="bibr">[13]</xref>, <xref rid="bib0014" ref-type="bibr">[14]</xref>, this is also can happen when HBV patients co-infected by the hepatitis D virus, the latter leads to severe liver injury <xref rid="bib0014" ref-type="bibr">[14]</xref>. This phenomenon was supported by Kilonzo et al<italic toggle="yes">.</italic>
+<xref rid="bib0013" ref-type="bibr">[13]</xref>, who documented that the HEV (an RNA virus that functions as a ribozyme) inhibits HBV DNA replication <xref rid="bib0013" ref-type="bibr">[13</xref>,<xref rid="bib0014" ref-type="bibr">14]</xref>.</p>
+<p id="para0021">However, in the case of the MPox virus, potential co-infection was demonstrated which leads to a progression of infectivity. Precisely, Khallafallah and Grose <xref rid="bib0015" ref-type="bibr">[15]</xref>, described that human herpesvirus-3 (chickenpox) is a risk factor for the acquisition of the MPox virus (in other words chickenpox modifies MPox in children which may contribute to the severity of the infection but not resolving the conditions) <xref rid="bib0015" ref-type="bibr">[15]</xref>. Further, the authors noted that human herpes-3 facilitates the penetration of MPox through the skin <xref rid="bib0015" ref-type="bibr">[15</xref>,<xref rid="bib0016" ref-type="bibr">16]</xref>, and these viruses share some similarities in terms of viremia with a cellular stress response leading to high levels of interleukin(IL)-6 production which may contribute to the severity of the infection <xref rid="bib0015" ref-type="bibr">[15]</xref>, <xref rid="bib0016" ref-type="bibr">[16]</xref>, <xref rid="bib0017" ref-type="bibr">[17]</xref>, <xref rid="bib0018" ref-type="bibr">[18]</xref>. Additionally, murid herpesvirus-4 (similar to Epstein-Barr virus) was shown to protect against mouse pneumovirus through the IL-6 mechanism <xref rid="bib0017" ref-type="bibr">[17]</xref>. Our findings in the current study corroborated well with this observation that the skin changes in patients infected with HIV who had MPox showed a worsening inflammatory response. In contrast, our study on HCV and MPox co-infection clearly demonstrates that the MPox infection was resolved in the presence of HCV co-infection.</p>
+<p id="para0022">Although the reason for such a phenomenon is unclear, Abouelasrar et al<italic toggle="yes">.</italic>
+<xref rid="bib0019" ref-type="bibr">[19]</xref>, reported that HCV infection significantly contributes to the elevation of pro-inflammatory cytokines such as interleukin (IL)-1, IL-6, and tumor necrosis factor-alpha <xref rid="bib0019" ref-type="bibr">[19]</xref>. Such an increase in pro-inflammatory cytokines in the acute phase of infection and inflammation post-HCV further stimulates acute phase protein serum amyloid A (SAA) <xref rid="bib0019" ref-type="bibr">[19]</xref>. Noteworthy, a rise in the SAA (in HCV infection) level has been considered as a potential anti-viral since the SAA specifically interacts with viral particles. However, SAA could divert infectivity when functioning like apolipoprotein <xref rid="bib0019" ref-type="bibr">[19]</xref>. This pattern is frequently seen during various viral infections which include human herpes-3, measles, mumps, cytomegaly virus, and rubella <xref rid="bib0019" ref-type="bibr">[19]</xref> (see <xref rid="tbl0001" ref-type="table">Table 1</xref>
+) <xref rid="bib0020" ref-type="bibr">[20]</xref>, <xref rid="bib0021" ref-type="bibr">[21]</xref>, <xref rid="bib0022" ref-type="bibr">[22]</xref>, <xref rid="bib0023" ref-type="bibr">[23]</xref>, <xref rid="bib0024" ref-type="bibr">[24]</xref>, <xref rid="bib0025" ref-type="bibr">[25]</xref>, <xref rid="bib0026" ref-type="bibr">[26]</xref>, <xref rid="bib0027" ref-type="bibr">[27]</xref>, <xref rid="bib0028" ref-type="bibr">[28]</xref>, <xref rid="bib0029" ref-type="bibr">[29]</xref>, <xref rid="bib0030" ref-type="bibr">[30]</xref>, <xref rid="bib0031" ref-type="bibr">[31]</xref>, <xref rid="bib0032" ref-type="bibr">[32]</xref>, <xref rid="bib0033" ref-type="bibr">[33]</xref>, <xref rid="bib0034" ref-type="bibr">[34]</xref>, <xref rid="bib0035" ref-type="bibr">[35]</xref>, <xref rid="bib0036" ref-type="bibr">[36]</xref>, <xref rid="bib0037" ref-type="bibr">[37]</xref>, <xref rid="bib0038" ref-type="bibr">[38]</xref>, <xref rid="bib0039" ref-type="bibr">[39]</xref>, <xref rid="bib0040" ref-type="bibr">[40]</xref>, <xref rid="bib0041" ref-type="bibr">[41]</xref>. Thus, it is possible that these protective mechanisms may have occurred in the current study (i.e., in the presence of MPox co-infection with HCV). These mechanistic aspects will be explored in future studies.<table-wrap position="float" id="tbl0001" orientation="portrait">
+<label>Table 1</label>
+<caption>
+<p>MPox virus co-infection with another microorganism.</p>
+</caption>
+<alt-text id="alt0002">Table 1</alt-text>
+<table frame="hsides" rules="groups">
+<thead>
+<tr>
+<th valign="top" colspan="1" rowspan="1">Authors</th>
+<th valign="top" colspan="1" rowspan="1">Cases and co-infection</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" colspan="1" rowspan="1">Fonti <italic toggle="yes">et al.</italic>
+</td>
+<td valign="top" colspan="1" rowspan="1">Acute severe arthritis in HIV plus MPox</td>
+</tr>
+<tr>
+<td valign="top" colspan="1" rowspan="1">de Sousa <italic toggle="yes">et al.</italic>
+</td>
+<td valign="top" colspan="1" rowspan="1">Human MPox co-infection with acute HIV</td>
+</tr>
+<tr>
+<td valign="top" colspan="1" rowspan="1">Bížová <italic toggle="yes">et al.</italic>
+</td>
+<td valign="top" colspan="1" rowspan="1">
+<ext-link ext-link-type="uri" ns0:href="https://pubmed.ncbi.nlm.nih.gov/35661824/" id="interref0001">Co-infection of syphilis and MPox in HIV positive</ext-link>
+</td>
+</tr>
+<tr>
+<td valign="top" colspan="1" rowspan="1">Ogoina <italic toggle="yes">et al.</italic>
+</td>
+<td valign="top" colspan="1" rowspan="1">A retrospective study of 40 patients with MPox, the HIV individuals have more severe and prolonged illness as well as more secondary bacterial infection when compared with non-HIV individuals who had MPox</td>
+</tr>
+<tr>
+<td valign="top" colspan="1" rowspan="1">Zambrano Sánchez and Moyano</td>
+<td valign="top" colspan="1" rowspan="1">A case of MPox co-infection with syphilis and HIV</td>
+</tr>
+<tr>
+<td valign="top" colspan="1" rowspan="1">Nolasco <italic toggle="yes">et al.</italic>
+</td>
+<td valign="top" colspan="1" rowspan="1">MPox co-infection with SARS-CoV-2 and HIV</td>
+</tr>
+<tr>
+<td valign="top" colspan="1" rowspan="1">Zlámal <italic toggle="yes">et al.</italic>
+</td>
+<td valign="top" colspan="1" rowspan="1">MPox co-infection with herpes simplex virus type 2 and HIV</td>
+</tr>
+<tr>
+<td valign="top" colspan="1" rowspan="1">Hoff <italic toggle="yes">et al.</italic>
+</td>
+<td valign="top" colspan="1" rowspan="1">Varicella co-infection in patients with active MPox</td>
+</tr>
+<tr>
+<td valign="top" colspan="1" rowspan="1">Silva <italic toggle="yes">et al.</italic>
+</td>
+<td valign="top" colspan="1" rowspan="1">Acute HIV and MPox co-infection</td>
+</tr>
+<tr>
+<td valign="top" colspan="1" rowspan="1">Hughes <italic toggle="yes">et al.</italic>
+</td>
+<td valign="top" colspan="1" rowspan="1">Coinfections of MPox and varicella zoster virus</td>
+</tr>
+<tr>
+<td valign="top" colspan="1" rowspan="1">El-Qushayri <italic toggle="yes">et al.</italic>
+</td>
+<td valign="top" colspan="1" rowspan="1">COVID-19 and MPox co-infection</td>
+</tr>
+<tr>
+<td valign="top" colspan="1" rowspan="1">Prabaker <italic toggle="yes">et al.</italic>
+</td>
+<td valign="top" colspan="1" rowspan="1">Herpes simplex virus type 2 and MPox co-infection</td>
+</tr>
+<tr>
+<td valign="top" colspan="1" rowspan="1">Martins-Filho <italic toggle="yes">et al.</italic>
+</td>
+<td valign="top" colspan="1" rowspan="1">MPox and varicella zoster virus co-infection</td>
+</tr>
+<tr>
+<td valign="top" colspan="1" rowspan="1">Ramoni <italic toggle="yes">et al.</italic>
+</td>
+<td valign="top" colspan="1" rowspan="1">Syphilis and MPox co-infection</td>
+</tr>
+<tr>
+<td valign="top" colspan="1" rowspan="1">Stephen <italic toggle="yes">et al.</italic>
+</td>
+<td valign="top" colspan="1" rowspan="1">MPox and varicella zoster viruses co-infection</td>
+</tr>
+<tr>
+<td valign="top" colspan="1" rowspan="1">Hoffmann <italic toggle="yes">et al.</italic>
+</td>
+<td valign="top" colspan="1" rowspan="1">MPox virus infections among men with and without HIV</td>
+</tr>
+<tr>
+<td valign="top" colspan="1" rowspan="1">Desgranges <italic toggle="yes">et al.</italic>
+</td>
+<td valign="top" colspan="1" rowspan="1">MPox virus co-infected with Chlamydia trachomatis and Neisseria gonorrheae</td>
+</tr>
+<tr>
+<td valign="top" colspan="1" rowspan="1">AbdullGaffar and Abdulrahman</td>
+<td valign="top" colspan="1" rowspan="1">MPox virus, herpes simplex virus, and cytomegalovirus skin coinfections</td>
+</tr>
+<tr>
+<td valign="top" colspan="1" rowspan="1">Paparizos <italic toggle="yes">et al.</italic>
+</td>
+<td valign="top" colspan="1" rowspan="1">MPox virus plus secondary syphilis co-infection in an HIV-positive patient</td>
+</tr>
+<tr>
+<td valign="top" colspan="1" rowspan="1">Videlefsky <italic toggle="yes">et al.</italic>
+</td>
+<td valign="top" colspan="1" rowspan="1">Herpes simplex virus type 2 and MPox co-infection</td>
+</tr>
+<tr>
+<td valign="top" colspan="1" rowspan="1">Brazão <italic toggle="yes">et al.</italic>
+</td>
+<td valign="top" colspan="1" rowspan="1">MPox virus infection in HIV-1-co-infected patients previously vaccinated against smallpox</td>
+</tr>
+<tr>
+<td valign="top" colspan="1" rowspan="1">Rizzo <italic toggle="yes">et al.</italic>
+</td>
+<td valign="top" colspan="1" rowspan="1">Concomitant diagnosis of sexually transmitted infections and MPox in patients attending a sexual health clinic</td>
+</tr>
+</tbody>
+</table>
+<table-wrap-foot>
+<fn>
+<p>MPox, monkeypox</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+</p>
+</sec>
+<sec id="sec0009">
+<title>Conclusion</title>
+<p id="para0023">Our findings collectively suggest that MPox infections likely occur in the presence of other viral infections and that the prior infection with specific microbes determines the severity of MPox infection. Notably, MPox infectivity may be severe in the presence of a specific virus (e.g., HIV). In contrast, the infectivity may resolve in the presence of another type of virus (e.g., HCV). Because nothing is currently known about the potential mechanisms involved in such differential infectivity, further research is warranted to determine the exact nature of the co-infection.</p>
+</sec>
+<sec id="sec0010">
+<title>Declaration of competing interest</title>
+<p id="para0024">All authors have completed ICMJE uniform disclosure form. Dr. Paidas is part of BioIncept LLC with stock options. The other authors have no conflicts of interest or competing interests to declare.</p>
+</sec>
+<sec id="sec0011">
+<title>Funding</title>
+<p id="para0025">This study was supported by the University of Miami Miller School of Medicine Research Fund, Muriel, Murray &amp; Robert Smith Foundation COVID-19 Research Fund, and the University of Miami Miller School of Medicine Team Science Research Fund.</p>
+</sec>
+<sec id="sec0012">
+<title>Ethical approval</title>
+<p id="para0026">The authors are accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved. This research has received all the required approvals. The patient has provided written informed consent and had no objections or comments regarding the publication of this case report and its content.</p>
+</sec>
+<sec id="sec0013">
+<title>Acknowledgment</title>
+<p id="para0027">We thank Dr. Ali Snan, MD, Internist, Larkin Community Hospital, Department of Internal Medicine and Infectious Disease, Miami, FL, USA, for assistance with histopathology.</p>
+</sec>
+<sec id="sec0014">
+<title>Authors contributions</title>
+<p id="para0028">ARJ, HH, and MJP conceived the study, HH, AF, LM, EG, and EC performed biopsies, ARJ, AF, HH, MJP, EAW, RRC, RR, and ZFS conducted the histopathology analyzed the images, and wrote the paper.</p>
+</sec>
+</body>
+<back>
+<ref-list id="cebibl1">
+<title>References</title>
+<ref id="bib0001">
+<label>1</label>
+<element-citation publication-type="book" id="sbref0001">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Gergen</surname>
+<given-names>J.</given-names>
+</name>
+</person-group>
+<part-title>Five charts on monkeypox, past and present</part-title>
+<year>2022</year>
+<publisher-name>VaccinesWork</publisher-name>
+<publisher-loc>Gavi</publisher-loc>
+<ext-link ext-link-type="uri" ns0:href="https://www.gavi.org/vaccineswork/five-charts-monkeypox-past-and-present/" id="interref0002">https://www.gavi.org/vaccineswork/five-charts-monkeypox-past-and-present/</ext-link>
+<comment>[accessed 13 December 2022]</comment>
+</element-citation>
+</ref>
+<ref id="bib0002">
+<label>2</label>
+<element-citation publication-type="journal" id="sbref0002">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Gessain</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Nakoune</surname>
+<given-names>E</given-names>
+</name>
+<name name-style="western">
+<surname>Monkeypox</surname>
+<given-names>Yazdanpanah Y.</given-names>
+</name>
+</person-group>
+<source>N Engl J Med</source>
+<volume>387</volume>
+<year>2022</year>
+<fpage>1783</fpage>
+<lpage>1793</lpage>
+<pub-id pub-id-type="doi">10.1056/NEJMra2208860</pub-id>
+<pub-id pub-id-type="pmid">36286263</pub-id>
+</element-citation>
+</ref>
+<ref id="bib0003">
+<label>3</label>
+<element-citation publication-type="journal" id="sbref0003">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Patrocinio-Jesus</surname>
+<given-names>R</given-names>
+</name>
+<name name-style="western">
+<surname>Peruzzu</surname>
+<given-names>F.</given-names>
+</name>
+</person-group>
+<article-title>Monkeypox genital lesions</article-title>
+<source>N Engl J Med</source>
+<volume>387</volume>
+<year>2022</year>
+<fpage>66</fpage>
+<pub-id pub-id-type="doi">10.1056/NEJMicm2206893</pub-id>
+<pub-id pub-id-type="pmid">35704421</pub-id>
+</element-citation>
+</ref>
+<ref id="bib0004">
+<label>4</label>
+<element-citation publication-type="book" id="sbref0004">
+<person-group person-group-type="author">
+<collab>Centers for Disease Control and Prevention (CDC)</collab>
+</person-group>
+<part-title>2022 outbreak cases and data</part-title>
+<year>2022</year>
+<ext-link ext-link-type="uri" ns0:href="https://www.cdc.gov/poxvirus/monkeypox/response/2022/index.html/" id="interref0003">https://www.cdc.gov/poxvirus/monkeypox/response/2022/index.html/</ext-link>
+<comment>[accessed 13 December 2022]</comment>
+</element-citation>
+</ref>
+<ref id="bib0005">
+<label>5</label>
+<element-citation publication-type="journal" id="sbref0005">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Kraemer</surname>
+<given-names>MUG</given-names>
+</name>
+<name name-style="western">
+<surname>Tegally</surname>
+<given-names>H</given-names>
+</name>
+<name name-style="western">
+<surname>Pigott</surname>
+<given-names>DM</given-names>
+</name>
+<name name-style="western">
+<surname>Dasgupta</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Sheldon</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Wilkinson</surname>
+<given-names>E</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Tracking the 2022 monkeypox outbreak with epidemiological data in real-time</article-title>
+<source>Lancet Infect Dis</source>
+<volume>22</volume>
+<year>2022</year>
+<fpage>941</fpage>
+<lpage>942</lpage>
+<pub-id pub-id-type="doi">10.1016/S1473-3099(22)00359-0</pub-id>
+<pub-id pub-id-type="pmid">35690074</pub-id>
+<pub-id pub-id-type="pmcid">PMC9629664</pub-id>
+</element-citation>
+</ref>
+<ref id="bib0006">
+<label>6</label>
+<element-citation publication-type="journal" id="sbref0006">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Girometti</surname>
+<given-names>N</given-names>
+</name>
+<name name-style="western">
+<surname>Byrne</surname>
+<given-names>R</given-names>
+</name>
+<name name-style="western">
+<surname>Bracchi</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Heskin</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>McOwan</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Tittle</surname>
+<given-names>V</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Demographic and clinical characteristics of confirmed human monkeypox virus cases in individuals attending a sexual health centre in London, UK: an observational analysis</article-title>
+<source>Lancet Infect Dis</source>
+<volume>22</volume>
+<year>2022</year>
+<fpage>1321</fpage>
+<lpage>1328</lpage>
+<pub-id pub-id-type="doi">10.1016/S1473-3099(22)00411-X</pub-id>
+<pub-id pub-id-type="pmid">35785793</pub-id>
+<pub-id pub-id-type="pmcid">PMC9534773</pub-id>
+</element-citation>
+</ref>
+<ref id="bib0007">
+<label>7</label>
+<element-citation publication-type="journal" id="sbref0007">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Grayson</surname>
+<given-names>W.</given-names>
+</name>
+</person-group>
+<article-title>The HIV-positive skin biopsy</article-title>
+<source>J Clin Pathol</source>
+<volume>61</volume>
+<year>2008</year>
+<fpage>802</fpage>
+<lpage>817</lpage>
+<pub-id pub-id-type="doi">10.1136/jcp.2007.054015</pub-id>
+<pub-id pub-id-type="pmid">18006666</pub-id>
+</element-citation>
+</ref>
+<ref id="bib0008">
+<label>8</label>
+<element-citation publication-type="journal" id="sbref0008">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Bayer-Garner</surname>
+<given-names>IB.</given-names>
+</name>
+</person-group>
+<article-title>Monkeypox virus: histologic, immunohistochemical and electron-microscopic findings</article-title>
+<source>J Cutan Pathol</source>
+<volume>32</volume>
+<year>2005</year>
+<fpage>28</fpage>
+<lpage>34</lpage>
+<pub-id pub-id-type="doi">10.1111/j.0303-6987.2005.00254.x</pub-id>
+<pub-id pub-id-type="pmid">15660652</pub-id>
+</element-citation>
+</ref>
+<ref id="bib0009">
+<label>9</label>
+<element-citation publication-type="journal" id="sbref0009">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Gigante</surname>
+<given-names>CM</given-names>
+</name>
+<name name-style="western">
+<surname>Korber</surname>
+<given-names>B</given-names>
+</name>
+<name name-style="western">
+<surname>Seabolt</surname>
+<given-names>MH</given-names>
+</name>
+<name name-style="western">
+<surname>Wilkins</surname>
+<given-names>K</given-names>
+</name>
+<name name-style="western">
+<surname>Davidson</surname>
+<given-names>W</given-names>
+</name>
+<name name-style="western">
+<surname>Rao</surname>
+<given-names>AK</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Multiple lineages of monkeypox virus detected in the United States, 2021–2022</article-title>
+<source>Science</source>
+<volume>378</volume>
+<year>2022</year>
+<fpage>560</fpage>
+<lpage>565</lpage>
+<pub-id pub-id-type="doi">10.1126/science.add4153</pub-id>
+<pub-id pub-id-type="pmid">36264825</pub-id>
+<pub-id pub-id-type="pmcid">PMC10258808</pub-id>
+</element-citation>
+</ref>
+<ref id="bib0010">
+<label>10</label>
+<element-citation publication-type="journal" id="sbref0010">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Ko</surname>
+<given-names>HM</given-names>
+</name>
+<name name-style="western">
+<surname>Hernandez-Prera</surname>
+<given-names>JC</given-names>
+</name>
+<name name-style="western">
+<surname>Zhu</surname>
+<given-names>H</given-names>
+</name>
+<name name-style="western">
+<surname>Dikman</surname>
+<given-names>SH</given-names>
+</name>
+<name name-style="western">
+<surname>Sidhu</surname>
+<given-names>HK</given-names>
+</name>
+<name name-style="western">
+<surname>Ward</surname>
+<given-names>SC</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Morphologic features of extrahepatic manifestations of hepatitis C virus infection</article-title>
+<source>Clin Dev Immunol</source>
+<volume>2012</volume>
+<year>2012</year>
+<object-id pub-id-type="publisher-id">740138</object-id>
+<pub-id pub-id-type="doi">10.1155/2012/740138</pub-id>
+<pub-id pub-id-type="pmcid">PMC3420144</pub-id>
+<pub-id pub-id-type="pmid">22919404</pub-id>
+</element-citation>
+</ref>
+<ref id="bib0011">
+<label>11</label>
+<element-citation publication-type="journal" id="sbref0011">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Huang</surname>
+<given-names>Y</given-names>
+</name>
+<name name-style="western">
+<surname>Mu</surname>
+<given-names>L</given-names>
+</name>
+<name name-style="western">
+<surname>Wang</surname>
+<given-names>W.</given-names>
+</name>
+</person-group>
+<article-title>Monkeypox: epidemiology, pathogenesis, treatment and prevention</article-title>
+<source>Signal Transduct Target Ther</source>
+<volume>7</volume>
+<year>2022</year>
+<fpage>373</fpage>
+<pub-id pub-id-type="doi">10.1038/s41392-022-01215-4</pub-id>
+<pub-id pub-id-type="pmid">36319633</pub-id>
+<pub-id pub-id-type="pmcid">PMC9626568</pub-id>
+</element-citation>
+</ref>
+<ref id="bib0012">
+<label>12</label>
+<element-citation publication-type="journal" id="sbref0012">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Chen</surname>
+<given-names>C</given-names>
+</name>
+<name name-style="western">
+<surname>Zhang</surname>
+<given-names>SY</given-names>
+</name>
+<name name-style="western">
+<surname>Zhang</surname>
+<given-names>DD</given-names>
+</name>
+<name name-style="western">
+<surname>Li</surname>
+<given-names>XY</given-names>
+</name>
+<name name-style="western">
+<surname>Zhang</surname>
+<given-names>YL</given-names>
+</name>
+<name name-style="western">
+<surname>Li</surname>
+<given-names>WX</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Clinical features of acute hepatitis E super-infections on chronic hepatitis B</article-title>
+<source>World J Gastroenterol</source>
+<volume>22</volume>
+<year>2016</year>
+<fpage>10388</fpage>
+<lpage>10397</lpage>
+<pub-id pub-id-type="doi">10.3748/wjg.v22.i47.10388</pub-id>
+<pub-id pub-id-type="pmid">28058019</pub-id>
+<pub-id pub-id-type="pmcid">PMC5175251</pub-id>
+</element-citation>
+</ref>
+<ref id="bib0013">
+<label>13</label>
+<element-citation publication-type="journal" id="sbref0013">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Kilonzo</surname>
+<given-names>SB</given-names>
+</name>
+<name name-style="western">
+<surname>Wang</surname>
+<given-names>YL</given-names>
+</name>
+<name name-style="western">
+<surname>Jiang</surname>
+<given-names>QQ</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Superinfective hepatitis E virus infection aggravates hepatocytes injury in chronic hepatitis B</article-title>
+<source>Curr Med Sci</source>
+<volume>39</volume>
+<year>2019</year>
+<fpage>719</fpage>
+<lpage>726</lpage>
+<pub-id pub-id-type="doi">10.1007/s11596-019-2097-0</pub-id>
+<pub-id pub-id-type="pmid">31612388</pub-id>
+</element-citation>
+</ref>
+<ref id="bib0014">
+<label>14</label>
+<element-citation publication-type="book" id="sbref0014">
+<comment>editors</comment>
+<person-group person-group-type="editor">
+<name name-style="western">
+<surname>Loscalzo</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Fauci</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Kasper</surname>
+<given-names>D</given-names>
+</name>
+<name name-style="western">
+<surname>Hauser</surname>
+<given-names>S</given-names>
+</name>
+<name name-style="western">
+<surname>Longo</surname>
+<given-names>D</given-names>
+</name>
+<name name-style="western">
+<surname>Jameson</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<source>Harrison's Principles of Internal Medicine</source>
+<year>2022</year>
+<publisher-name>McGraw Hill</publisher-name>
+<publisher-loc>New York</publisher-loc>
+<fpage>21e</fpage>
+</element-citation>
+</ref>
+<ref id="bib0015">
+<label>15</label>
+<element-citation publication-type="journal" id="sbref0015">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Khallafallah</surname>
+<given-names>O</given-names>
+</name>
+<name name-style="western">
+<surname>Grose</surname>
+<given-names>C.</given-names>
+</name>
+</person-group>
+<article-title>Reassessment of evidence about coinfection of chickenpox and monkeypox (Mpox) in African children</article-title>
+<source>Viruses</source>
+<volume>14</volume>
+<year>2022</year>
+<fpage>2800</fpage>
+<pub-id pub-id-type="doi">10.3390/v14122800</pub-id>
+<pub-id pub-id-type="pmid">36560805</pub-id>
+<pub-id pub-id-type="pmcid">PMC9781582</pub-id>
+</element-citation>
+</ref>
+<ref id="bib0016">
+<label>16</label>
+<element-citation publication-type="journal" id="sbref0016">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Karbalaei</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Keikha</surname>
+<given-names>M.</given-names>
+</name>
+</person-group>
+<article-title>Human monkeypox coinfections; lessons from available cases - Correspondence</article-title>
+<source>Int J Surg</source>
+<volume>104</volume>
+<year>2022</year>
+<object-id pub-id-type="publisher-id">106734</object-id>
+<pub-id pub-id-type="doi">10.1016/j.ijsu.2022.106734</pub-id>
+<pub-id pub-id-type="pmcid">PMC9628635</pub-id>
+<pub-id pub-id-type="pmid">35760344</pub-id>
+</element-citation>
+</ref>
+<ref id="bib0017">
+<label>17</label>
+<element-citation publication-type="journal" id="sbref0017">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Gilliaux</surname>
+<given-names>G</given-names>
+</name>
+<name name-style="western">
+<surname>Desmecht</surname>
+<given-names>D.</given-names>
+</name>
+</person-group>
+<article-title>Gammaherpesvirus alters alveolar macrophages according to the host genetic background and promotes beneficial inflammatory control over Pneumovirus Infection</article-title>
+<source>Viruses</source>
+<volume>14</volume>
+<year>2022</year>
+<fpage>98</fpage>
+<pub-id pub-id-type="doi">10.3390/v14010098</pub-id>
+<pub-id pub-id-type="pmid">35062301</pub-id>
+<pub-id pub-id-type="pmcid">PMC8777918</pub-id>
+</element-citation>
+</ref>
+<ref id="bib0018">
+<label>18</label>
+<element-citation publication-type="journal" id="sbref0018">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Agrati</surname>
+<given-names>C</given-names>
+</name>
+<name name-style="western">
+<surname>Cossarizza</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Mazzotta</surname>
+<given-names>V</given-names>
+</name>
+<name name-style="western">
+<surname>Grassi</surname>
+<given-names>G</given-names>
+</name>
+<name name-style="western">
+<surname>Casetti</surname>
+<given-names>R</given-names>
+</name>
+<name name-style="western">
+<surname>De Biasi</surname>
+<given-names>S</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Immunological signature in human cases of monkeypox infection in 2022 outbreak: an observational study</article-title>
+<source>Lancet Infect Dis</source>
+<volume>23</volume>
+<year>2023</year>
+<fpage>320</fpage>
+<lpage>330</lpage>
+<pub-id pub-id-type="doi">10.1016/S1473-3099(22)00662-4</pub-id>
+<pub-id pub-id-type="pmid">36356606</pub-id>
+<pub-id pub-id-type="pmcid">PMC9761565</pub-id>
+</element-citation>
+</ref>
+<ref id="bib0019">
+<label>19</label>
+<element-citation publication-type="journal" id="sbref0019">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Abouelasrar Salama</surname>
+<given-names>S</given-names>
+</name>
+<name name-style="western">
+<surname>Lavie</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>De Buck</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Van Damme</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Struyf</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<article-title>Cytokines and serum amyloid A in the pathogenesis of hepatitis C virus infection</article-title>
+<source>Cytokine Growth Factor Rev</source>
+<volume>50</volume>
+<year>2019</year>
+<fpage>29</fpage>
+<lpage>42</lpage>
+<pub-id pub-id-type="doi">10.1016/j.cytogfr.2019.10.006</pub-id>
+<pub-id pub-id-type="pmid">31718982</pub-id>
+</element-citation>
+</ref>
+<ref id="bib0020">
+<label>20</label>
+<element-citation publication-type="journal" id="sbref0020">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Fonti</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Mader</surname>
+<given-names>T</given-names>
+</name>
+<name name-style="western">
+<surname>Burmester-Kiang</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Aberle</surname>
+<given-names>SW</given-names>
+</name>
+<name name-style="western">
+<surname>Horvath-Mechtler</surname>
+<given-names>B</given-names>
+</name>
+<name name-style="western">
+<surname>Traugott</surname>
+<given-names>M</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Monkeypox associated acute arthritis</article-title>
+<source>Lancet</source>
+<volume>4</volume>
+<year>2022</year>
+<fpage>E804</fpage>
+<pub-id pub-id-type="doi">10.1016/S2665-9913(22)00257-0</pub-id>
+<pub-id pub-id-type="pmcid">PMC9533963</pub-id>
+<pub-id pub-id-type="pmid">36247685</pub-id>
+</element-citation>
+</ref>
+<ref id="bib0021">
+<label>21</label>
+<element-citation publication-type="journal" id="sbref0021">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>de Sousa</surname>
+<given-names>D</given-names>
+</name>
+<name name-style="western">
+<surname>Patrocínio</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Frade</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Correia</surname>
+<given-names>C</given-names>
+</name>
+<name name-style="western">
+<surname>Borges-Costa</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Filipe</surname>
+<given-names>P</given-names>
+</name>
+</person-group>
+<article-title>Human monkeypox coinfection with acute HIV: an exuberant presentation</article-title>
+<source>Int J STD AIDS</source>
+<volume>33</volume>
+<year>2022</year>
+<fpage>936</fpage>
+<lpage>938</lpage>
+<pub-id pub-id-type="doi">10.1177/09564624221114998</pub-id>
+<pub-id pub-id-type="pmid">35822910</pub-id>
+</element-citation>
+</ref>
+<ref id="bib0022">
+<label>22</label>
+<element-citation publication-type="journal" id="sbref0022">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Bížová</surname>
+<given-names>B</given-names>
+</name>
+<name name-style="western">
+<surname>Veselý</surname>
+<given-names>D</given-names>
+</name>
+<name name-style="western">
+<surname>Trojánek</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Rob</surname>
+<given-names>F.</given-names>
+</name>
+</person-group>
+<article-title>Coinfection of syphilis and monkeypox in HIV positive man in Prague, Czech Republic</article-title>
+<source>Travel Med Infect Dis</source>
+<volume>49</volume>
+<year>2022</year>
+<object-id pub-id-type="publisher-id">102368</object-id>
+<pub-id pub-id-type="doi">10.1016/j.tmaid.2022.102368</pub-id>
+<pub-id pub-id-type="pmcid">PMC9533838</pub-id>
+<pub-id pub-id-type="pmid">35661824</pub-id>
+</element-citation>
+</ref>
+<ref id="bib0023">
+<label>23</label>
+<element-citation publication-type="journal" id="sbref0023">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Ogoina</surname>
+<given-names>D</given-names>
+</name>
+<name name-style="western">
+<surname>Iroezindu</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>James</surname>
+<given-names>HI</given-names>
+</name>
+<name name-style="western">
+<surname>Oladokun</surname>
+<given-names>R</given-names>
+</name>
+<name name-style="western">
+<surname>Yinka-Ogunleye</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Wakama</surname>
+<given-names>P</given-names>
+</name>
+<name name-style="western">
+<surname>Otike-Odibi</surname>
+<given-names>B</given-names>
+</name>
+<name name-style="western">
+<surname>Usman</surname>
+<given-names>LM</given-names>
+</name>
+<name name-style="western">
+<surname>Obazee</surname>
+<given-names>E</given-names>
+</name>
+<name name-style="western">
+<surname>Aruna</surname>
+<given-names>O</given-names>
+</name>
+<name name-style="western">
+<surname>Ihekweazu</surname>
+<given-names>C.</given-names>
+</name>
+</person-group>
+<article-title>Clinical Course and Outcome of Human Monkeypox in Nigeria</article-title>
+<source>Clin Infect Dis</source>
+<volume>71</volume>
+<year>2020</year>
+<fpage>e210</fpage>
+<lpage>e214</lpage>
+<pub-id pub-id-type="doi">10.1093/cid/ciaa143</pub-id>
+<pub-id pub-id-type="pmid">32052029</pub-id>
+</element-citation>
+</ref>
+<ref id="bib0024">
+<label>24</label>
+<element-citation publication-type="journal" id="sbref0024">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Zambrano Sánchez</surname>
+<given-names>PG</given-names>
+</name>
+<name name-style="western">
+<surname>Mosquera Moyano</surname>
+<given-names>FM</given-names>
+</name>
+</person-group>
+<article-title>A case of monkeypox coinfection with syphilis in an Ecuadorian HIV positive young male</article-title>
+<source>Travel Med Infect Dis</source>
+<volume>52</volume>
+<year>2022</year>
+<object-id pub-id-type="publisher-id">102516</object-id>
+<pub-id pub-id-type="doi">10.1016/j.tmaid.2022.102516</pub-id>
+<pub-id pub-id-type="pmcid">PMC9791796</pub-id>
+<pub-id pub-id-type="pmid">36581142</pub-id>
+</element-citation>
+</ref>
+<ref id="bib0025">
+<label>25</label>
+<element-citation publication-type="journal" id="sbref0025">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Nolasco</surname>
+<given-names>S</given-names>
+</name>
+<name name-style="western">
+<surname>Vitale</surname>
+<given-names>F</given-names>
+</name>
+<name name-style="western">
+<surname>Geremia</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Tramuto</surname>
+<given-names>F</given-names>
+</name>
+<name name-style="western">
+<surname>Maida</surname>
+<given-names>CM</given-names>
+</name>
+<name name-style="western">
+<surname>Sciuto</surname>
+<given-names>A</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>First case of monkeypox virus, SARS-CoV-2 and HIV co-infection</article-title>
+<source>J Infect</source>
+<volume>86</volume>
+<year>2023</year>
+<fpage>e21</fpage>
+<lpage>e23</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jinf.2022.08.014</pub-id>
+<pub-id pub-id-type="pmid">35995308</pub-id>
+<pub-id pub-id-type="pmcid">PMC9389837</pub-id>
+</element-citation>
+</ref>
+<ref id="bib0026">
+<label>26</label>
+<element-citation publication-type="journal" id="sbref0026">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Zlámal</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Bartovská</surname>
+<given-names>Z</given-names>
+</name>
+<name name-style="western">
+<surname>Burantová</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Zákoucká</surname>
+<given-names>H</given-names>
+</name>
+<name name-style="western">
+<surname>Jiřincová</surname>
+<given-names>H</given-names>
+</name>
+<name name-style="western">
+<surname>Chmel</surname>
+<given-names>M</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Monkeypox and herpes simplex virus type 2 coinfection: case report of perianal lesions in HIV-positive patient</article-title>
+<source>Sex Transm Dis</source>
+<volume>49</volume>
+<year>2022</year>
+<fpage>769</fpage>
+<lpage>770</lpage>
+<pub-id pub-id-type="doi">10.1097/OLQ.0000000000001694</pub-id>
+<pub-id pub-id-type="pmid">35948285</pub-id>
+</element-citation>
+</ref>
+<ref id="bib0027">
+<label>27</label>
+<element-citation publication-type="journal" id="sbref0027">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Hoff</surname>
+<given-names>NA</given-names>
+</name>
+<name name-style="western">
+<surname>Morier</surname>
+<given-names>DS</given-names>
+</name>
+<name name-style="western">
+<surname>Kisalu</surname>
+<given-names>NK</given-names>
+</name>
+<name name-style="western">
+<surname>Johnston</surname>
+<given-names>SC</given-names>
+</name>
+<name name-style="western">
+<surname>Doshi</surname>
+<given-names>RH</given-names>
+</name>
+<name name-style="western">
+<surname>Hensley</surname>
+<given-names>LE</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Varicella coinfection in patients with active monkeypox in the Democratic Republic of the Congo</article-title>
+<source>EcoHealth</source>
+<volume>14</volume>
+<year>2017</year>
+<fpage>564</fpage>
+<lpage>574</lpage>
+<pub-id pub-id-type="doi">10.1007/s10393-017-1266-5</pub-id>
+<pub-id pub-id-type="pmid">28894977</pub-id>
+</element-citation>
+</ref>
+<ref id="bib0028">
+<label>28</label>
+<element-citation publication-type="journal" id="sbref0028">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Silva</surname>
+<given-names>MST</given-names>
+</name>
+<name name-style="western">
+<surname>Santos</surname>
+<given-names>DGD</given-names>
+</name>
+<name name-style="western">
+<surname>Coutinho</surname>
+<given-names>C</given-names>
+</name>
+<name name-style="western">
+<surname>Ribeiro</surname>
+<given-names>MPD</given-names>
+</name>
+<name name-style="western">
+<surname>Cardoso</surname>
+<given-names>SW</given-names>
+</name>
+<name name-style="western">
+<surname>Veloso</surname>
+<given-names>VG</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>The first case of acute HIV and monkeypox coinfection in Latin America</article-title>
+<source>Braz J Infect Dis</source>
+<volume>27</volume>
+<year>2023</year>
+<object-id pub-id-type="publisher-id">102736</object-id>
+<pub-id pub-id-type="doi">10.1016/j.bjid.2022.102736</pub-id>
+<pub-id pub-id-type="pmcid">PMC9800211</pub-id>
+<pub-id pub-id-type="pmid">36592945</pub-id>
+</element-citation>
+</ref>
+<ref id="bib0029">
+<label>29</label>
+<element-citation publication-type="journal" id="sbref0029">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Hughes</surname>
+<given-names>CM</given-names>
+</name>
+<name name-style="western">
+<surname>Liu</surname>
+<given-names>L</given-names>
+</name>
+<name name-style="western">
+<surname>Davidson</surname>
+<given-names>WB</given-names>
+</name>
+<name name-style="western">
+<surname>Radford</surname>
+<given-names>KW</given-names>
+</name>
+<name name-style="western">
+<surname>Wilkins</surname>
+<given-names>K</given-names>
+</name>
+<name name-style="western">
+<surname>Monroe</surname>
+<given-names>B</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>A tale of two viruses: coinfections of monkeypox and varicella zoster virus in the Democratic Republic of Congo</article-title>
+<source>Am J Trop Med Hyg</source>
+<volume>104</volume>
+<year>2020</year>
+<fpage>604</fpage>
+<lpage>611</lpage>
+<pub-id pub-id-type="doi">10.4269/ajtmh.20-0589</pub-id>
+<pub-id pub-id-type="pmid">33289470</pub-id>
+<pub-id pub-id-type="pmcid">PMC7866336</pub-id>
+</element-citation>
+</ref>
+<ref id="bib0030">
+<label>30</label>
+<element-citation publication-type="journal" id="sbref0030">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>El-Qushayri</surname>
+<given-names>AE</given-names>
+</name>
+<name name-style="western">
+<surname>Reda</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Shah</surname>
+<given-names>J.</given-names>
+</name>
+</person-group>
+<article-title>COVID-19 and monkeypox co-infection: a rapid systematic review</article-title>
+<source>Front Immunol</source>
+<volume>13</volume>
+<year>2022</year>
+<object-id pub-id-type="publisher-id">1094346</object-id>
+<pub-id pub-id-type="doi">10.3389/fimmu.2022.1094346</pub-id>
+<pub-id pub-id-type="pmcid">PMC9794570</pub-id>
+<pub-id pub-id-type="pmid">36591217</pub-id>
+</element-citation>
+</ref>
+<ref id="bib0031">
+<label>31</label>
+<element-citation publication-type="journal" id="sbref0031">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Prabaker</surname>
+<given-names>KK</given-names>
+</name>
+<name name-style="western">
+<surname>de St Maurice</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Uslan</surname>
+<given-names>DZ</given-names>
+</name>
+<name name-style="western">
+<surname>Yen</surname>
+<given-names>GC</given-names>
+</name>
+<name name-style="western">
+<surname>Manavi</surname>
+<given-names>S</given-names>
+</name>
+<name name-style="western">
+<surname>Gray</surname>
+<given-names>HK</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Case report: symptomatic herpes simplex virus type 2 and monkeypox coinfection in an adult male</article-title>
+<source>Am J Trop Med Hyg</source>
+<volume>107</volume>
+<year>2022</year>
+<fpage>1258</fpage>
+<lpage>1260</lpage>
+<pub-id pub-id-type="doi">10.4269/ajtmh.22-0499</pub-id>
+<pub-id pub-id-type="pmid">36375467</pub-id>
+<pub-id pub-id-type="pmcid">PMC9768272</pub-id>
+</element-citation>
+</ref>
+<ref id="bib0032">
+<label>32</label>
+<element-citation publication-type="journal" id="sbref0032">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Martins-Filho</surname>
+<given-names>PR</given-names>
+</name>
+<name name-style="western">
+<surname>Dorea</surname>
+<given-names>FCM</given-names>
+</name>
+<name name-style="western">
+<surname>Sena</surname>
+<given-names>LOC</given-names>
+</name>
+<name name-style="western">
+<surname>Bezerra</surname>
+<given-names>GVB</given-names>
+</name>
+<name name-style="western">
+<surname>Teixeira</surname>
+<given-names>DCP</given-names>
+</name>
+<name name-style="western">
+<surname>Damaso</surname>
+<given-names>CR</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>First reports of monkeypox and varicella-zoster virus coinfection in the global human monkeypox outbreak in 2022</article-title>
+<source>Travel Med Infect Dis</source>
+<volume>51</volume>
+<year>2023</year>
+<object-id pub-id-type="publisher-id">102510</object-id>
+<pub-id pub-id-type="doi">10.1016/j.tmaid.2022.102510</pub-id>
+<pub-id pub-id-type="pmcid">PMC9701572</pub-id>
+<pub-id pub-id-type="pmid">36450328</pub-id>
+</element-citation>
+</ref>
+<ref id="bib0033">
+<label>33</label>
+<element-citation publication-type="journal" id="sbref0033">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Ramoni</surname>
+<given-names>S</given-names>
+</name>
+<name name-style="western">
+<surname>Maronese</surname>
+<given-names>CA</given-names>
+</name>
+<name name-style="western">
+<surname>Morini</surname>
+<given-names>N</given-names>
+</name>
+<name name-style="western">
+<surname>Avallone</surname>
+<given-names>G</given-names>
+</name>
+<name name-style="western">
+<surname>Quattri</surname>
+<given-names>E</given-names>
+</name>
+<name name-style="western">
+<surname>Carrera</surname>
+<given-names>CG</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Syphilis and monkeypox co-infection: coincidence, synergy or asymptomatic carriage?</article-title>
+<source>Travel Med Infect Dis</source>
+<volume>50</volume>
+<year>2022</year>
+<object-id pub-id-type="publisher-id">102447</object-id>
+<pub-id pub-id-type="doi">10.1016/j.tmaid.2022.102447</pub-id>
+<pub-id pub-id-type="pmcid">PMC9629038</pub-id>
+<pub-id pub-id-type="pmid">36067937</pub-id>
+</element-citation>
+</ref>
+<ref id="bib0034">
+<label>34</label>
+<element-citation publication-type="journal" id="sbref0034">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Stephen</surname>
+<given-names>R</given-names>
+</name>
+<name name-style="western">
+<surname>Alele</surname>
+<given-names>F</given-names>
+</name>
+<name name-style="western">
+<surname>Olumoh</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Tyndall</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Okeke</surname>
+<given-names>MI</given-names>
+</name>
+<name name-style="western">
+<surname>Adegboye</surname>
+<given-names>O.</given-names>
+</name>
+</person-group>
+<article-title>The epidemiological trend of monkeypox and monkeypox-varicella zoster viruses co-infection in North-Eastern Nigeria</article-title>
+<source>Front Public Health</source>
+<volume>10</volume>
+<year>2022</year>
+<object-id pub-id-type="publisher-id">1066589</object-id>
+<pub-id pub-id-type="doi">10.3389/fpubh.2022.1066589</pub-id>
+<pub-id pub-id-type="pmcid">PMC9797713</pub-id>
+<pub-id pub-id-type="pmid">36589996</pub-id>
+</element-citation>
+</ref>
+<ref id="bib0035">
+<label>35</label>
+<element-citation publication-type="journal" id="sbref0035">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Hoffmann</surname>
+<given-names>C</given-names>
+</name>
+<name name-style="western">
+<surname>Jessen</surname>
+<given-names>H</given-names>
+</name>
+<name name-style="western">
+<surname>Wyen</surname>
+<given-names>C</given-names>
+</name>
+<name name-style="western">
+<surname>Grunwald</surname>
+<given-names>S</given-names>
+</name>
+<name name-style="western">
+<surname>Noe</surname>
+<given-names>S</given-names>
+</name>
+<name name-style="western">
+<surname>Teichmann</surname>
+<given-names>J</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Clinical characteristics of monkeypox virus infections among men with and without HIV: a large outbreak cohort in Germany</article-title>
+<source>HIV Med</source>
+<volume>3</volume>
+<year>2022</year>
+<fpage>243</fpage>
+<lpage>545</lpage>
+<pub-id pub-id-type="doi">10.1111/hiv.13378</pub-id>
+<pub-id pub-id-type="pmid">36059149</pub-id>
+</element-citation>
+</ref>
+<ref id="bib0036">
+<label>36</label>
+<element-citation publication-type="journal" id="sbref0036">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Desgranges</surname>
+<given-names>F</given-names>
+</name>
+<name name-style="western">
+<surname>Glampedakis</surname>
+<given-names>E</given-names>
+</name>
+<name name-style="western">
+<surname>Christinet</surname>
+<given-names>V</given-names>
+</name>
+<name name-style="western">
+<surname>Encarnação</surname>
+<given-names>S</given-names>
+</name>
+<name name-style="western">
+<surname>Fernandes</surname>
+<given-names>C</given-names>
+</name>
+<name name-style="western">
+<surname>Greub</surname>
+<given-names>G</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Rectal shedding of monkeypox virus in a patient coinfected with Chlamydia trachomatis and Neisseria gonorrhoeae: a case report</article-title>
+<source>J Med Case Rep</source>
+<volume>17</volume>
+<year>2023</year>
+<fpage>94</fpage>
+<pub-id pub-id-type="doi">10.1186/s13256-023-03826-z</pub-id>
+<pub-id pub-id-type="pmid">36872313</pub-id>
+<pub-id pub-id-type="pmcid">PMC9987122</pub-id>
+</element-citation>
+</ref>
+<ref id="bib0037">
+<label>37</label>
+<element-citation publication-type="journal" id="sbref0037">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>AbdullGaffar</surname>
+<given-names>B</given-names>
+</name>
+<name name-style="western">
+<surname>Abdulrahman</surname>
+<given-names>S.</given-names>
+</name>
+</person-group>
+<article-title>Monkeypox virus, herpes simplex virus, and cytomegalovirus skin coinfections</article-title>
+<source>J Med Virol</source>
+<volume>95</volume>
+<year>2023</year>
+<fpage>e28500</fpage>
+<pub-id pub-id-type="doi">10.1002/jmv.28500</pub-id>
+<pub-id pub-id-type="pmid">36653827</pub-id>
+</element-citation>
+</ref>
+<ref id="bib0038">
+<label>38</label>
+<element-citation publication-type="journal" id="sbref0038">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Paparizos</surname>
+<given-names>V</given-names>
+</name>
+<name name-style="western">
+<surname>Tsimpidakis</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Paparizou</surname>
+<given-names>E</given-names>
+</name>
+<name name-style="western">
+<surname>Gagari</surname>
+<given-names>E</given-names>
+</name>
+<name name-style="western">
+<surname>Nicolaidou</surname>
+<given-names>E</given-names>
+</name>
+<name name-style="western">
+<surname>Stratigos</surname>
+<given-names>A.</given-names>
+</name>
+</person-group>
+<article-title>Monkeypox virus and secondary syphilis co-infection in a HIV-positive man</article-title>
+<source>J Eur Acad Dermatol Venereol</source>
+<volume>1</volume>
+<year>2023</year>
+<fpage>8875</fpage>
+<pub-id pub-id-type="doi">10.1111/jdv.18875</pub-id>
+<pub-id pub-id-type="pmid">36648135</pub-id>
+</element-citation>
+</ref>
+<ref id="bib0039">
+<label>39</label>
+<element-citation publication-type="journal" id="sbref0039">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Videlefsky</surname>
+<given-names>D</given-names>
+</name>
+<name name-style="western">
+<surname>Matos Noboa</surname>
+<given-names>C</given-names>
+</name>
+<name name-style="western">
+<surname>Ramchandani</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<article-title>Herpes and chest pain: two atypical monkeypox cases</article-title>
+<source>Cureus</source>
+<volume>15</volume>
+<year>2023</year>
+<fpage>e33705</fpage>
+<pub-id pub-id-type="doi">10.7759/cureus.33705</pub-id>
+<pub-id pub-id-type="pmid">36788898</pub-id>
+<pub-id pub-id-type="pmcid">PMC9922051</pub-id>
+</element-citation>
+</ref>
+<ref id="bib0040">
+<label>40</label>
+<element-citation publication-type="journal" id="sbref0040">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Brazão</surname>
+<given-names>C</given-names>
+</name>
+<name name-style="western">
+<surname>Garrido</surname>
+<given-names>PM</given-names>
+</name>
+<name name-style="western">
+<surname>Alpalhão</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Roda</surname>
+<given-names>Â</given-names>
+</name>
+<name name-style="western">
+<surname>Vieitez-Frade</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Ferreira</surname>
+<given-names>JA</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Monkeypox virus infection in HIV-1-coinfected patients previously vaccinated against smallpox: a series of 4 cases from Portugal</article-title>
+<source>J Eur Acad Dermatol Venereol</source>
+<volume>37</volume>
+<year>2023</year>
+<fpage>e319</fpage>
+<lpage>e321</lpage>
+<pub-id pub-id-type="doi">10.1111/jdv.18655</pub-id>
+<pub-id pub-id-type="pmid">36223385</pub-id>
+</element-citation>
+</ref>
+<ref id="bib0041">
+<label>41</label>
+<element-citation publication-type="journal" id="sbref0041">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Rizzo</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Pozza</surname>
+<given-names>G</given-names>
+</name>
+<name name-style="western">
+<surname>Salari</surname>
+<given-names>F</given-names>
+</name>
+<name name-style="western">
+<surname>Giacomelli</surname>
+<given-names>A</given-names>
+</name>
+<name name-style="western">
+<surname>Mileto</surname>
+<given-names>D</given-names>
+</name>
+<name name-style="western">
+<surname>Cossu</surname>
+<given-names>MV</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Concomitant diagnosis of sexually transmitted infections and human monkeypox in patients attending a sexual health clinic in Milan, Italy</article-title>
+<source>J Med Virol</source>
+<volume>95</volume>
+<year>2023</year>
+<fpage>e28328</fpage>
+<pub-id pub-id-type="doi">10.1002/jmv.28328</pub-id>
+<pub-id pub-id-type="pmid">36415133</pub-id>
+</element-citation>
+</ref>
+</ref-list>
+</back>
+</article>
+</pmc-articleset>

@@ -1,0 +1,1017 @@
+<pmc-articleset xmlns:ns0="http://www.w3.org/1999/xlink">
+<article article-type="review-article" xml:lang="en" dtd-version="1.4">
+<processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+<restricted-by>pmc</restricted-by>
+</processing-meta>
+<front>
+<journal-meta>
+<journal-id journal-id-type="nlm-ta">Lancet</journal-id>
+<journal-id journal-id-type="iso-abbrev">Lancet</journal-id>
+<journal-id journal-id-type="pmc-domain-id">4298</journal-id>
+<journal-id journal-id-type="pmc-domain">mpxelsevier</journal-id>
+<journal-title-group>
+<journal-title>Lancet (London, England)</journal-title>
+</journal-title-group>
+<issn pub-type="ppub">0140-6736</issn>
+<issn pub-type="epub">1474-547X</issn>
+<custom-meta-group>
+<custom-meta>
+<meta-name>pmc-is-collection-domain</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-collection-title</meta-name>
+<meta-value>Elsevier - PMC Mpox Collection</meta-value>
+</custom-meta>
+</custom-meta-group>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="pmcid">PMC10154003</article-id>
+<article-id pub-id-type="pmcid-ver">PMC10154003.1</article-id>
+<article-id pub-id-type="pmcaid">10154003</article-id>
+<article-id pub-id-type="pmcaiid">10154003</article-id>
+<article-id pub-id-type="pmid">37146622</article-id>
+<article-id pub-id-type="doi">10.1016/S0140-6736(23)00588-3</article-id>
+<article-id pub-id-type="pii">S0140-6736(23)00588-3</article-id>
+<article-version article-version-type="pmc-version">1</article-version>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Viewpoint</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Mpox neglect and the smallpox niche: a problem for Africa, a problem for the world</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" id="au10">
+<name name-style="western">
+<surname>Adetifa</surname>
+<given-names initials="I">Ifedayo</given-names>
+</name>
+<degrees>Prof</degrees>
+<degrees>PhD</degrees>
+<xref rid="aff1" ref-type="aff">a</xref>
+</contrib>
+<contrib contrib-type="author" id="au20">
+<name name-style="western">
+<surname>Muyembe</surname>
+<given-names initials="JJ">Jean-Jacques</given-names>
+</name>
+<degrees>Prof</degrees>
+<degrees>PhD</degrees>
+<xref rid="aff2" ref-type="aff">b</xref>
+</contrib>
+<contrib contrib-type="author" id="au30">
+<name name-style="western">
+<surname>Bausch</surname>
+<given-names initials="DG">Daniel G</given-names>
+</name>
+<degrees>Prof</degrees>
+<degrees>MD</degrees>
+<xref rid="aff3" ref-type="aff">c</xref>
+<xref rid="aff4" ref-type="aff">d</xref>
+<xref rid="cor1" ref-type="corresp">*</xref>
+</contrib>
+<contrib contrib-type="author" id="au40">
+<name name-style="western">
+<surname>Heymann</surname>
+<given-names initials="DL">David L</given-names>
+</name>
+<degrees>Prof</degrees>
+<degrees>MD</degrees>
+<xref rid="aff4" ref-type="aff">d</xref>
+</contrib>
+<aff id="aff1">
+<label>a</label>Nigeria Centre for Disease Control, Abuja, Nigeria</aff>
+<aff id="aff2">
+<label>b</label>Institut National de Recherche Biomédicale, Kinshasa, Democratic Republic of the Congo</aff>
+<aff id="aff3">
+<label>c</label>FIND, Geneva, Switzerland</aff>
+<aff id="aff4">
+<label>d</label>Global Health Security Department, London School of Hygiene &amp; Tropical Medicine, London, UK</aff>
+</contrib-group>
+<author-notes>
+<corresp id="cor1">
+<label>*</label>Correspondence to: Prof Daniel Bausch, FIND, Geneva 1202, Switzerland</corresp>
+</author-notes>
+<pub-date pub-type="ppub" iso-8601-date="2023-06-02">
+<season>27 May-2 June</season>
+<year>2023</year>
+</pub-date>
+<pub-date pub-type="epub">
+<day>2</day>
+<month>5</month>
+<year>2023</year>
+</pub-date>
+<volume>401</volume>
+<issue>10390</issue>
+<issue-id pub-id-type="pmc-issue-id">434826</issue-id>
+<fpage>1822</fpage>
+<lpage>1824</lpage>
+<pub-history>
+<event event-type="pmc-release">
+<date>
+<day>02</day>
+<month>05</month>
+<year>2023</year>
+</date>
+</event>
+<event event-type="pmc-live">
+<date>
+<day>03</day>
+<month>05</month>
+<year>2023</year>
+</date>
+</event>
+<event event-type="pmc-last-change">
+<date iso-8601-date="2025-05-06 16:25:42.683">
+<day>06</day>
+<month>05</month>
+<year>2025</year>
+</date>
+</event>
+</pub-history>
+<permissions>
+<copyright-statement>© 2023 Elsevier Ltd. All rights reserved.</copyright-statement>
+<copyright-year>2023</copyright-year>
+<copyright-holder>Elsevier Ltd</copyright-holder>
+<license>
+<license-p>Elsevier has created a Monkeypox Information Center (https://www.elsevier.com/connect/monkeypox-information-center) in response to the declared public health emergency of international concern, with free information in English on the monkeypox virus. The Monkeypox Information Center is hosted on Elsevier Connect, the company's public news and information website. Elsevier hereby grants permission to make all its monkeypox related research that is available on the Monkeypox Information Center - including this research content - immediately available in publicly funded repositories, with rights for unrestricted research re-use and analyses in any form or by any means with acknowledgement of the original source. These permissions are granted for free by Elsevier for as long as the Monkeypox Information Center remains active.</license-p>
+</license>
+</permissions>
+<self-uri content-type="pmc-pdf" ns0:href="main.pdf" />
+<abstract id="ceab10">
+<p>Mpox (formerly known as monkeypox) is a zoonotic viral disease endemic in parts of Africa. In May, 2022, the world was alerted to circulation of monkeypox virus in many high-income countries outside of Africa. Continued spread resulted in a WHO declaration of a Public Health Emergency of International Concern. Although there has been much attention on the global outbreak, most of the focus has been on high-income countries outside of Africa, despite the fact that monkeypox virus has been causing disease in parts of Africa for at least 50 years. Furthermore, the long-term consequences of this event, especially the risk that mpox fills the niche vacated through smallpox eradication, have not been sufficiently considered. The heart of the problem is the historical neglect of mpox in Africa where the disease is endemic, and the actual and potential consequences if this neglect is left uncorrected.</p>
+</abstract>
+<custom-meta-group>
+<custom-meta>
+<meta-name>pmc-status-qastatus</meta-name>
+<meta-value>0</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-status-live</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-status-embargo</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-status-released</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-open-access</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-olf</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-manuscript</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-legally-suppressed</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-has-pdf</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-has-supplement</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-pdf-only</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-suppress-copyright</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-is-real-version</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-is-scanned-article</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-preprint</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-in-epmc</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+</custom-meta-group>
+</article-meta>
+</front>
+<body>
+<p id="para10">Mpox (formerly known as monkeypox) is a zoonotic viral disease endemic in parts of Africa. However, from January, 2022, to February, 2023, more than 85 000 cases and 100 deaths were reported in 110 countries, the vast majority high-income countries outside of the African continent, propagated almost exclusively by human-to-human transmission.<xref rid="bib1" ref-type="bibr">
+<sup>1</sup>
+</xref> The outbreak awoke the world to what was previously a largely ignored tropical disease considered of relevance only to remote parts of Africa. But should we be surprised? For those who cared to look, the signs were many.</p>
+<p id="para20">There are two distinct monkeypox virus clades with differing pathogenicity: Clade I, almost exclusively found in the Congo Basin or central Africa, associated with smallpox-like disease and has an estimated case fatality of 10%, and Clade II, found in west Africa, usually causes a milder disease with scant lesions in patients who are not at high risk and lower viraemia and transmissibility, with a case fatality of 1–3%.<xref rid="bib2" ref-type="bibr">2</xref>, <xref rid="bib3" ref-type="bibr">3</xref> Two Clade II sublineages, IIa and IIb, are now delineated. Clade IIb, which is derived from IIa and thought to have emerged from west Africa in 2017, is primarily behind the global outbreak, and is believed to have become better adapted to human-to-human transmission than other monkeypox viruses.<xref rid="bib4" ref-type="bibr">4</xref>, <xref rid="bib5" ref-type="bibr">5</xref> Circulation of other Clade II sublineages has also been reported.<xref rid="bib6" ref-type="bibr">
+<sup>6</sup>
+</xref>
+</p>
+<p id="para30">Monkeypox virus is generally transmitted via close physical contact. Transmission through sex or intimate contact has been the driver and focus of the outbreak in high-income countries, although this might not be a new phenomenon, since genital lesions have previously been noted and transmission through intimate contact suspected in people with mpox in Africa.<xref rid="bib7" ref-type="bibr">
+<sup>7</sup>
+</xref>
+</p>
+<p id="para40">Variola virus, which causes smallpox in humans, and monkeypox virus are closely related: both belong to the orthopoxvirus genus.<xref rid="bib8" ref-type="bibr">
+<sup>8</sup>
+</xref> After a sustained global vaccination effort, smallpox was declared eradicated in 1980—an event considered one of the greatest public health achievements in history.<xref rid="bib9" ref-type="bibr">
+<sup>9</sup>
+</xref> Eradication was possible in part because variola virus infects only humans, whereas monkeypox virus has a broad spectrum of animal reservoirs, thought to include various types of rodents and squirrels.<xref rid="bib8" ref-type="bibr">8</xref>, <xref rid="bib10" ref-type="bibr">10</xref>, <xref rid="bib11" ref-type="bibr">11</xref> Although more specific studies are yet to be done, smallpox vaccination is estimated to be approximately 85% protective against mpox.<xref rid="bib12" ref-type="bibr">
+<sup>12</sup>
+</xref>
+</p>
+<p id="para50">Monkeypox virus was discovered (and misnamed, since monkeys turned out to be a dead-end host, not a natural reservoir) from infection in monkeys being used for laboratory research in Denmark in 1958.<xref rid="bib13" ref-type="bibr">
+<sup>13</sup>
+</xref> The first human case was reported in the Democratic Republic of the Congo in 1970, after which sporadic human cases occurred across five central and west African countries throughout the 1970s.<xref rid="bib14" ref-type="bibr">14</xref>, <xref rid="bib15" ref-type="bibr">15</xref> These cases led to concerns from WHO that mpox might fill smallpox's epidemiological niche now that routine smallpox vaccination programmes were discontinued and population immunity was inevitably starting to wane with almost all people younger than 40 years unvaccinated and susceptible.<xref rid="bib14" ref-type="bibr">14</xref>, <xref rid="bib15" ref-type="bibr">15</xref>
+</p>
+<p id="para60">In the Democratic Republic of the Congo, reported index cases of mpox were primarily young and unvaccinated children, with occasional transmission to again younger unvaccinated family members, although chains of transmission were short.<xref rid="bib16" ref-type="bibr">
+<sup>16</sup>
+</xref> Continued surveillance, some of it actively searching for cases in defined areas of the country, supported this finding, with index cases often happening after close contact with wild animals, including through hunting.<xref rid="bib16" ref-type="bibr">
+<sup>16</sup>
+</xref> Subsequent serological surveys of more than 10 000 children with no smallpox vaccination scar were done in the early 1980s in central and west Africa, with monkeypox-specific antibodies found in less than 1%, indicating that the disease was still rare.<xref rid="bib14" ref-type="bibr">
+<sup>14</sup>
+</xref>
+</p>
+<p id="para70">However, reported cases increased during the next few decades,<xref rid="bib17" ref-type="bibr">
+<sup>17</sup>
+</xref> a finding initially attributed to improved surveillance.<xref rid="bib14" ref-type="bibr">
+<sup>14</sup>
+</xref> A large cluster of cases occurred in the Democratic Republic of the Congo in 1996, with extended chains of transmission among people who were unvaccinated.<xref rid="bib18" ref-type="bibr">
+<sup>18</sup>
+</xref> For the first time, human-to-human transmission accounted for the majority of cases.<xref rid="bib19" ref-type="bibr">
+<sup>19</sup>
+</xref> Genetic sequence data did not reveal substantial mutations to account for this event.<xref rid="bib19" ref-type="bibr">
+<sup>19</sup>
+</xref> By the early 2000s, outbreak investigations in the Democratic Republic of the Congo suggested that the risk of mpox was five times higher among people who had not received smallpox vaccination, and that the incidence had increased by 20 times since the 1980s, again with the majority of cases occurring in children and young adults.<xref rid="bib20" ref-type="bibr">
+<sup>20</sup>
+</xref>
+</p>
+<p id="para80">Although the severity of disease during the global outbreak has generally been mild,<xref rid="bib21" ref-type="bibr">
+<sup>21</sup>
+</xref> we cannot assume that this will be the case for future outbreaks. All reported cases of mpox outside of Africa to date have been due to the less pathogenic Clade II, probably reflecting the far greater frequency of intercontinental travel from west Africa, especially Nigeria with its large population, than from central Africa. However, the majority of reported cases in recent decades in Africa have been Clade I.<xref rid="bib17" ref-type="bibr">
+<sup>17</sup>
+</xref> With ever increasing travel and trade, it is probably just a matter of time until a traveller or small mammal carries the more dangerous Clade I virus, with its close resemblance to smallpox, to faraway places.</p>
+<p id="para90">The shock of mpox spreading around the globe has spurred intense interest, but the talk and concern is still primarily oriented towards high-income countries. Meanwhile, mpox continues to cause illness and death in Africa, with 1267 confirmed cases and 226 deaths (case fatality 17·8%) in 2022.<xref rid="bib22" ref-type="bibr">
+<sup>22</sup>
+</xref> The number of reported cases (probably a substantial underestimate due to inadequate surveillance) has continued to steadily rise on the continent in the past few decades. Nevertheless, apart from a few research protocols, there are still no vaccines or antivirals available in Africa as part of the global response to mpox. Vaccine use or mobilisation of the global stockpiles, which might have stemmed transmission in west Africa in 2017 and prevented the eventual emergence of the human-adapted Clade IIb and the global outbreak, was never recommended for use in these settings by global health experts and institutions.<xref rid="bib23" ref-type="bibr">
+<sup>23</sup>
+</xref>
+</p>
+<p id="para100">Through time and neglect, from its origins in Africa (an epidemiological fact, not a designation of blame), mpox has now become a global problem, prompting WHO to declare the outbreak a Public Health Emergency of International Concern (PHEIC).<xref rid="bib24" ref-type="bibr">
+<sup>24</sup>
+</xref> Although transmission has decreased in recent months in many high-income countries, probably due to a combination of behaviour change and immunity in groups at high risk through either natural infection or immunisation, in February, 2023, WHO opted to continue the PHEIC designation, in part due to recognition of the continued transmission in Africa.<xref rid="bib25" ref-type="bibr">
+<sup>25</sup>
+</xref> This was a wise decision, since lack of action now risks at least three non-mutually exclusive and potentially grave consequences: (1) monkeypox virus becomes widely disseminated and entrenched in humans, maintaining itself through human-to-human transmission, especially through sex and intimate contact (this could include potential reverse exportation of the more human-adapted Clade IIb from high-income countries back to Africa, including to countries where mpox is not endemic); (2) mpox fills the epidemiological niche left by smallpox eradication, undermining that incredible achievement and resulting in orthopoxvirus outbreaks becoming a common event; and (3) reverse zoonotic transmission (in which the virus is passed from humans to a species of animal not previously infected), resulting in more diversity in reservoirs and geographical expansion of endemicity with increased risk of zoonotic transmission. DNA viruses, such as monkeypox virus, are more stable in the environment compared with RNA viruses, such as SARS-CoV-2 and Ebola virus, which could facilitate passage back to animals. Recent human-to-dog transmission of monkeypox virus in France<xref rid="bib26" ref-type="bibr">
+<sup>26</sup>
+</xref> and Brazil,<xref rid="bib27" ref-type="bibr">
+<sup>27</sup>
+</xref> as well as the capacity for North American prairie dogs (genus <italic toggle="yes">Cynomys</italic>)<xref rid="bib28" ref-type="bibr">
+<sup>28</sup>
+</xref> to be infected and transmit virus to humans, highlight the risk.</p>
+<p id="para110">All of these events could potentially force widespread re-initiation of vaccination against orthopoxviruses. In contrast with smallpox, monkeypox virus, with its zoonotic reservoirs, would be nearly impossible to eradicate.<xref rid="bib8" ref-type="bibr">8</xref>, <xref rid="bib10" ref-type="bibr">10</xref>, <xref rid="bib11" ref-type="bibr">11</xref> This eventuality has relevance not only for mpox, but also begs considerable forethought in approaches and consequences to eradication of other diseases, including poliovirus and measles, as well as for careful contemplation regarding destruction of the last stocks of remaining virus once eradication is achieved.</p>
+<p id="para120">Confronting mpox rapidly and globally is imperative. Research questions of particular importance include arriving at an improved understanding of transmission patterns and associated risk behaviours; the natural reservoir(s); the natural history of infection, especially in people who are immunosuppressed; the efficacy of existing vaccines and therapeutics; the duration of protection after natural infection and vaccination; and effective infection control strategies, especially with regard to person-to-person transmission. Many of the answers can only come from research in Africa where mpox is endemic.</p>
+<p id="para130">Public health workers and researchers in Africa have the needed technical skills but, because of competing and often concurrent public health threats and priorities, will continue to require complementary external financial and technical support. Although collaboration is always welcome, research should be African-led, with partners selected by researchers in Africa, rather than so-called parachute research directed by foreign scientists, who have in some instances taken data and specimens back to their own countries to complete their studies.<xref rid="bib29" ref-type="bibr">
+<sup>29</sup>
+</xref> In the USA in July, 2022, President Joe Biden estimated a budget of US$7 billion to control mpox. Although the breakdown of this sum has not yet been released, the prudent move would be to make sure that it includes support for African public health leaders and researchers to address mpox in Africa.<xref rid="bib30" ref-type="bibr">
+<sup>30</sup>
+</xref> Governments in Africa are also called to increasingly contribute to public health research required for their own national health security. We must ensure that African people not only participate substantially, including in leadership roles in the research, but also benefit from the results.</p>
+<p id="para140">The global mpox outbreak, similar to the Zika virus and Ebola virus epidemics in recent years, is a reminder of just how small and connected the planet has become. Assisting our fellow humans when they ask for support to decrease illness and death from emerging infections is our collective duty; in addition, from a purely strategic perspective, there is now no place so remote, no virus so exotic, that it can be considered strictly someone else's problem. Keeping everyone safe will require a global outlook and approach and should always start with addressing the problem where it is endemic and causing the most illness and death—a strategy in everyone's best interest.</p>
+<sec sec-type="COI-statement">
+<title>Declaration of interests</title>
+<p id="para170">DGB is a member of and DLH is an adviser for the WHO Mpox International Health Regulations Emergency Committee. IA and J-JM declare no competing interests.</p>
+</sec>
+</body>
+<back>
+<ref-list id="bibl10">
+<title>References</title>
+<ref id="bib1">
+<label>1</label>
+<element-citation publication-type="other" id="sbref10">
+<person-group person-group-type="author">
+<collab>WHO</collab>
+</person-group>
+<article-title>2022–23 mpox (monkeypox) outbreak: global trends</article-title>
+<ext-link ext-link-type="uri" ns0:href="https://worldhealthorg.shinyapps.io/mpx_global/" id="interrefs10">https://worldhealthorg.shinyapps.io/mpx_global/</ext-link>
+<year>2023</year>
+</element-citation>
+</ref>
+<ref id="bib2">
+<label>2</label>
+<element-citation publication-type="journal" id="sbref20">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Likos</surname>
+<given-names>AM</given-names>
+</name>
+<name name-style="western">
+<surname>Sammons</surname>
+<given-names>SA</given-names>
+</name>
+<name name-style="western">
+<surname>Olson</surname>
+<given-names>VA</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>A tale of two clades: monkeypox viruses</article-title>
+<source>J Gen Virol</source>
+<volume>86</volume>
+<year>2005</year>
+<fpage>2661</fpage>
+<lpage>2672</lpage>
+<pub-id pub-id-type="pmid">16186219</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1099/vir.0.81215-0</pub-id>
+</element-citation>
+</ref>
+<ref id="bib3">
+<label>3</label>
+<element-citation publication-type="journal" id="sbref30">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Nakazawa</surname>
+<given-names>Y</given-names>
+</name>
+<name name-style="western">
+<surname>Mauldin</surname>
+<given-names>MR</given-names>
+</name>
+<name name-style="western">
+<surname>Emerson</surname>
+<given-names>GL</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>A phylogeographic investigation of African monkeypox</article-title>
+<source>Viruses</source>
+<volume>7</volume>
+<year>2015</year>
+<fpage>2168</fpage>
+<lpage>2184</lpage>
+<pub-id pub-id-type="pmid">25912718</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/v7042168</pub-id>
+<pub-id pub-id-type="pmcid">PMC4411695</pub-id>
+</element-citation>
+</ref>
+<ref id="bib4">
+<label>4</label>
+<element-citation publication-type="journal" id="sbref40">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Luna</surname>
+<given-names>N</given-names>
+</name>
+<name name-style="western">
+<surname>Ramírez</surname>
+<given-names>AL</given-names>
+</name>
+<name name-style="western">
+<surname>Muñoz</surname>
+<given-names>M</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Phylogenomic analysis of the monkeypox virus (MPXV) 2022 outbreak: emergence of a novel viral lineage?</article-title>
+<source>Travel Med Infect Dis</source>
+<volume>49</volume>
+<year>2022</year>
+<object-id pub-id-type="publisher-id">102402</object-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.tmaid.2022.102402</pub-id>
+<pub-id pub-id-type="pmcid">PMC9628808</pub-id>
+<pub-id pub-id-type="pmid">35840078</pub-id>
+</element-citation>
+</ref>
+<ref id="bib5">
+<label>5</label>
+<element-citation publication-type="journal" id="sbref50">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Dumonteil</surname>
+<given-names>E</given-names>
+</name>
+<name name-style="western">
+<surname>Herrera</surname>
+<given-names>C</given-names>
+</name>
+<name name-style="western">
+<surname>Sabino-Santos</surname>
+<given-names>G</given-names>
+</name>
+</person-group>
+<article-title>Monkeypox virus evolution before 2022 outbreak</article-title>
+<source>Emerg Infect Dis</source>
+<volume>29</volume>
+<year>2023</year>
+<fpage>451</fpage>
+<lpage>453</lpage>
+<pub-id pub-id-type="pmid">36692511</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3201/eid2902.220962</pub-id>
+<pub-id pub-id-type="pmcid">PMC9881786</pub-id>
+</element-citation>
+</ref>
+<ref id="bib6">
+<label>6</label>
+<element-citation publication-type="journal" id="sbref60">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Dung</surname>
+<given-names>NT</given-names>
+</name>
+<name name-style="western">
+<surname>Hung</surname>
+<given-names>LM</given-names>
+</name>
+<name name-style="western">
+<surname>Hoa</surname>
+<given-names>HTT</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Monkeypox virus infection in 2 female travelers returning to Vietnam from Dubai, United Arab Emirates, 2022</article-title>
+<source>Emerg Infect Dis</source>
+<year>2023</year>
+<comment>published online Jan 25.</comment>
+<pub-id pub-id-type="doi">10.3201/eid2904.221835</pub-id>
+<pub-id pub-id-type="pmcid">PMC10045713</pub-id>
+<pub-id pub-id-type="pmid">36696624</pub-id>
+</element-citation>
+</ref>
+<ref id="bib7">
+<label>7</label>
+<element-citation publication-type="journal" id="sbref70">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Simpson</surname>
+<given-names>K</given-names>
+</name>
+<name name-style="western">
+<surname>Heymann</surname>
+<given-names>D</given-names>
+</name>
+<name name-style="western">
+<surname>Brown</surname>
+<given-names>CS</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Human monkeypox—after 40 years, an unintended consequence of smallpox eradication</article-title>
+<source>Vaccine</source>
+<volume>38</volume>
+<year>2020</year>
+<fpage>5077</fpage>
+<lpage>5081</lpage>
+<pub-id pub-id-type="pmid">32417140</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.vaccine.2020.04.062</pub-id>
+<pub-id pub-id-type="pmcid">PMC9533855</pub-id>
+</element-citation>
+</ref>
+<ref id="bib8">
+<label>8</label>
+<element-citation publication-type="journal" id="sbref80">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Pauli</surname>
+<given-names>G</given-names>
+</name>
+<name name-style="western">
+<surname>Blümel</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Burger</surname>
+<given-names>R</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Orthopox viruses: infections in humans</article-title>
+<source>Transfus Med Hemother</source>
+<volume>37</volume>
+<year>2010</year>
+<fpage>351</fpage>
+<lpage>364</lpage>
+<pub-id pub-id-type="pmid">21483466</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1159/000322101</pub-id>
+<pub-id pub-id-type="pmcid">PMC3048946</pub-id>
+</element-citation>
+</ref>
+<ref id="bib9">
+<label>9</label>
+<element-citation publication-type="other" id="sbref90">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Fenner</surname>
+<given-names>F</given-names>
+</name>
+<name name-style="western">
+<surname>Henderson</surname>
+<given-names>DA</given-names>
+</name>
+<name name-style="western">
+<surname>Arita</surname>
+<given-names>I</given-names>
+</name>
+<name name-style="western">
+<surname>Jezek</surname>
+<given-names>Z</given-names>
+</name>
+<name name-style="western">
+<surname>Ladnyi</surname>
+<given-names>ID</given-names>
+</name>
+</person-group>
+<article-title>Smallpox and its eradication</article-title>
+<ext-link ext-link-type="uri" ns0:href="https://apps.who.int/iris/handle/10665/39485" id="interrefs30">https://apps.who.int/iris/handle/10665/39485</ext-link>
+<year>1988</year>
+</element-citation>
+</ref>
+<ref id="bib10">
+<label>10</label>
+<element-citation publication-type="journal" id="sbref100">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Di Giulio</surname>
+<given-names>DB</given-names>
+</name>
+<name name-style="western">
+<surname>Eckburg</surname>
+<given-names>PB</given-names>
+</name>
+</person-group>
+<article-title>Human monkeypox: an emerging zoonosis</article-title>
+<source>Lancet Infect Dis</source>
+<volume>4</volume>
+<year>2004</year>
+<fpage>15</fpage>
+<lpage>25</lpage>
+<pub-id pub-id-type="pmid">14720564</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1473-3099(03)00856-9</pub-id>
+<pub-id pub-id-type="pmcid">PMC9628772</pub-id>
+</element-citation>
+</ref>
+<ref id="bib11">
+<label>11</label>
+<element-citation publication-type="journal" id="sbref110">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Petersen</surname>
+<given-names>E</given-names>
+</name>
+<name name-style="western">
+<surname>Abubakar</surname>
+<given-names>I</given-names>
+</name>
+<name name-style="western">
+<surname>Ihekweazu</surname>
+<given-names>C</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Monkeypox—enhancing public health preparedness for an emerging lethal human zoonotic epidemic threat in the wake of the smallpox post-eradication era</article-title>
+<source>Int J Infect Dis</source>
+<volume>78</volume>
+<year>2019</year>
+<fpage>78</fpage>
+<lpage>84</lpage>
+<pub-id pub-id-type="pmid">30453097</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ijid.2018.11.008</pub-id>
+<pub-id pub-id-type="pmcid">PMC7129336</pub-id>
+</element-citation>
+</ref>
+<ref id="bib12">
+<label>12</label>
+<element-citation publication-type="journal" id="sbref120">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Fine</surname>
+<given-names>PE</given-names>
+</name>
+<name name-style="western">
+<surname>Jezek</surname>
+<given-names>Z</given-names>
+</name>
+<name name-style="western">
+<surname>Grab</surname>
+<given-names>B</given-names>
+</name>
+<name name-style="western">
+<surname>Dixon</surname>
+<given-names>H</given-names>
+</name>
+</person-group>
+<article-title>The transmission potential of monkeypox virus in human populations</article-title>
+<source>Int J Epidemiol</source>
+<volume>17</volume>
+<year>1988</year>
+<fpage>643</fpage>
+<lpage>650</lpage>
+<pub-id pub-id-type="pmid">2850277</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/ije/17.3.643</pub-id>
+</element-citation>
+</ref>
+<ref id="bib13">
+<label>13</label>
+<element-citation publication-type="journal" id="sbref130">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Magnus</surname>
+<given-names>P</given-names>
+</name>
+<name name-style="western">
+<surname>Andersen</surname>
+<given-names>EK</given-names>
+</name>
+<name name-style="western">
+<surname>Petersen</surname>
+<given-names>KB</given-names>
+</name>
+<name name-style="western">
+<surname>Birch-Andersen</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>A pox-like disease in cynomolgus monkeys</article-title>
+<source>Acta Pathol Microbiol Scand</source>
+<volume>46</volume>
+<year>1959</year>
+<fpage>156</fpage>
+<lpage>176</lpage>
+</element-citation>
+</ref>
+<ref id="bib14">
+<label>14</label>
+<element-citation publication-type="journal" id="sbref140">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Jezek</surname>
+<given-names>Z</given-names>
+</name>
+<name name-style="western">
+<surname>Khodakevich</surname>
+<given-names>LN</given-names>
+</name>
+<name name-style="western">
+<surname>Wickett</surname>
+<given-names>JF</given-names>
+</name>
+</person-group>
+<article-title>Smallpox and its post-eradication surveillance</article-title>
+<source>Bull World Health Organ</source>
+<volume>65</volume>
+<year>1987</year>
+<fpage>425</fpage>
+<lpage>434</lpage>
+<pub-id pub-id-type="pmid">3319266</pub-id>
+<pub-id pub-id-type="pmcid">PMC2491031</pub-id>
+</element-citation>
+</ref>
+<ref id="bib15">
+<label>15</label>
+<element-citation publication-type="journal" id="sbref150">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Breman</surname>
+<given-names>JG</given-names>
+</name>
+<name name-style="western">
+<surname>Kalisa-Ruti</surname>
+</name>
+<name name-style="western">
+<surname>Steniowski</surname>
+<given-names>MV</given-names>
+</name>
+<name name-style="western">
+<surname>Zanotto</surname>
+<given-names>E</given-names>
+</name>
+<name name-style="western">
+<surname>Gromyko</surname>
+<given-names>AI</given-names>
+</name>
+<name name-style="western">
+<surname>Arita</surname>
+<given-names>I</given-names>
+</name>
+</person-group>
+<article-title>Human monkeypox, 1970-79</article-title>
+<source>Bull World Health Organ</source>
+<volume>58</volume>
+<year>1980</year>
+<fpage>165</fpage>
+<lpage>182</lpage>
+<pub-id pub-id-type="pmid">6249508</pub-id>
+<pub-id pub-id-type="pmcid">PMC2395797</pub-id>
+</element-citation>
+</ref>
+<ref id="bib16">
+<label>16</label>
+<element-citation publication-type="journal" id="sbref160">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Heymann</surname>
+<given-names>DL</given-names>
+</name>
+<name name-style="western">
+<surname>Szczeniowski</surname>
+<given-names>M</given-names>
+</name>
+<name name-style="western">
+<surname>Esteves</surname>
+<given-names>K</given-names>
+</name>
+</person-group>
+<article-title>Re-emergence of monkeypox in Africa: a review of the past six years</article-title>
+<source>Br Med Bull</source>
+<volume>54</volume>
+<year>1998</year>
+<fpage>693</fpage>
+<lpage>702</lpage>
+<pub-id pub-id-type="pmid">10326294</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/oxfordjournals.bmb.a011720</pub-id>
+</element-citation>
+</ref>
+<ref id="bib17">
+<label>17</label>
+<element-citation publication-type="journal" id="sbref170">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Bunge</surname>
+<given-names>EM</given-names>
+</name>
+<name name-style="western">
+<surname>Hoet</surname>
+<given-names>B</given-names>
+</name>
+<name name-style="western">
+<surname>Chen</surname>
+<given-names>L</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>The changing epidemiology of human monkeypox—a potential threat? A systematic review</article-title>
+<source>PLoS Negl Trop Dis</source>
+<volume>16</volume>
+<year>2022</year>
+<object-id pub-id-type="publisher-id">e0010141</object-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pntd.0010141</pub-id>
+<pub-id pub-id-type="pmcid">PMC8870502</pub-id>
+<pub-id pub-id-type="pmid">35148313</pub-id>
+</element-citation>
+</ref>
+<ref id="bib18">
+<label>18</label>
+<element-citation publication-type="journal" id="sbref180">
+<person-group person-group-type="author">
+<collab>US Centers for Disease Control and Prevention</collab>
+</person-group>
+<article-title>Human monkeypox—Kasai Oriental, Zaire, 1996–1997</article-title>
+<source>MMWR Morb Mortal Wkly Rep</source>
+<volume>46</volume>
+<year>1997</year>
+<fpage>304</fpage>
+<lpage>307</lpage>
+<pub-id pub-id-type="pmid">9132583</pub-id>
+</element-citation>
+</ref>
+<ref id="bib19">
+<label>19</label>
+<element-citation publication-type="journal" id="sbref190">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Hutin</surname>
+<given-names>YJ</given-names>
+</name>
+<name name-style="western">
+<surname>Williams</surname>
+<given-names>RJ</given-names>
+</name>
+<name name-style="western">
+<surname>Malfait</surname>
+<given-names>P</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Outbreak of human monkeypox, Democratic Republic of Congo, 1996 to 1997</article-title>
+<source>Emerg Infect Dis</source>
+<volume>7</volume>
+<year>2001</year>
+<fpage>434</fpage>
+<lpage>438</lpage>
+<pub-id pub-id-type="pmid">11384521</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3201/eid0703.010311</pub-id>
+<pub-id pub-id-type="pmcid">PMC2631782</pub-id>
+</element-citation>
+</ref>
+<ref id="bib20">
+<label>20</label>
+<element-citation publication-type="journal" id="sbref200">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Rimoin</surname>
+<given-names>AW</given-names>
+</name>
+<name name-style="western">
+<surname>Mulembakani</surname>
+<given-names>PM</given-names>
+</name>
+<name name-style="western">
+<surname>Johnston</surname>
+<given-names>SC</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Major increase in human monkeypox incidence 30 years after smallpox vaccination campaigns cease in the Democratic Republic of Congo</article-title>
+<source>Proc Natl Acad Sci USA</source>
+<volume>107</volume>
+<year>2010</year>
+<fpage>16262</fpage>
+<lpage>16267</lpage>
+<pub-id pub-id-type="pmid">20805472</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.1005769107</pub-id>
+<pub-id pub-id-type="pmcid">PMC2941342</pub-id>
+</element-citation>
+</ref>
+<ref id="bib21">
+<label>21</label>
+<element-citation publication-type="other" id="sbref210">
+<person-group person-group-type="author">
+<collab>WHO</collab>
+</person-group>
+<article-title>Multi-country monkeypox outbreak: situation update</article-title>
+<ext-link ext-link-type="uri" ns0:href="https://www.who.int/emergencies/disease-outbreak-news/item/2022-DON396" id="interrefs40">https://www.who.int/emergencies/disease-outbreak-news/item/2022-DON396</ext-link>
+<year>2022</year>
+</element-citation>
+</ref>
+<ref id="bib22">
+<label>22</label>
+<element-citation publication-type="other" id="sbref220">
+<person-group person-group-type="author">
+<collab>Africa Centers for Disease Control and Prevention</collab>
+</person-group>
+<article-title>Outbreak Brief 26: mpox in Africa Union Member States</article-title>
+<ext-link ext-link-type="uri" ns0:href="https://africacdc.org/disease-outbreak/outbreak-brief-26-mpox-in-africa-union-member-states/" id="interrefs50">https://africacdc.org/disease-outbreak/outbreak-brief-26-mpox-in-africa-union-member-states/</ext-link>
+<year>2023</year>
+</element-citation>
+</ref>
+<ref id="bib23">
+<label>23</label>
+<element-citation publication-type="other" id="sbref230">
+<person-group person-group-type="author">
+<collab>ahramonline</collab>
+</person-group>
+<article-title>As monkeypox drops in the West, still no vaccines for Africa</article-title>
+<ext-link ext-link-type="uri" ns0:href="https://english.ahram.org.eg/NewsContent/2/10/476104/World/Africa/As-monkeypox-drops-in-the-West,-still-no-vaccines-.aspx" id="interrefs60">https://english.ahram.org.eg/NewsContent/2/10/476104/World/Africa/As-monkeypox-drops-in-the-West,-still-no-vaccines-.aspx</ext-link>
+<year>2022</year>
+</element-citation>
+</ref>
+<ref id="bib24">
+<label>24</label>
+<element-citation publication-type="other" id="sbref240">
+<person-group person-group-type="author">
+<collab>WHO</collab>
+</person-group>
+<article-title>WHO Director–General declares the ongoing monkeypox outbreak a Public Health Emergency of International Concern</article-title>
+<ext-link ext-link-type="uri" ns0:href="https://www.who.int/europe/news/item/23-07-2022-who-director-general-declares-the-ongoing-monkeypox-outbreak-a-public-health-event-of-international-concern" id="interrefs70">https://www.who.int/europe/news/item/23-07-2022-who-director-general-declares-the-ongoing-monkeypox-outbreak-a-public-health-event-of-international-concern</ext-link>
+<year>July 23, 2022</year>
+</element-citation>
+</ref>
+<ref id="bib25">
+<label>25</label>
+<element-citation publication-type="other" id="sbref250">
+<person-group person-group-type="author">
+<collab>WHO</collab>
+</person-group>
+<article-title>Fourth meeting of the International Health Regulations (2005) (IHR) Emergency Committee on the multi-country outbreak of monkeypox (mpox)</article-title>
+<ext-link ext-link-type="uri" ns0:href="https://www.who.int/news/item/15-02-2023-fourth-meeting-of-the-international-health-regulations-(2005)-(ihr)-emergency-committee-on-the-multi-country-outbreak-of-monkeypox-(mpox)" id="interrefs80">https://www.who.int/news/item/15-02-2023-fourth-meeting-of-the-international-health-regulations-(2005)-(ihr)-emergency-committee-on-the-multi-country-outbreak-of-monkeypox-(mpox)</ext-link>
+<year>2023</year>
+</element-citation>
+</ref>
+<ref id="bib26">
+<label>26</label>
+<element-citation publication-type="journal" id="sbref260">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Seang</surname>
+<given-names>S</given-names>
+</name>
+<name name-style="western">
+<surname>Burrel</surname>
+<given-names>S</given-names>
+</name>
+<name name-style="western">
+<surname>Todesco</surname>
+<given-names>E</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>Evidence of human-to-dog transmission of monkeypox virus</article-title>
+<source>Lancet</source>
+<volume>400</volume>
+<year>2022</year>
+<fpage>658</fpage>
+<lpage>659</lpage>
+<pub-id pub-id-type="pmid">35963267</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(22)01487-8</pub-id>
+<pub-id pub-id-type="pmcid">PMC9536767</pub-id>
+</element-citation>
+</ref>
+<ref id="bib27">
+<label>27</label>
+<element-citation publication-type="other" id="sbref270">
+<person-group person-group-type="author">
+<collab>Secretaria de Estado de Saúde de Minas Gerais</collab>
+</person-group>
+<article-title>Detecção de Monkeypox em animal em Minas Gerais</article-title>
+<ext-link ext-link-type="uri" ns0:href="https://www.saude.mg.gov.br/component/gmg/story/17178-nota-informativa-sobre-deteccao-de-monkeypox-em-animal-em-minas-gerais-23-8-2022" id="interrefs90">https://www.saude.mg.gov.br/component/gmg/story/17178-nota-informativa-sobre-deteccao-de-monkeypox-em-animal-em-minas-gerais-23-8-2022</ext-link>
+<year>2022</year>
+</element-citation>
+</ref>
+<ref id="bib28">
+<label>28</label>
+<element-citation publication-type="journal" id="sbref280">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Reed</surname>
+<given-names>KD</given-names>
+</name>
+<name name-style="western">
+<surname>Melski</surname>
+<given-names>JW</given-names>
+</name>
+<name name-style="western">
+<surname>Graham</surname>
+<given-names>MB</given-names>
+</name>
+<etal />
+</person-group>
+<article-title>The detection of monkeypox in humans in the western hemisphere</article-title>
+<source>N Engl J Med</source>
+<volume>350</volume>
+<year>2004</year>
+<fpage>342</fpage>
+<lpage>350</lpage>
+<pub-id pub-id-type="pmid">14736926</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa032299</pub-id>
+</element-citation>
+</ref>
+<ref id="bib29">
+<label>29</label>
+<element-citation publication-type="journal" id="sbref290">
+<person-group person-group-type="author">
+<name name-style="western">
+<surname>Heymann</surname>
+<given-names>DL</given-names>
+</name>
+<name name-style="western">
+<surname>Liu</surname>
+<given-names>J</given-names>
+</name>
+<name name-style="western">
+<surname>Lillywhite</surname>
+<given-names>L</given-names>
+</name>
+</person-group>
+<article-title>Partnerships, not parachutists, for Zika research</article-title>
+<source>N Engl J Med</source>
+<volume>374</volume>
+<year>2016</year>
+<fpage>1504</fpage>
+<lpage>1505</lpage>
+<pub-id pub-id-type="pmid">26958936</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMp1602278</pub-id>
+</element-citation>
+</ref>
+<ref id="bib30">
+<label>30</label>
+<element-citation publication-type="other" id="sbref300">
+<person-group person-group-type="author">
+<collab>The Washington Post</collab>
+</person-group>
+<article-title>U.S. may need $7 billion for monkeypox, Biden administration estimates</article-title>
+<ext-link ext-link-type="uri" ns0:href="https://www.washingtonpost.com/health/2022/07/26/monkeypox-aid-biden-administration-congress/" id="interrefs100">https://www.washingtonpost.com/health/2022/07/26/monkeypox-aid-biden-administration-congress/</ext-link>
+<year>July 26, 2022</year>
+</element-citation>
+</ref>
+</ref-list>
+<ack id="ceack10">
+<sec>
+<title>Acknowledgments</title>
+<p>Medical writing support, under the direction of the authors, was provided by Rachel Wright, funded by FIND.</p>
+</sec>
+</ack>
+<ack>
+<title>Contributors</title>
+<p>DLH and DGB conceptualised the manuscript, with input from IA and J-JM. A medical writer funded by FIND assisted with writing the first draft, which all authors then reviewed and edited, before agreeing on the final version.</p>
+</ack>
+</back>
+</article>
+</pmc-articleset>

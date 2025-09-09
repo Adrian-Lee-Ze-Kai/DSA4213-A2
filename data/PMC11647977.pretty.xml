@@ -1,0 +1,1290 @@
+<pmc-articleset xmlns:ns0="http://www.niso.org/schemas/ali/1.0/" xmlns:ns1="http://www.w3.org/1999/xlink">
+<article id="iid370102" xml:lang="en" article-type="review-article" dtd-version="1.4">
+<processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+<restricted-by>pmc</restricted-by>
+</processing-meta>
+<front>
+<journal-meta>
+<journal-id journal-id-type="nlm-ta">Immun Inflamm Dis</journal-id>
+<journal-id journal-id-type="iso-abbrev">Immun Inflamm Dis</journal-id>
+<journal-id journal-id-type="pmc-domain-id">2617</journal-id>
+<journal-id journal-id-type="pmc-domain">iid</journal-id>
+<journal-id journal-id-type="publisher-id">IID3</journal-id>
+<journal-title-group>
+<journal-title>Immunity, Inflammation and Disease</journal-title>
+</journal-title-group>
+<issn pub-type="epub">2050-4527</issn>
+<publisher>
+<publisher-name>Wiley</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="pmcid">PMC11647977</article-id>
+<article-id pub-id-type="pmcid-ver">PMC11647977.1</article-id>
+<article-id pub-id-type="pmcaid">11647977</article-id>
+<article-id pub-id-type="pmcaiid">11647977</article-id>
+<article-id pub-id-type="pmid">39679843</article-id>
+<article-id pub-id-type="doi">10.1002/iid3.70102</article-id>
+<article-id pub-id-type="publisher-id">IID370102</article-id>
+<article-version article-version-type="pmc-version">1</article-version>
+<article-categories>
+<subj-group subj-group-type="overline">
+<subject>Review Article</subject>
+</subj-group>
+<subj-group subj-group-type="heading">
+<subject>Review Article</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Monkeypox Outbreak in the Democratic Republic of Congo: A Comprehensive Review of Clinical Outcomes, Public Health Implications, and Security Measures</article-title>
+</title-group>
+<contrib-group>
+<contrib id="iid370102-cr-0001" contrib-type="author" corresp="yes">
+<name name-style="western">
+<surname>Salomon</surname>
+<given-names initials="I">Izere</given-names>
+</name>
+<contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-3067-560X</contrib-id>
+<xref rid="iid370102-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+<address>
+<email>izesajw73@gmail.com</email>
+</address>
+</contrib>
+<contrib id="iid370102-cr-0002" contrib-type="author">
+<name name-style="western">
+<surname>Hamitoglu</surname>
+<given-names initials="AE">Ali Emir</given-names>
+</name>
+<xref rid="iid370102-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref>
+</contrib>
+<contrib id="iid370102-cr-0003" contrib-type="author">
+<name name-style="western">
+<surname>Hertier</surname>
+<given-names initials="U">Unkwiye</given-names>
+</name>
+<xref rid="iid370102-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+</contrib>
+<contrib id="iid370102-cr-0004" contrib-type="author">
+<name name-style="western">
+<surname>Belise</surname>
+<given-names initials="MA">Mugabekazi Albright</given-names>
+</name>
+<xref rid="iid370102-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+</contrib>
+<contrib id="iid370102-cr-0005" contrib-type="author">
+<name name-style="western">
+<surname>Sandrine</surname>
+<given-names initials="U">Uwase</given-names>
+</name>
+<xref rid="iid370102-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+</contrib>
+<contrib id="iid370102-cr-0006" contrib-type="author">
+<name name-style="western">
+<surname>Darius</surname>
+<given-names initials="B">Benimana</given-names>
+</name>
+<xref rid="iid370102-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+</contrib>
+<contrib id="iid370102-cr-0007" contrib-type="author">
+<name name-style="western">
+<surname>Abdoulkarim</surname>
+<given-names initials="MY">Methode Yusufu</given-names>
+</name>
+<xref rid="iid370102-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+</contrib>
+</contrib-group>
+<aff id="iid370102-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of General Medicine and Surgery, College of Medicine and Health Sciences</named-content>
+<institution>University of Rwanda</institution>
+<city>Kigali</city>
+<country country="RW">Rwanda</country>
+</aff>
+<aff id="iid370102-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of General Medicine, Faculty of Medicine</named-content>
+<institution>Namık Kemal University</institution>
+<city>Tekirdag</city>
+<country country="TR">Turkey</country>
+</aff>
+<author-notes>
+<corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold> Izere Salomon (<email>izesajw73@gmail.com</email>)<break />
+</corresp>
+</author-notes>
+<pub-date pub-type="epub">
+<day>16</day>
+<month>12</month>
+<year>2024</year>
+</pub-date>
+<pub-date pub-type="collection">
+<month>12</month>
+<year>2024</year>
+</pub-date>
+<volume>12</volume>
+<issue seq="20">12</issue>
+<issue-id pub-id-type="pmc-issue-id">476464</issue-id>
+<issue-id pub-id-type="doi">10.1002/iid3.v12.12</issue-id>
+<elocation-id>e70102</elocation-id>
+<history>
+<date date-type="rev-recd">
+<day>11</day>
+<month>11</month>
+<year>2024</year>
+</date>
+<date date-type="received">
+<day>16</day>
+<month>1</month>
+<year>2024</year>
+</date>
+<date date-type="accepted">
+<day>26</day>
+<month>11</month>
+<year>2024</year>
+</date>
+</history>
+<pub-history>
+<event event-type="pmc-release">
+<date>
+<day>16</day>
+<month>12</month>
+<year>2024</year>
+</date>
+</event>
+<event event-type="pmc-live">
+<date>
+<day>16</day>
+<month>12</month>
+<year>2024</year>
+</date>
+</event>
+<event event-type="pmc-last-change">
+<date iso-8601-date="2024-12-18 13:25:50.540">
+<day>18</day>
+<month>12</month>
+<year>2024</year>
+</date>
+</event>
+</pub-history>
+<permissions>
+<copyright-statement content-type="article-copyright">© 2024 The Author(s). <italic toggle="yes">Immunity, Inflammation and Disease</italic> published by John Wiley &amp; Sons Ltd.</copyright-statement>
+<license>
+<ns0:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ns0:license_ref>
+<license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" ns1:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p>
+</license>
+</permissions>
+<self-uri content-type="pmc-pdf" ns1:href="IID3-12-e70102.pdf" />
+<self-uri content-type="pdf" ns1:href="file:IID3-12-e70102.pdf" />
+<abstract>
+<title>ABSTRACT</title>
+<sec id="iid370102-sec-0010">
+<title>Background</title>
+<p>The Monkeypox virus (MPXV), a member of the <italic toggle="yes">Orthopoxvirus</italic> genus, is responsible for the zoonotic disease known as MPX. Primarily found in western and central Africa, emerging studies indicate a shift in transmission dynamics. Ongoing MPX outbreaks in the Democratic Republic of Congo (DRC) have escalated into significant public health concerns.</p>
+</sec>
+<sec id="iid370102-sec-0020">
+<title>Objectives</title>
+<p>This review endeavors to provide a comprehensive analysis of the public health implications, clinical consequences, and preventive measures related to the current MPX outbreak in the DRC. It focuses on the epidemiology, clinical manifestations, and public health responses to this global health challenge.</p>
+</sec>
+<sec id="iid370102-sec-0030">
+<title>Methodology</title>
+<p>The research synthesizes data regarding MPX outbreaks in the DRC, drawing from academic journals, public health reports, and case studies through a narrative review approach.</p>
+</sec>
+<sec id="iid370102-sec-0040">
+<title>Results</title>
+<p>The recent outbreak in the DRC has identified approximately 12,569 suspected MPX cases, resulting in 581 fatalities, which corresponds to a case fatality rate (CFR) of 4.6%. These cases have been documented across 156 health sectors in 22 out of 26 provinces, representing the highest case count recorded to date. The epidemic has also encroached upon previously unaffected regions. Hospitalization rates have varied between 4% and 10%, with a significant percentage of cases attributed to sexual transmission. Analysis of demographic and geographic data revealed distinct patterns in viral spread. Clinical outcomes have varied, with an average CFR close to 10%, influenced by factors such as timely diagnosis and access to healthcare services. Rural areas have accounted for over 70% of the cases, highlighting the necessity for targeted public health interventions. Control measures have focused on community awareness campaigns and immunization programs, reaching approximately 50% of the at‐risk population; however, challenges related to resource limitations and political instability have impeded effective response strategies.</p>
+</sec>
+<sec id="iid370102-sec-0050">
+<title>Conclusion</title>
+<p>The ongoing MPX outbreak in the DRC poses a substantial public health challenge. While progress has been made in managing the epidemic, it remains imperative to address resource deficiencies and enhance public health systems. Strengthening international collaboration, expanding healthcare access, and improving surveillance capabilities are critical to mitigating the risk of future outbreaks.</p>
+</sec>
+</abstract>
+<kwd-group>
+<kwd id="iid370102-kwd-0001">clinical outcomes</kwd>
+<kwd id="iid370102-kwd-0002">Democratic Republic of the Congo</kwd>
+<kwd id="iid370102-kwd-0003">epidemiology</kwd>
+<kwd id="iid370102-kwd-0004">incidence rate</kwd>
+<kwd id="iid370102-kwd-0005">Monkeypox</kwd>
+<kwd id="iid370102-kwd-0006">public health implications</kwd>
+<kwd id="iid370102-kwd-0007">security measures</kwd>
+</kwd-group>
+<counts>
+<fig-count count="5" />
+<table-count count="1" />
+<page-count count="9" />
+<word-count count="5456" />
+</counts>
+<custom-meta-group>
+<custom-meta>
+<meta-name>pmc-status-qastatus</meta-name>
+<meta-value>0</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-status-live</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-status-embargo</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-status-released</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-open-access</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-olf</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-manuscript</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-legally-suppressed</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-has-pdf</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-has-supplement</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-pdf-only</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-suppress-copyright</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-is-real-version</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-is-scanned-article</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-preprint</meta-name>
+<meta-value>no</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-prop-in-epmc</meta-name>
+<meta-value>yes</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>pmc-license-ref</meta-name>
+<meta-value>CC BY</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>source-schema-version-number</meta-name>
+<meta-value>2.0</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>cover-date</meta-name>
+<meta-value>December 2024</meta-value>
+</custom-meta>
+<custom-meta>
+<meta-name>details-of-publishers-convertor</meta-name>
+<meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.5.1 mode:remove_FC converted:16.12.2024</meta-value>
+</custom-meta>
+</custom-meta-group>
+</article-meta>
+</front>
+<body>
+<def-list list-content="abbreviations">
+<title>Abbreviations</title>
+<def-item>
+<term>CFR</term>
+<def>
+<p>case fatality ratio</p>
+</def>
+</def-item>
+<def-item>
+<term>COVID‐19</term>
+<def>
+<p>coronavirus disease 2019</p>
+</def>
+</def-item>
+<def-item>
+<term>DRC</term>
+<def>
+<p>Democratic Republic of the Congo</p>
+</def>
+</def-item>
+<def-item>
+<term>MPX</term>
+<def>
+<p>monkeypox</p>
+</def>
+</def-item>
+<def-item>
+<term>MPXV</term>
+<def>
+<p>monkeypox Virus</p>
+</def>
+</def-item>
+<def-item>
+<term>PCR</term>
+<def>
+<p>polymerase chain reaction</p>
+</def>
+</def-item>
+<def-item>
+<term>RT‒PCR</term>
+<def>
+<p>real‐time polymerase chain reaction</p>
+</def>
+</def-item>
+<def-item>
+<term>STIs</term>
+<def>
+<p>sexually transmitted Infections</p>
+</def>
+</def-item>
+<def-item>
+<term>WHO</term>
+<def>
+<p>World Health Organization</p>
+</def>
+</def-item>
+</def-list>
+<sec id="iid370102-sec-0060">
+<label>1</label>
+<title>Introduction</title>
+<p>Monkeypox, formerly known as Mpox, is a zoonotic illness caused by a viral species that is part of the <italic toggle="yes">Orthopoxvirus</italic> genus, <italic toggle="yes">Chordopoxvirinae</italic> subfamily, <italic toggle="yes">Poxviridae</italic> family, and <italic toggle="yes">Orthopoxvirus</italic> genus. The Mpox virus, an Orthopoxvirus belonging to the same genus as the variola virus that causes smallpox, vaccinia, and cowpox, is the cause of this zoonotic viral disease. Infection caused by the Mpox virus, which causes a vesicular rash resembling smallpox, fever, headache, and lymphadenopathy. Nonetheless, case mortality rates and person–person transmission beyond intimate contacts vary from 1% to 10%, contingent upon the virus strain and host immunological status, and monkeypox infection is significantly less common than smallpox infection [<xref rid="iid370102-bib-0001" ref-type="bibr">1</xref>, <xref rid="iid370102-bib-0002" ref-type="bibr">2</xref>]. The identification of MPXV dates back to 1958, when a nonfatal rash disease struck captive cynomolgus monkeys in Copenhagen, Denmark. The Mpox virus was first detected in 1970, 9 months after the Democratic Republic of the Congo (DRC) declared smallpox extinct [<xref rid="iid370102-bib-0003" ref-type="bibr">3</xref>, <xref rid="iid370102-bib-0004" ref-type="bibr">4</xref>]. Since then, monkeypox outbreaks have occurred in laboratories and zoos, and human cases have been reported in Central and Western Africa [<xref rid="iid370102-bib-0005" ref-type="bibr">5</xref>, <xref rid="iid370102-bib-0006" ref-type="bibr">6</xref>, <xref rid="iid370102-bib-0007" ref-type="bibr">7</xref>, <xref rid="iid370102-bib-0008" ref-type="bibr">8</xref>]. Human‐to‐human transmission has been observed in Central Africa [<xref rid="iid370102-bib-0009" ref-type="bibr">9</xref>], and there have also been outbreaks in nonendemic countries linked to imported animals, such as the 2003 outbreak in the United States [<xref rid="iid370102-bib-0010" ref-type="bibr">10</xref>]. These outbreaks highlight the global importance of this emerging zoonosis [<xref rid="iid370102-bib-0011" ref-type="bibr">11</xref>].</p>
+<p>MPXV can be transmitted through direct contact with infected animals or humans, as shown in Figure <xref rid="iid370102-fig-0001" ref-type="fig">1</xref> [<xref rid="iid370102-bib-0013" ref-type="bibr">13</xref>]. Animal‐to‐human transmission occurs through bodily fluids, such as saliva or respiratory excretions, and through exposure to infected animal feces [<xref rid="iid370102-bib-0012" ref-type="bibr">12</xref>]. Due to limited resources, visiting forests where infected animals are common or sleeping outdoors, increases their risk of exposure [<xref rid="iid370102-bib-0008" ref-type="bibr">8</xref>]. Human‐to‐human transmission is less common and involves prolonged face‐to‐face contact or contact with infected lesions [<xref rid="iid370102-bib-0014" ref-type="bibr">14</xref>]. Recent studies highlight the prevalence of concurrent sexually transmitted infections (STIs) among mpox patients indicating that Mpox is also transmitted through sexual contact, with a high frequency of anogenital lesions suggesting direct inoculation during sexual activities. In a Spanish study, 30 out of 157 mpox patients tested positive for various STIs, including herpes simplex virus, Neisseria gonorrhoeae, and Chlamydia trachomatis [<xref rid="iid370102-bib-0015" ref-type="bibr">15</xref>]. Similarly, a US study found that 15% of patients tested for mpox were diagnosed with concurrent STIs [<xref rid="iid370102-bib-0016" ref-type="bibr">16</xref>]. Additionally, The most extensive study across 16 countries reported a 29% rate of concomitant STIs among mpox patients, with syphilis, gonorrhea, and chlamydia being the most common [<xref rid="iid370102-bib-0017" ref-type="bibr">17</xref>]. These findings underscore the importance of comprehensive STI screening for mpox patients, particularly those with high‐risk sexual behaviors [<xref rid="iid370102-bib-0018" ref-type="bibr">18</xref>]. Emphasizing the need for comprehensive STI screening in mpox management [<xref rid="iid370102-bib-0019" ref-type="bibr">19</xref>]. Both human‐to‐human and animal‐to‐human virus transmission determine the etiology and pathophysiology of the illness.</p>
+<fig position="float" fig-type="Figure" id="iid370102-fig-0001" orientation="portrait">
+<label>Figure 1</label>
+<caption>
+<p>An illustration of the transfer of the Mpox virus from humans to the environment [<xref rid="iid370102-bib-0012" ref-type="bibr">12</xref>]. The red asterisks emphasize critical transmission pathways.</p>
+</caption>
+<graphic position="anchor" id="jats-graphic-1" orientation="portrait" ns1:href="IID3-12-e70102-g001.jpg" />
+</fig>
+<p>Since May 2022, there have been more than 62,000 reported cases of human monkeypox globally, with 24,017 cases identified across 44 European countries. The countries in Europe with the highest incidence of cases include Spain, France, Germany, and the United Kingdom (Figure <xref rid="iid370102-fig-0002" ref-type="fig">2</xref>) [<xref rid="iid370102-bib-0020" ref-type="bibr">20</xref>]. The outbreak has revealed sustained person‐to‐person transmission and exhibits distinct clinical characteristics compared to prior studies. Hospitalization rates are reported to range from 4% to 10%, and the condition is categorized as mild to moderate. To date, there have been reports of 20 fatalities, originating from both nonendemic and African countries. Notably, the documented prevalence of numerous sexual partners and incidents of chemsex indicate that sexual transmission among men who have sex with men is a significant factor contributing to the outbreak. The vaccination status of the affected individuals varies, with several healthcare professionals contracting the infection in the course of their duties. Furthermore, individuals aged 40 to 50 years face a heightened risk of infection, as smallpox vaccination campaigns have ceased. In addition to that, More investigations are needed to determine whether the virus can be transferred via genital secretions during sexual activity [<xref rid="iid370102-bib-0008" ref-type="bibr">8</xref>, <xref rid="iid370102-bib-0019" ref-type="bibr">19</xref>, <xref rid="iid370102-bib-0021" ref-type="bibr">21</xref>, <xref rid="iid370102-bib-0022" ref-type="bibr">22</xref>, <xref rid="iid370102-bib-0023" ref-type="bibr">23</xref>, <xref rid="iid370102-bib-0024" ref-type="bibr">24</xref>, <xref rid="iid370102-bib-0025" ref-type="bibr">25</xref>, <xref rid="iid370102-bib-0026" ref-type="bibr">26</xref>, <xref rid="iid370102-bib-0027" ref-type="bibr">27</xref>, <xref rid="iid370102-bib-0028" ref-type="bibr">28</xref>, <xref rid="iid370102-bib-0029" ref-type="bibr">29</xref>, <xref rid="iid370102-bib-0030" ref-type="bibr">30</xref>]. The purpose of this review is to present a thorough examination of the outbreaks of mpox in the DRC, emphasizing the clinical results, public health responses, security measures, and suggestions to reduce the spread of the illness and prevent such outbreaks in the future.</p>
+<fig position="float" fig-type="Figure" id="iid370102-fig-0002" orientation="portrait">
+<label>Figure 2</label>
+<caption>
+<p>Global map of the human monkeypox outbreak as of September 19, 2022, showing the total number of confirmed cases by nation [<xref rid="iid370102-bib-0020" ref-type="bibr">20</xref>].</p>
+</caption>
+<graphic position="anchor" id="jats-graphic-3" orientation="portrait" ns1:href="IID3-12-e70102-g003.jpg" />
+</fig>
+</sec>
+<sec id="iid370102-sec-0070">
+<label>2</label>
+<title>Recent Mpox Outbreaks in the DRC</title>
+<p>A recent mpox outbreak began on January 1 in the DRC. A total of 12,569 suspected cases and 581 deaths were reported in 156 health zones in 22 out of 26 provinces [<xref rid="iid370102-bib-0019" ref-type="bibr">19</xref>]. With additional cases appearing in places such as Kinshasa, Lualaba, and South Kivu that had not previously reported mpox, this outbreak represents the greatest number of cases ever recorded. It has been noted that human‐to‐human transmission in nonaffected provinces has been fueled by cases with travel histories to endemic regions [<xref rid="iid370102-bib-0019" ref-type="bibr">19</xref>].</p>
+<p>In Kenge, Kwango Province, the first cases of sexually transmitted mpox were also reported during this outbreak. The first case that is known to exist involved a Belgian‐born man who traveled to Kinshasa and soon after she began to exhibit symptoms. Clade I MPXV was the virus that was identified by epidemiological studies, and it was most likely spread in Belgium. Several sexual and nonsexual contacts were positive for mpox after additional investigations [<xref rid="iid370102-bib-0019" ref-type="bibr">19</xref>].</p>
+<p>Furthermore, outbreaks of mpox were observed in South Kivu and Kinshasa, where no cases had been recorded before. While the initial case in South Kivu involved a young trader who traveled from a province where mpox was endemic, Kinshasa experienced local transmission from people exposed in other areas. The province is now dealing with several issues that could contribute to the further spread [<xref rid="iid370102-bib-0019" ref-type="bibr">19</xref>].</p>
+<p>In the DRC, research on animals has been carried out to learn more about the ecology and possible hosts or reservoirs of the mpox virus. To determine the virus reservoir and accidental hosts, national and international research partners are working together on these ongoing studies [<xref rid="iid370102-bib-0019" ref-type="bibr">19</xref>].</p>
+</sec>
+<sec id="iid370102-sec-0080">
+<label>3</label>
+<title>Epidemiology</title>
+<p>Central Africa's largest country, the DRC, has a population of approximately 102.3 million [<xref rid="iid370102-bib-0031" ref-type="bibr">31</xref>]. The topography of the nation is varied and includes mountains, grasslands, savannas, tropical rainforests, and plateaus. There are 26 provinces in the country, and each has its own administrative and healthcare systems. Poverty, violence, relocation, inadequate health systems, and frequent outbreaks of infectious diseases such as cholera, measles, and Ebola are just a few of the numerous difficulties it faces [<xref rid="iid370102-bib-0031" ref-type="bibr">31</xref>].</p>
+<p>Mpox, previously referred to as monkeypox, is a disease that is transmitted from animals to humans and is caused by the mpox virus, which belongs to the <italic toggle="yes">Orthopoxvirus</italic> genus [<xref rid="iid370102-bib-0003" ref-type="bibr">3</xref>, <xref rid="iid370102-bib-0019" ref-type="bibr">19</xref>, <xref rid="iid370102-bib-0029" ref-type="bibr">29</xref>]. Clade I, formerly known as the Congo Basin clade, and clade II, formerly known as the West African clade, which were formerly found in Central and West Africa, respectively, make up the MPXV genetic group. Clade IIa and Clade IIb are the two subclades that make up clade II. The global mpox outbreak that began in 2022 and has impacted numerous non‐African countries is the result of clade IIb [<xref rid="iid370102-bib-0019" ref-type="bibr">19</xref>, <xref rid="iid370102-bib-0031" ref-type="bibr">31</xref>, <xref rid="iid370102-bib-0032" ref-type="bibr">32</xref>, <xref rid="iid370102-bib-0033" ref-type="bibr">33</xref>, <xref rid="iid370102-bib-0034" ref-type="bibr">34</xref>].</p>
+<p>Since the disease is endemic and has been documented since 1970, the DRC has been among the countries most impacted by mpox worldwide. Fever, headache, sore muscles, enlarged lymph nodes, and a vesicular‐pustular rash that may leave scars and scabs are the disease hallmarks [<xref rid="iid370102-bib-0023" ref-type="bibr">23</xref>, <xref rid="iid370102-bib-0030" ref-type="bibr">30</xref>]. Through direct contact with bodily fluids, lesions, or contaminated objects, the disease can spread from humans to animals or from animals to humans. There have also been reports of sexual transmission, particularly between men and guys who have intercourse [<xref rid="iid370102-bib-0019" ref-type="bibr">19</xref>, <xref rid="iid370102-bib-0021" ref-type="bibr">21</xref>, <xref rid="iid370102-bib-0022" ref-type="bibr">22</xref>].</p>
+<p>Eleven provinces, mostly in the country's north and central regions, are endemic for the disease. In these areas, the virus spreads among wildlife reservoirs, including rodents and primates. Nonetheless, the number of provinces reporting mpox has increased to 22 in recent years (Figure <xref rid="iid370102-fig-0003" ref-type="fig">3</xref>), including areas that had not previously reported mpox, such as South Kivu, Lualaba, and Kinshasa (Figures <xref rid="iid370102-fig-0004" ref-type="fig">4</xref> and <xref rid="iid370102-fig-0005" ref-type="fig">5</xref>) [<xref rid="iid370102-bib-0019" ref-type="bibr">19</xref>, <xref rid="iid370102-bib-0035" ref-type="bibr">35</xref>].</p>
+<fig position="float" fig-type="Figure" id="iid370102-fig-0003" orientation="portrait">
+<label>Figure 3</label>
+<caption>
+<p>The DRC's map area. Provinces with confirmed and probable cases of mpox are shaded in pink [<xref rid="iid370102-bib-0035" ref-type="bibr">35</xref>].</p>
+</caption>
+<graphic position="anchor" id="jats-graphic-5" orientation="portrait" ns1:href="IID3-12-e70102-g005.jpg" />
+</fig>
+<fig position="float" fig-type="Figure" id="iid370102-fig-0004" orientation="portrait">
+<label>Figure 4</label>
+<caption>
+<p>Locations of suspected cases of mpox by DRC province, January 1–November 4, 2023 (Epi weeks 1–44) [<xref rid="iid370102-bib-0019" ref-type="bibr">19</xref>].</p>
+</caption>
+<graphic position="anchor" id="jats-graphic-7" orientation="portrait" ns1:href="IID3-12-e70102-g002.jpg" />
+</fig>
+<fig position="float" fig-type="Figure" id="iid370102-fig-0005" orientation="portrait">
+<label>Figure 5</label>
+<caption>
+<p>Location of suspected mpox cases in the Democratic Republic of the Congo Province, January 1, 2023–October 7, 2023 (Epi weeks 1–40) [<xref rid="iid370102-bib-0019" ref-type="bibr">19</xref>].</p>
+</caption>
+<graphic position="anchor" id="jats-graphic-9" orientation="portrait" ns1:href="IID3-12-e70102-g004.jpg" />
+</fig>
+<p>With more than 12,000 probable cases and more than 300 confirmed deaths since January 2020, the current mpox outbreak in the DRC is the largest and longest‐lasting outbreak in the history of the Country [<xref rid="iid370102-bib-0019" ref-type="bibr">19</xref>, <xref rid="iid370102-bib-0036" ref-type="bibr">36</xref>]. MPXV clade I, which is endemic to the Country and has not been linked to the global outbreak of clade IIb, is the cause of the outbreak. However, incidences of clade I virus transmission through sexual contact as well as cases involving sex workers have been reported for the first time, indicating a possible alteration in the virus's transmission dynamics [<xref rid="iid370102-bib-0019" ref-type="bibr">19</xref>].</p>
+<p>According to Table <xref rid="iid370102-tbl-0001" ref-type="table">1</xref> data, the outbreak worsened from 2018 to its peak point in terms of cases, fatalities, and case‐fatality ratios (CFR) in 2023. There is a greater risk of infection and transmission in the population, as evidenced by the increase in both attack rates and reproductive numbers.</p>
+<table-wrap position="float" id="iid370102-tbl-0001" content-type="Table" orientation="portrait">
+<label>Table 1</label>
+<caption>
+<p>Primary epidemiological markers of the monkeypox outbreak in the DRC from 2018 to 2023 [<xref rid="iid370102-bib-0019" ref-type="bibr">19</xref>] according to WHO statistics.</p>
+</caption>
+<table frame="hsides" rules="groups">
+<col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="left" span="1" />
+<col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1" />
+<col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1" />
+<col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1" />
+<col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1" />
+<col style="border-right:solid 1px #000000; border-bottom:solid 1px #000000" align="center" span="1" />
+<thead valign="bottom">
+<tr valign="bottom" style="border-bottom:solid 1px #000000">
+<th align="left" valign="bottom" rowspan="1" colspan="1">Year</th>
+<th align="center" valign="bottom" rowspan="1" colspan="1">Suspected cases</th>
+<th align="center" valign="bottom" rowspan="1" colspan="1">Deaths</th>
+<th align="center" valign="bottom" rowspan="1" colspan="1">CFR</th>
+<th align="center" valign="bottom" rowspan="1" colspan="1">Attack rate</th>
+<th align="center" valign="bottom" rowspan="1" colspan="1">Reproductive number</th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr>
+<td align="left" valign="top" rowspan="1" colspan="1">2018</td>
+<td align="center" valign="top" rowspan="1" colspan="1">2850</td>
+<td align="center" valign="top" rowspan="1" colspan="1">60</td>
+<td align="center" valign="top" rowspan="1" colspan="1">2.1%</td>
+<td align="center" valign="top" rowspan="1" colspan="1">3.2/100,000</td>
+<td align="center" valign="top" rowspan="1" colspan="1">0.7</td>
+</tr>
+<tr>
+<td align="left" valign="top" rowspan="1" colspan="1">2019</td>
+<td align="center" valign="top" rowspan="1" colspan="1">3794</td>
+<td align="center" valign="top" rowspan="1" colspan="1">73</td>
+<td align="center" valign="top" rowspan="1" colspan="1">1.9%</td>
+<td align="center" valign="top" rowspan="1" colspan="1">4.2/10,000</td>
+<td align="center" valign="top" rowspan="1" colspan="1">0.8</td>
+</tr>
+<tr>
+<td align="left" valign="top" rowspan="1" colspan="1">2020</td>
+<td align="center" valign="top" rowspan="1" colspan="1">6216</td>
+<td align="center" valign="top" rowspan="1" colspan="1">222</td>
+<td align="center" valign="top" rowspan="1" colspan="1">3.6%</td>
+<td align="center" valign="top" rowspan="1" colspan="1">6.9/100,000</td>
+<td align="center" valign="top" rowspan="1" colspan="1">1.2</td>
+</tr>
+<tr>
+<td align="left" valign="top" rowspan="1" colspan="1">2021</td>
+<td align="center" valign="top" rowspan="1" colspan="1">5784</td>
+<td align="center" valign="top" rowspan="1" colspan="1">81</td>
+<td align="center" valign="top" rowspan="1" colspan="1">1.4%</td>
+<td align="center" valign="top" rowspan="1" colspan="1">6.4/100,000</td>
+<td align="center" valign="top" rowspan="1" colspan="1">0.9</td>
+</tr>
+<tr>
+<td align="left" valign="top" rowspan="1" colspan="1">2022</td>
+<td align="center" valign="top" rowspan="1" colspan="1">8432</td>
+<td align="center" valign="top" rowspan="1" colspan="1">156</td>
+<td align="center" valign="top" rowspan="1" colspan="1">1.9%</td>
+<td align="center" valign="top" rowspan="1" colspan="1">9.4/100,000</td>
+<td align="center" valign="top" rowspan="1" colspan="1">1.1</td>
+</tr>
+<tr>
+<td align="left" valign="top" rowspan="1" colspan="1">2023</td>
+<td align="center" valign="top" rowspan="1" colspan="1">12,569</td>
+<td align="center" valign="top" rowspan="1" colspan="1">581</td>
+<td align="center" valign="top" rowspan="1" colspan="1">4.6%</td>
+<td align="center" valign="top" rowspan="1" colspan="1">14.0/100,000</td>
+<td align="center" valign="top" rowspan="1" colspan="1">1.4</td>
+</tr>
+</tbody>
+</table>
+<permissions>
+<copyright-holder>John Wiley &amp; Sons, Ltd.</copyright-holder>
+</permissions>
+</table-wrap>
+</sec>
+<sec id="iid370102-sec-0090">
+<label>4</label>
+<title>Clinical Presentation and Diagnosis of Mpox</title>
+<p>The symptoms of the monkeypox virus are difficult to detect since they resemble those of other common illnesses, leading to a long list of differential diagnoses [<xref rid="iid370102-bib-0025" ref-type="bibr">25</xref>, <xref rid="iid370102-bib-0035" ref-type="bibr">35</xref>]. Pregnant women, immunosuppressed individuals, and children under the age of 15 are among the groups most adversely impacted by the disease; however, some individuals may only show moderate symptoms that seldom necessitate medical attention [<xref rid="iid370102-bib-0019" ref-type="bibr">19</xref>]. The WHO reports that skin rashes are the most typical signs of the human mpox virus. These rashes can also include fever, headaches, muscle aches, back discomfort, low energy, and swollen lymph nodes [<xref rid="iid370102-bib-0019" ref-type="bibr">19</xref>]. There is a chance of transmission before mpox is identified because the incubation period is thought to be between 5 and 21 days, and the symptoms and signs persist between 2 and 5 weeks. Numerous studies have delineated the phases of MPX progression, separating it into two primary stages. The first phase lasts 1 to 5 days and is characterized by lymphadenopathy, fever, headache, back discomfort, and low energy. The second stage, which is marked by a rash, occurs approximately 1 to 3 days after the fever has gone down [<xref rid="iid370102-bib-0033" ref-type="bibr">33</xref>, <xref rid="iid370102-bib-0037" ref-type="bibr">37</xref>, <xref rid="iid370102-bib-0038" ref-type="bibr">38</xref>].</p>
+<p>Although MPX belongs to the large family of <italic toggle="yes">poxviruses</italic>, its distinctive symptom of lymphadenopathy sets it apart from the others and facilitates diagnosis [<xref rid="iid370102-bib-0033" ref-type="bibr">33</xref>]. The WHO advises using a PCR test of viral swabs as a confirmatory test for monkeypox diagnosis; however, for samples obtained from vesicles, it is crucial to ensure that all protocols are followed to optimize the test's efficacy, including appropriate sample collection and laboratory transportation [<xref rid="iid370102-bib-0019" ref-type="bibr">19</xref>, <xref rid="iid370102-bib-0039" ref-type="bibr">39</xref>, <xref rid="iid370102-bib-0040" ref-type="bibr">40</xref>]. However, this strategy does not eliminate the need for additional techniques, such as viral cell separation by culture or immunological techniques.</p>
+<p>Each diagnostic technique has pros and cons and finding affordable tools that can meet the demands of mass screenings, speed, sensitivity, and specificity, among other requirements, can be challenging. Depending on the settings, popular suggestions include pairing techniques to compensate for the absence of any of the capabilities.</p>
+<p>According to recent studies, there is a greater risk of the virus spreading from person to person. Perianal vesicular symptoms are more common, indicating a sexual channel of transmission. This is particularly true for men who have sex with other men, with a high frequency of anogenital lesions suggesting direct inoculation during sexual activities. Concurrent STIs are common among mpox patients, with various pathogens detected, including herpes simplex virus, Neisseria gonorrhoeae, and Chlamydia trachomatis [<xref rid="iid370102-bib-0017" ref-type="bibr">17</xref>, <xref rid="iid370102-bib-0018" ref-type="bibr">18</xref>, <xref rid="iid370102-bib-0021" ref-type="bibr">21</xref>, <xref rid="iid370102-bib-0022" ref-type="bibr">22</xref>, <xref rid="iid370102-bib-0033" ref-type="bibr">33</xref>]. More evidence‐based research in this area is now more important than ever, and to prevent misdiagnosis errors, new diagnostic methods with far higher specificity and sensitivity than those currently in use must be developed.</p>
+<p>Accurate diagnosis, capacity building in affected areas, international collaboration, and community education should be given top priority when allocating funds for research. To contain monkeypox outbreaks and improve global readiness for emerging infectious hazards, a comprehensive approach integrating robust surveillance, enhanced international cooperation, and efficient diagnostics is needed. Resources must be directed toward the development of accurate and accessible diagnostic technology. A comprehensive understanding of the clinical presentation and diagnostic challenges associated with monkeypox is crucial for a timely and effective epidemic response. To overcome current obstacles and strengthen global preparedness against newly emerging infectious risks, advancements in diagnostic methods and ongoing research are needed.</p>
+</sec>
+<sec id="iid370102-sec-0100">
+<label>5</label>
+<title>Public Health Responses</title>
+<p>A nationally funded strategy for Mpox preparation and response was created by the DRC Ministry of Public Health, Hygiene, and Prevention. It included a variety of tasks that needed to be carried out [<xref rid="iid370102-bib-0019" ref-type="bibr">19</xref>, <xref rid="iid370102-bib-0035" ref-type="bibr">35</xref>]. monitoring and detection strategies include stepping up mpox surveillance nationwide, especially in Kinshasa; Kenge, and Kamituga; providing reference hospitals with sample collection and transport kits and logistical support for gathering, transporting, and analyzing samples from suspected cases from affected areas; enhancing the capacity of healthcare providers and professionals in mpox surveillance; keeping track of contacts of clinical and laboratory‐confirmed cases for 21 days; genetically sequencing mpox samples to better understand circulating viral strains; and educating groups potentially at risk of danger.</p>
+<p>Case management, infection prevention, and control, which include equipping medical personnel in the most affected areas with personal protective equipment and isolating confirmed cases in hospitals or at home to stop the spread of the infection; and training and capacity building, which includes educating laboratory personnel in Kinshasa and other affected areas or provinces on how to collect, preserve, and properly deliver mpox samples [<xref rid="iid370102-bib-0019" ref-type="bibr">19</xref>, <xref rid="iid370102-bib-0039" ref-type="bibr">39</xref>].</p>
+<p>However, the most recent WHO situation report indicates that there are still some gaps and challenges in the public health response to the monkeypox outbreak in the DRC. These include the persistence of the outbreak in some provinces, particularly in the Mai‐Ndombe Region, where the case fatality ratio is above 10% and transmission is high; the emergence of sexual transmission of monkeypox, which presents a new risk factor and complicates contact tracing and prevention [<xref rid="iid370102-bib-0019" ref-type="bibr">19</xref>, <xref rid="iid370102-bib-0041" ref-type="bibr">41</xref>]; the restricted accessibility and availability of the vaccine, which hinders the campaign's coverage and equity, particularly in rural and difficult‐to‐reach areas; the underdeveloped health system, which is overburdened with numerous public health emergencies (such as COVID‐19, measles, and Ebola) and lacks sufficient infrastructure, personnel, supplies, and equipment; the low level of community engagement and trust, which influences the adoption and adherence of public health interventions; and the requirement for more specialized and culturally aware communication strategies [<xref rid="iid370102-bib-0041" ref-type="bibr">41</xref>].</p>
+</sec>
+<sec id="iid370102-sec-0110">
+<label>6</label>
+<title>Challenges and Lessons for Future Outbreak Preparedness</title>
+<p>In addition to presenting several difficulties for the public health response, the monkeypox outbreak in the DRC has taught important lessons for future disease prevention and management. Three primary issues were recognized and examined, along with the pertinent takeaways from the monkeypox pandemic.</p>
+</sec>
+<sec id="iid370102-sec-0120">
+<label>7</label>
+<title>Limited Resources</title>
+<p>With a poor health system and low income, the DRC is confronted with several public health emergencies, including COVID‐19, measles, and Ebola, which put further strain on its already constrained resources [<xref rid="iid370102-bib-0042" ref-type="bibr">42</xref>]. A lack of resources, staff, equipment, and supplies has complicated the response to the monkeypox outbreak, particularly in isolated and rural areas where the illness is endemic [<xref rid="iid370102-bib-0043" ref-type="bibr">43</xref>]. The quality and promptness of laboratory, immunization, surveillance, and infection prevention and control (IPC) operations, as well as the delivery of sufficient patient and community care, have all been impacted by the lack of resources [<xref rid="iid370102-bib-0019" ref-type="bibr">19</xref>, <xref rid="iid370102-bib-0044" ref-type="bibr">44</xref>, <xref rid="iid370102-bib-0045" ref-type="bibr">45</xref>]. Consequently, in addition to prioritizing and coordinating the response to monkeypox with other existing public health activities, there is a need to enhance the health system and mobilize additional resources. This could entail increasing the amount of money that is sought after from partners and donors, providing additional material and human resources to the impacted areas, fostering better coordination and collaboration between many stakeholders, and strengthening the ability and resilience of healthcare providers and facilities.</p>
+</sec>
+<sec id="iid370102-sec-0130">
+<label>8</label>
+<title>Logistical Difficulties</title>
+<p>The Democratic Republic of the Congo is a vast and heterogeneous nation with intricate topography and inadequate facilities, creating logistical challenges for the distribution and execution of public health initiatives. Transporting and distributing the vaccine, laboratory reagents, and personal protective equipment and getting to and reaching the afflicted individuals, particularly in remote and unsafe locations, have been difficult in response to the monkeypox outbreak [<xref rid="iid370102-bib-0019" ref-type="bibr">19</xref>, <xref rid="iid370102-bib-0024" ref-type="bibr">24</xref>, <xref rid="iid370102-bib-0045" ref-type="bibr">45</xref>]. To guarantee the safety and accessibility of response teams and supplies, it is necessary to enhance supply chain management and logistics as well as work in tandem and coordinate with local authorities and partners, including the military, the police, and humanitarian organizations. This could entail putting in place more dependable and efficient methods for communication and transportation, ensuring that supplies are stored and maintained appropriately, creating backup plans in case of emergencies, and cultivating a relationship of trust and collaboration with the local authorities and community.</p>
+</sec>
+<sec id="iid370102-sec-0140">
+<label>9</label>
+<title>Community Engagement</title>
+<p>The Democratic Republic of the Congo is a diverse and dynamic culture with a wide range of political, religious, and cultural practices and beliefs. These factors impact how communities perceive and respond to disease. Engaging and organizing communities to take part in and adhere to public health actions, such as reporting cases, accepting immunization, and minimizing contact with animals, has been difficult in the wake of the MPX outbreak [<xref rid="iid370102-bib-0046" ref-type="bibr">46</xref>, <xref rid="iid370102-bib-0047" ref-type="bibr">47</xref>]. In addition, historical, political, and societal elements such as the effects of colonization, ongoing hostilities, and false information and rumors have caused opposition and mistrust in some areas. In addition to involving and empowering community‐based structures such as health committees, community health workers, and community leaders who can facilitate dialog and feedback between health authorities and communities and encourage the adoption of positive health behaviors, more specialized and culturally sensitive communication strategies need to be developed and put into practice. This could entail developing and delivering clear and consistent messages through appropriate channels and languages, addressing myths and misconceptions about the disease and the response, conducting formative research to understand the local context and needs, and acknowledging and rewarding the contributions and accomplishments of the communities.</p>
+</sec>
+<sec id="iid370102-sec-0150">
+<label>10</label>
+<title>Recommendations and Future Directions</title>
+<p>When MPX outbreaks occur in nonendemic areas, efficient containment and treatment measures are needed [<xref rid="iid370102-bib-0047" ref-type="bibr">47</xref>]. There are no specific treatments for MPX, and little is known about its pathophysiology and epidemiology. For prevention, two smallpox vaccines, ACAM2000 and JYNNEOSTM, can be used as pre‐exposure prophylaxis, with JYNNEOSTM also approved for post‐exposure use. Ongoing research is focused on developing more effective and safe treatments for mpox [<xref rid="iid370102-bib-0033" ref-type="bibr">33</xref>, <xref rid="iid370102-bib-0048" ref-type="bibr">48</xref>]. PCR technology is utilized to diagnose MPX, and in more severe cases, antiviral medications may be prescribed [<xref rid="iid370102-bib-0019" ref-type="bibr">19</xref>, <xref rid="iid370102-bib-0049" ref-type="bibr">49</xref>]. Its control measures include immunizing close contacts, stopping the spread of the illness, and promptly identifying and isolating cases. Further information is required about the effectiveness and safety of these therapies in treating MPX infections. To prevent and control MPX outbreaks, international collaboration, immunization programs, and surveillance are essential. To lessen the impact of future outbreaks, preparedness measures, including sound monitoring and detecting systems, are needed. To investigate variations in clinical features and their causes, more research is needed.</p>
+<p>The DRC's current 2023 MPX outbreak necessitates a number of crucial measures [<xref rid="iid370102-bib-0019" ref-type="bibr">19</xref>, <xref rid="iid370102-bib-0050" ref-type="bibr">50</xref>, <xref rid="iid370102-bib-0051" ref-type="bibr">51</xref>]. First, new epidemic investigations and response initiatives should be put into place, along with increased national surveillance. This entails being alert, quickly identifying and reporting symptoms, and isolating patients. Second, to diagnose and isolate suspected or confirmed cases as soon as possible, healthcare personnel should receive diagnostic tool training and equipment. Third, there should be more cross‐border cooperation and data exchange on infectious diseases, including human MPX. Fourth, a “one health” strategy that prioritizes handwashing, infection prevention, and cleanliness in hospitals should be implemented. WHO and other international health organizations should assist the healthcare sector in efficiently handling the outbreak.</p>
+</sec>
+<sec sec-type="conclusions" id="iid370102-sec-0160">
+<label>11</label>
+<title>Conclusion</title>
+<p>The growing number of infections and the burden on the health system make the 2023 MPX outbreak in the DRC a concerning situation. In comparison to earlier outbreaks, a significant number of new outbreaks have been revealed. This highlights the need for surveillance, immunization, and international collaboration, as well as the need for additional research and advancements in the management and prevention of MPX. Important tasks include creating and assessing novel MPX diagnostics, therapies, and vaccinations; determining the effectiveness and financial implications of public health initiatives; and putting preventative measures in place to stop such outbreaks in the future. The outbreak has provided the public health community with an opportunity to learn since it has highlighted the shortcomings and shortcomings of the response as well as the gaps and requirements for the future.</p>
+</sec>
+<sec id="iid370102-sec-0170">
+<title>Author Contributions</title>
+<p>
+<bold>Izere Salomon:</bold> conceptualization, methodology, project administration, supervision, validation, writing original draft, reviewing draft, and correspondence. <bold>Ali Emir Hamitoglu:</bold> writing–review and editing. <bold>Unkwiye Hertier:</bold> writing–review and editing. <bold>Mugabekazi Albright Belise:</bold> writing–review and editing. <bold>Uwase Sandrine:</bold> writing–review and editing. <bold>Benimana Darius:</bold> writing–review and editing. <bold>Methode Yusufu Abdoulkarim:</bold> writing–review and editing.</p>
+</sec>
+<sec sec-type="COI-statement" id="iid370102-sec-0180">
+<title>Conflicts of Interest</title>
+<p>The authors declare no conflicts of interest.</p>
+</sec>
+</body>
+<back>
+<sec sec-type="data-availability" id="iid370102-sec-0200">
+<title>Data Availability Statement</title>
+<p>The authors have nothing to report.</p>
+</sec>
+<ref-list content-type="cited-references" id="iid370102-bibl-0001">
+<title>References</title>
+<ref id="iid370102-bib-0001">
+<label>1</label>
+<mixed-citation publication-type="journal" id="iid370102-cit-0001">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Ogoina</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Iroezindu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. I.</given-names>
+<surname>James</surname>
+</string-name>, et al., “<article-title>Clinical Course and Outcome of Human Monkeypox in Nigeria</article-title>,” <source>Clinical Infectious Diseases</source>
+<volume>71</volume>, no. <issue>8</issue> (<year>2020</year>): <fpage>e210</fpage>–<lpage>e214</lpage>, <pub-id pub-id-type="doi">10.1093/cid/ciaa143</pub-id>.<pub-id pub-id-type="pmid">32052029</pub-id>
+</mixed-citation>
+</ref>
+<ref id="iid370102-bib-0002">
+<label>2</label>
+<mixed-citation publication-type="journal" id="iid370102-cit-0002">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Yinka‐Ogunleye</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Dalhat</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Akinpelu</surname>
+</string-name>, et al., “<article-title>Mpox (Monkeypox) Risk and Mortality Associated With HIV Infection: A National Case‐Control Study in Nigeria</article-title>,” <source>BMJ Global Health</source>
+<volume>8</volume>, no. <issue>11</issue> (<year>2023</year>): <elocation-id>e013126</elocation-id>, <pub-id pub-id-type="doi">10.1136/bmjgh-2023-013126</pub-id>.<pub-id pub-id-type="pmcid">PMC10689363</pub-id>
+<pub-id pub-id-type="pmid">38035733</pub-id>
+</mixed-citation>
+</ref>
+<ref id="iid370102-bib-0003">
+<label>3</label>
+<mixed-citation publication-type="journal" id="iid370102-cit-0003">
+<string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Sklenovská</surname>
+</string-name> and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Van Ranst</surname>
+</string-name>, “<article-title>Emergence of Monkeypox as the Most Important Orthopoxvirus Infection in Humans</article-title>,” <source>Frontiers in Public Health</source>
+<volume>6</volume> (<year>2018</year>): <elocation-id>241</elocation-id>, <pub-id pub-id-type="doi">10.3389/fpubh.2018.00241</pub-id>.<pub-id pub-id-type="pmid">30234087</pub-id>
+<pub-id pub-id-type="pmcid">PMC6131633</pub-id>
+</mixed-citation>
+</ref>
+<ref id="iid370102-bib-0004">
+<label>4</label>
+<mixed-citation publication-type="journal" id="iid370102-cit-0004">
+<string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Magnus</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. K.</given-names>
+<surname>Andersen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. B.</given-names>
+<surname>Petersen</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Birch‐Andersen</surname>
+</string-name>, “<article-title>A Pox‐Like Disease in Cynomolgus Monkeys</article-title>,” <source>Acta Pathologica Microbiologica Scandinavica</source>
+<volume>46</volume>, no. <issue>2</issue> (<year>1959</year>): <fpage>156</fpage>–<lpage>176</lpage>, <pub-id pub-id-type="doi">10.1111/j.1699-0463.1959.tb00328.x</pub-id>.</mixed-citation>
+</ref>
+<ref id="iid370102-bib-0005">
+<label>5</label>
+<mixed-citation publication-type="journal" id="iid370102-cit-0005">
+<string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Arita</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Gispen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. S.</given-names>
+<surname>Kalter</surname>
+</string-name>, et al., “<article-title>Outbreaks of Monkeypox and Serological Surveys in Nonhuman Primates</article-title>,” <source>Bulletin of the World Health Organization</source>
+<volume>46</volume>, no. <issue>5</issue> (<year>1972</year>): <fpage>625</fpage>–<lpage>631</lpage>.<pub-id pub-id-type="pmid">4340222</pub-id>
+<pub-id pub-id-type="pmcid">PMC2480785</pub-id>
+</mixed-citation>
+</ref>
+<ref id="iid370102-bib-0006">
+<label>6</label>
+<mixed-citation publication-type="journal" id="iid370102-cit-0006">
+<string-name name-style="western">
+<given-names>I. D.</given-names>
+<surname>Ladnyj</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Ziegler</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Kima</surname>
+</string-name>, “<article-title>A Human Infection Caused by Monkeypox Virus in Basankusu Territory, Democratic Republic of the Congo</article-title>,” <source>Bulletin of the World Health Organization</source>
+<volume>46</volume>, no. <issue>5</issue> (<year>1972</year>): <fpage>593</fpage>–<lpage>597</lpage>.<pub-id pub-id-type="pmid">4340218</pub-id>
+<pub-id pub-id-type="pmcid">PMC2480792</pub-id>
+</mixed-citation>
+</ref>
+<ref id="iid370102-bib-0007">
+<label>7</label>
+<mixed-citation publication-type="journal" id="iid370102-cit-0007">
+<string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Adler</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Gould</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Hine</surname>
+</string-name>, et al., “<article-title>Clinical Features and Management of Human Monkeypox: A Retrospective Observational Study in the UK</article-title>,” <source>Lancet Infectious Diseases</source>
+<volume>22</volume>, no. <issue>8</issue> (<year>2022</year>): <fpage>1153</fpage>–<lpage>1162</lpage>, <pub-id pub-id-type="doi">10.1016/S1473-3099(22)00228-6</pub-id>.<pub-id pub-id-type="pmid">35623380</pub-id>
+<pub-id pub-id-type="pmcid">PMC9300470</pub-id>
+</mixed-citation>
+</ref>
+<ref id="iid370102-bib-0008">
+<label>8</label>
+<mixed-citation publication-type="journal" id="iid370102-cit-0008">
+<string-name name-style="western">
+<given-names>E. M.</given-names>
+<surname>Bunge</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Hoet</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Chen</surname>
+</string-name>, et al., “<article-title>The Changing Epidemiology of Human Monkeypox‐A Potential Threat? A Systematic Review</article-title>,” <source>PLoS Neglected Tropical Diseases</source>
+<volume>16</volume>, no. <issue>2</issue> (<year>2022</year>): <elocation-id>e0010141</elocation-id>, <pub-id pub-id-type="doi">10.1371/journal.pntd.0010141</pub-id>.<pub-id pub-id-type="pmid">35148313</pub-id>
+<pub-id pub-id-type="pmcid">PMC8870502</pub-id>
+</mixed-citation>
+</ref>
+<ref id="iid370102-bib-0009">
+<label>9</label>
+<mixed-citation publication-type="journal" id="iid370102-cit-0009">
+<string-name name-style="western">
+<given-names>L. D.</given-names>
+<surname>Nolen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Osadebe</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Katomba</surname>
+</string-name>, et al., “<article-title>Extended Human‐To‐Human Transmission During a Monkeypox Outbreak in the Democratic Republic of the Congo</article-title>,” <source>Emerging Infectious Diseases</source>
+<volume>22</volume>, no. <issue>6</issue> (<year>2016</year>): <fpage>1014</fpage>–<lpage>1021</lpage>, <pub-id pub-id-type="doi">10.3201/eid2206.150579</pub-id>.<pub-id pub-id-type="pmid">27191380</pub-id>
+<pub-id pub-id-type="pmcid">PMC4880088</pub-id>
+</mixed-citation>
+</ref>
+<ref id="iid370102-bib-0010">
+<label>10</label>
+<mixed-citation publication-type="journal" id="iid370102-cit-0010">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Hammarlund</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. W.</given-names>
+<surname>Lewis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. V.</given-names>
+<surname>Carter</surname>
+</string-name>, et al., “<article-title>Multiple Diagnostic Techniques Identify Previously Vaccinated Individuals With Protective Immunity Against Monkeypox</article-title>,” <source>Nature Medicine</source>
+<volume>11</volume>, no. <issue>9</issue> (<year>2005</year>): <fpage>1005</fpage>–<lpage>1011</lpage>, <pub-id pub-id-type="doi">10.1038/nm1273</pub-id>.<pub-id pub-id-type="pmid">16086024</pub-id>
+</mixed-citation>
+</ref>
+<ref id="iid370102-bib-0011">
+<label>11</label>
+<mixed-citation publication-type="journal" id="iid370102-cit-0011">
+<string-name name-style="western">
+<given-names>K. D.</given-names>
+<surname>Reed</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. W.</given-names>
+<surname>Melski</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. B.</given-names>
+<surname>Graham</surname>
+</string-name>, et al., “<article-title>The Detection of Monkeypox in Humans in the Western Hemisphere</article-title>,” <source>New England Journal of Medicine</source>
+<volume>350</volume>, no. <issue>4</issue> (<year>2004</year>): <fpage>342</fpage>–<lpage>350</lpage>, <pub-id pub-id-type="doi">10.1056/NEJMoa032299</pub-id>.<pub-id pub-id-type="pmid">14736926</pub-id>
+</mixed-citation>
+</ref>
+<ref id="iid370102-bib-0012">
+<label>12</label>
+<mixed-citation publication-type="journal" id="iid370102-cit-0012">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Kaler</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Hussain</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Flores</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Kheiri</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Desrosiers</surname>
+</string-name>, “<article-title>Monkeypox: A Comprehensive Review of Transmission, Pathogenesis, and Manifestation</article-title>,” <source>Cureus</source>
+<volume>14</volume>, no. <issue>7</issue> (<year>2022</year>): <elocation-id>e26531</elocation-id>, <pub-id pub-id-type="doi">10.7759/cureus.26531</pub-id>.<pub-id pub-id-type="pmid">35928395</pub-id>
+<pub-id pub-id-type="pmcid">PMC9345383</pub-id>
+</mixed-citation>
+</ref>
+<ref id="iid370102-bib-0013">
+<label>13</label>
+<mixed-citation publication-type="journal" id="iid370102-cit-0013">
+<string-name name-style="western">
+<given-names>E. M.</given-names>
+<surname>Beer</surname>
+</string-name> and <string-name name-style="western">
+<given-names>V. B.</given-names>
+<surname>Rao</surname>
+</string-name>, “<article-title>A Systematic Review of the Epidemiology of Human Monkeypox Outbreaks and Implications for Outbreak Strategy</article-title>,” <source>PLoS Neglected Tropical Diseases</source>
+<volume>13</volume>, no. <issue>10</issue> (<year>2019</year>): <elocation-id>e0007791</elocation-id>, <pub-id pub-id-type="doi">10.1371/journal.pntd.0007791</pub-id>.<pub-id pub-id-type="pmid">31618206</pub-id>
+<pub-id pub-id-type="pmcid">PMC6816577</pub-id>
+</mixed-citation>
+</ref>
+<ref id="iid370102-bib-0014">
+<label>14</label>
+<mixed-citation publication-type="journal" id="iid370102-cit-0014">
+<string-name name-style="western">
+<given-names>C. L.</given-names>
+<surname>Hutson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V. A.</given-names>
+<surname>Olson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. S.</given-names>
+<surname>Carroll</surname>
+</string-name>, et al., “<article-title>A Prairie Dog Animal Model of Systemic Orthopoxvirus Disease Using West African and Congo Basin Strains of Monkeypox Virus</article-title>,” <source>Journal of General Virology</source>
+<volume>90</volume>, no. <issue>pt. 2</issue> (<year>2009</year>): <fpage>323</fpage>–<lpage>333</lpage>, <pub-id pub-id-type="doi">10.1099/vir.0.005108-0</pub-id>.<pub-id pub-id-type="pmid">19141441</pub-id>
+</mixed-citation>
+</ref>
+<ref id="iid370102-bib-0015">
+<label>15</label>
+<mixed-citation publication-type="journal" id="iid370102-cit-0015">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Maldonado‐Barrueco</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Sanz‐González</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Gutiérrez‐Arroyo</surname>
+</string-name>, et al., “<article-title>Sexually Transmitted Infections and Clinical Features in Monkeypox (Mpox) Patients in Madrid, Spain</article-title>,” <source>Travel Medicine and Infectious Disease</source>
+<volume>52</volume> (<year>2023</year>): <elocation-id>102544</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.tmaid.2023.102544</pub-id>.<pub-id pub-id-type="pmid">36669636</pub-id>
+<pub-id pub-id-type="pmcid">PMC9846951</pub-id>
+</mixed-citation>
+</ref>
+<ref id="iid370102-bib-0016">
+<label>16</label>
+<mixed-citation publication-type="journal" id="iid370102-cit-0016">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Mourad</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Alavian</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>E. W.</given-names>
+<surname>Woodhouse</surname>
+</string-name>, et al, “<article-title>Concurrent Sexually Transmitted Infection Testing Among Patients Tested for Mpox at a Tertiary Healthcare System</article-title>,” <source>Open Forum Infectious Diseases</source>
+<volume>10</volume> (<year>2023</year>), <ext-link ns1:href="https://www.semanticscholar.org/paper/Concurrent-Sexually-Transmitted-Infection-Testing-a-Mourad-Alavian/4c8286b9ecae22fb2489536898a3abc94a49fd8f" ext-link-type="uri">https://www.semanticscholar.org/paper/Concurrent-Sexually-Transmitted-Infection-Testing-a-Mourad-Alavian/4c8286b9ecae22fb2489536898a3abc94a49fd8f</ext-link>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/ofid/ofad381</pub-id>
+<pub-id pub-id-type="pmcid">PMC10394722</pub-id>
+<pub-id pub-id-type="pmid">37539060</pub-id>
+</mixed-citation>
+</ref>
+<ref id="iid370102-bib-0017">
+<label>17</label>
+<mixed-citation publication-type="journal" id="iid370102-cit-0017">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Ortiz‐Martínez</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Saul</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. A.</given-names>
+<surname>Hutchinson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Miljkovic</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A. J.</given-names>
+<surname>Rodríguez‐Morales</surname>
+</string-name>, “<article-title>Not Just Differential Diagnoses Importance of Sexually Transmitted Infections as Coinfections With Monkeypox Amidst the Outbreak</article-title>,” <source>International Journal of STD &amp; AIDS</source>
+<volume>33</volume>, no. <issue>13</issue> (<year>2022</year>): <fpage>1152</fpage>–<lpage>1153</lpage>, <pub-id pub-id-type="doi">10.1177/09564624221127746</pub-id>.<pub-id pub-id-type="pmid">36214298</pub-id>
+</mixed-citation>
+</ref>
+<ref id="iid370102-bib-0018">
+<label>18</label>
+<mixed-citation publication-type="journal" id="iid370102-cit-0018">
+<string-name name-style="western">
+<given-names>J. M.</given-names>
+<surname>Wick</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Pelliccione</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. N.</given-names>
+<surname>Tran</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Skarbinski</surname>
+</string-name>, “<article-title>Concurrent Sexually Transmitted Infections With Mpox Infections: A Brief Review</article-title>,” <source>Permanente Journal</source>
+<volume>28</volume>, no. <issue>1</issue> (<year>2024</year>): <fpage>42</fpage>–<lpage>45</lpage>, <pub-id pub-id-type="doi">10.7812/TPP/23.072</pub-id>.<pub-id pub-id-type="pmid">38192218</pub-id>
+<pub-id pub-id-type="pmcid">PMC10940232</pub-id>
+</mixed-citation>
+</ref>
+<ref id="iid370102-bib-0019">
+<label>19</label>
+<mixed-citation publication-type="miscellaneous" id="iid370102-cit-0019">“Mpox (monkeypox)—Democratic Republic of the Congo,” accessed November 11, 2024. <ext-link ns1:href="https://www.who.int/emergencies/disease-outbreak-news/item/2023-DON493" ext-link-type="uri">https://www.who.int/emergencies/disease-outbreak-news/item/2023-DON493</ext-link>.</mixed-citation>
+</ref>
+<ref id="iid370102-bib-0020">
+<label>20</label>
+<mixed-citation publication-type="journal" id="iid370102-cit-0020">
+<string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Antinori</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Mazzotta</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Vita</surname>
+</string-name>, et al., “<article-title>Epidemiological, Clinical and Virological Characteristics of Four Cases of Monkeypox Support Transmission Through Sexual Contact, Italy, May 2022</article-title>,” <source>Eurosurveillance</source>
+<volume>27</volume>, no. <issue>22</issue> (<year>2022</year>): <elocation-id>2200421</elocation-id>, <pub-id pub-id-type="doi">10.2807/1560-7917.ES.2022.27.22.2200421</pub-id>.<pub-id pub-id-type="pmid">35656836</pub-id>
+<pub-id pub-id-type="pmcid">PMC9164671</pub-id>
+</mixed-citation>
+</ref>
+<ref id="iid370102-bib-0021">
+<label>21</label>
+<mixed-citation publication-type="journal" id="iid370102-cit-0021">
+<string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Vivancos</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Anderson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Blomquist</surname>
+</string-name>, et al., “<article-title>Community Transmission of Monkeypox in the United Kingdom, April to May 2022</article-title>,” <source>Eurosurveillance</source>
+<volume>27</volume>, no. <issue>22</issue> (<year>2022</year>): <elocation-id>2200422</elocation-id>, <pub-id pub-id-type="doi">10.2807/1560-7917.ES.2022.27.22.2200422</pub-id>.<pub-id pub-id-type="pmid">35656834</pub-id>
+<pub-id pub-id-type="pmcid">PMC9164677</pub-id>
+</mixed-citation>
+</ref>
+<ref id="iid370102-bib-0022">
+<label>22</label>
+<mixed-citation publication-type="journal" id="iid370102-cit-0022">
+<string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Iñigo Martínez</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Gil Montalbán</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Jiménez Bueno</surname>
+</string-name>, et al., “<article-title>Monkeypox Outbreak Predominantly Affecting Men Who Have Sex With Men, Madrid, Spain, 26 April to 16 June 2022</article-title>,” <source>Eurosurveillance</source>
+<volume>27</volume>, no. <issue>27</issue> (<year>2022</year>): <elocation-id>2200471</elocation-id>, <pub-id pub-id-type="doi">10.2807/1560-7917.ES.2022.27.27.2200471</pub-id>.<pub-id pub-id-type="pmid">35801519</pub-id>
+<pub-id pub-id-type="pmcid">PMC9264731</pub-id>
+</mixed-citation>
+</ref>
+<ref id="iid370102-bib-0023">
+<label>23</label>
+<mixed-citation publication-type="journal" id="iid370102-cit-0023">
+<string-name name-style="western">
+<given-names>J. P.</given-names>
+<surname>Thornhill</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Barkati</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Walmsley</surname>
+</string-name>, et al., “<article-title>Monkeypox Virus Infection in Humans Across 16 Countries—April–June 2022</article-title>,” <source>New England Journal of Medicine</source>
+<volume>387</volume>, no. <issue>8</issue> (<year>2022</year>): <fpage>679</fpage>–<lpage>691</lpage>, <pub-id pub-id-type="doi">10.1056/NEJMoa2207323</pub-id>.<pub-id pub-id-type="pmid">35866746</pub-id>
+</mixed-citation>
+</ref>
+<ref id="iid370102-bib-0024">
+<label>24</label>
+<mixed-citation publication-type="journal" id="iid370102-cit-0024">
+<string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Girometti</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Byrne</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Bracchi</surname>
+</string-name>, et al., “<article-title>Demographic and Clinical Characteristics of Confirmed Human Monkeypox Virus Cases in Individuals Attending a Sexual Health Centre in London, UK: An Observational Analysis</article-title>,” <source>Lancet Infectious Diseases</source>
+<volume>22</volume>, no. <issue>9</issue> (<year>2022</year>): <fpage>1321</fpage>–<lpage>1328</lpage>, <pub-id pub-id-type="doi">10.1016/S1473-3099(22)00411-X</pub-id>.<pub-id pub-id-type="pmid">35785793</pub-id>
+<pub-id pub-id-type="pmcid">PMC9534773</pub-id>
+</mixed-citation>
+</ref>
+<ref id="iid370102-bib-0025">
+<label>25</label>
+<mixed-citation publication-type="miscellaneous" id="iid370102-cit-0025">“Clinical Features and Novel Presentations of Human Monkeypox in a Central London Centre During The 2022 Outbreak: Descriptive Case Series,” accessed November 11, 2024. <ext-link ns1:href="https://pubmed.ncbi.nlm.nih.gov/35902115/" ext-link-type="uri">https://pubmed.ncbi.nlm.nih.gov/35902115/</ext-link>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmj-2022-072410</pub-id>
+<pub-id pub-id-type="pmcid">PMC9331915</pub-id>
+<pub-id pub-id-type="pmid">35902115</pub-id>
+</mixed-citation>
+</ref>
+<ref id="iid370102-bib-0026">
+<label>26</label>
+<mixed-citation publication-type="miscellaneous" id="iid370102-cit-0026">“Phylogenomic Characterization and Signs of Microevolution in The 2022 Multi‐country Outbreak of Monkeypox Virus,” accessed November 11, 2024. <ext-link ns1:href="https://pubmed.ncbi.nlm.nih.gov/35750157/" ext-link-type="uri">https://pubmed.ncbi.nlm.nih.gov/35750157/</ext-link>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41591-022-01907-y</pub-id>
+<pub-id pub-id-type="pmcid">PMC9388373</pub-id>
+<pub-id pub-id-type="pmid">35750157</pub-id>
+</mixed-citation>
+</ref>
+<ref id="iid370102-bib-0027">
+<label>27</label>
+<mixed-citation publication-type="journal" id="iid370102-cit-0027">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Philpott</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. M.</given-names>
+<surname>Hughes</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. A.</given-names>
+<surname>Alroy</surname>
+</string-name>, et al., “<article-title>Epidemiologic and Clinical Characteristics of Monkeypox Case the United States, May 17‐July 22, 2022</article-title>,” <source>MMWR. Morbidity and Mortality Weekly Report</source>
+<volume>71</volume>, no. <issue>32</issue> (<year>2022</year>): <fpage>1018</fpage>–<lpage>1022</lpage>, <pub-id pub-id-type="doi">10.15585/mmwr.mm7132e3</pub-id>.<pub-id pub-id-type="pmid">35951487</pub-id>
+<pub-id pub-id-type="pmcid">PMC9400536</pub-id>
+</mixed-citation>
+</ref>
+<ref id="iid370102-bib-0028">
+<label>28</label>
+<mixed-citation publication-type="miscellaneous" id="iid370102-cit-0028">“Multi‐Country Monkeypox Outbreak in Non‐Endemic Countries,” accessed November 11, 2024. <ext-link ns1:href="https://www.who.int/emergencies/disease-outbreak-news/item/2022-DON385" ext-link-type="uri">https://www.who.int/emergencies/disease-outbreak-news/item/2022-DON385</ext-link>.</mixed-citation>
+</ref>
+<ref id="iid370102-bib-0029">
+<label>29</label>
+<mixed-citation publication-type="journal" id="iid370102-cit-0029">
+<string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Kmiec</surname>
+</string-name> and <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Kirchhoff</surname>
+</string-name>, “<article-title>Monkeypox: A New Threat?</article-title>,” <source>International Journal of Molecular Sciences</source>
+<volume>23</volume>, no. <issue>14</issue> (<year>2022</year>): <elocation-id>7866</elocation-id>, <pub-id pub-id-type="doi">10.3390/ijms23147866</pub-id>.<pub-id pub-id-type="pmid">35887214</pub-id>
+<pub-id pub-id-type="pmcid">PMC9321130</pub-id>
+</mixed-citation>
+</ref>
+<ref id="iid370102-bib-0030">
+<label>30</label>
+<mixed-citation publication-type="journal" id="iid370102-cit-0030">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Noe</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Zange</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Seilmaier</surname>
+</string-name>, et al., “<article-title>Clinical and Virological Features of First Human Monkeypox Cases in Germany</article-title>,” <source>Infection</source>
+<volume>51</volume>, no. <issue>1</issue> (<year>2023</year>): <fpage>265</fpage>–<lpage>270</lpage>, <pub-id pub-id-type="doi">10.1007/s15010-022-01874-z</pub-id>.<pub-id pub-id-type="pmid">35816222</pub-id>
+<pub-id pub-id-type="pmcid">PMC9272654</pub-id>
+</mixed-citation>
+</ref>
+<ref id="iid370102-bib-0031">
+<label>31</label>
+<mixed-citation publication-type="miscellaneous" id="iid370102-cit-0031">“World Population Dashboard‐Congo, the Democratic Republic of the,” United Nations Population Fund, accessed November 11, 2024. <ext-link ns1:href="https://www.unfpa.org/data/world-population/CD" ext-link-type="uri">https://www.unfpa.org/data/world-population/CD</ext-link>.</mixed-citation>
+</ref>
+<ref id="iid370102-bib-0032">
+<label>32</label>
+<mixed-citation publication-type="miscellaneous" id="iid370102-cit-0032">“New Nomenclature for Mpox (Monkeypox) and Monkeypox Virus Clades,”Lancet Infectious Diseases,” accessed November 11, 2024. <ext-link ns1:href="https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(23)00055-5/fulltext" ext-link-type="uri">https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(23)00055-5/fulltext</ext-link>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S1473-3099(23)00055-5</pub-id>
+<pub-id pub-id-type="pmcid">PMC9901940</pub-id>
+<pub-id pub-id-type="pmid">36758567</pub-id>
+</mixed-citation>
+</ref>
+<ref id="iid370102-bib-0033">
+<label>33</label>
+<mixed-citation publication-type="journal" id="iid370102-cit-0033">
+<string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Mu</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Wang</surname>
+</string-name>, “<article-title>Monkeypox: Epidemiology, Pathogenesis, Treatment and Prevention</article-title>,” <source>Signal Transduction and Targeted Therapy</source>
+<volume>7</volume>, no. <issue>1</issue> (<year>2022</year>): <fpage>373</fpage>, <pub-id pub-id-type="doi">10.1038/s41392-022-01215-4</pub-id>.<pub-id pub-id-type="pmid">36319633</pub-id>
+<pub-id pub-id-type="pmcid">PMC9626568</pub-id>
+</mixed-citation>
+</ref>
+<ref id="iid370102-bib-0034">
+<label>34</label>
+<mixed-citation publication-type="miscellaneous" id="iid370102-cit-0034">“Mpox (Monkeypox) in Pregnancy: Viral Clade Differences and Their Associations With Varying Obstetrical and Fetal Outcomes,” accessed November 11, 2024. <ext-link ns1:href="https://www.mdpi.com/1999-4915/15/8/1649" ext-link-type="uri">https://www.mdpi.com/1999-4915/15/8/1649</ext-link>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/v15081649</pub-id>
+<pub-id pub-id-type="pmcid">PMC10458075</pub-id>
+<pub-id pub-id-type="pmid">37631992</pub-id>
+</mixed-citation>
+</ref>
+<ref id="iid370102-bib-0035">
+<label>35</label>
+<mixed-citation publication-type="miscellaneous" id="iid370102-cit-0035">“Clade I Mpox in Central and Eastern Africa ‐ Level 2 ‐ Level 2 ‐ Practice Enhanced Precautions ‐ Travel Health Notices | Travelers' Health,” CDC, accessed November 11, 2024. <ext-link ns1:href="https://wwwnc.cdc.gov/travel/notices/level2/clade-1-mpox-central-eastern-africa" ext-link-type="uri">https://wwwnc.cdc.gov/travel/notices/level2/clade-1-mpox-central-eastern-africa</ext-link>.</mixed-citation>
+</ref>
+<ref id="iid370102-bib-0036">
+<label>36</label>
+<mixed-citation publication-type="journal" id="iid370102-cit-0036">
+<string-name name-style="western">
+<given-names>A. M.</given-names>
+<surname>McCollum</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Shelus</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Hill</surname>
+</string-name>, et al., “<article-title>Epidemiology of Human Mpox ‐ Worldwide, 2018‐2021</article-title>,” <source>MMWR. Morbidity and Mortality Weekly Report</source>
+<volume>72</volume>, no. <issue>3</issue> (<year>2023</year>): <fpage>68</fpage>–<lpage>72</lpage>, <pub-id pub-id-type="doi">10.15585/mmwr.mm7203a4</pub-id>.<pub-id pub-id-type="pmid">36656790</pub-id>
+<pub-id pub-id-type="pmcid">PMC9869741</pub-id>
+</mixed-citation>
+</ref>
+<ref id="iid370102-bib-0037">
+<label>37</label>
+<mixed-citation publication-type="miscellaneous" id="iid370102-cit-0037">“Monkeypox: Disease Epidemiology, Host Immunity and Clinical Interventions,” Nature Reviews Immunology, accessed November 11, 2024. <ext-link ns1:href="https://www.nature.com/articles/s41577-022-00775-4" ext-link-type="uri">https://www.nature.com/articles/s41577-022-00775-4</ext-link>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41577-022-00775-4</pub-id>
+<pub-id pub-id-type="pmcid">PMC9443635</pub-id>
+<pub-id pub-id-type="pmid">36064780</pub-id>
+</mixed-citation>
+</ref>
+<ref id="iid370102-bib-0038">
+<label>38</label>
+<mixed-citation publication-type="miscellaneous" id="iid370102-cit-0038">“Human Monkeypox: Epidemiologic and Clinical Characteristics, Diagnosis, and Prevention,” accessed November 11, 2024. <ext-link ns1:href="https://pubmed.ncbi.nlm.nih.gov/30981594/" ext-link-type="uri">https://pubmed.ncbi.nlm.nih.gov/30981594/</ext-link>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.idc.2019.03.001</pub-id>
+<pub-id pub-id-type="pmcid">PMC9533922</pub-id>
+<pub-id pub-id-type="pmid">30981594</pub-id>
+</mixed-citation>
+</ref>
+<ref id="iid370102-bib-0039">
+<label>39</label>
+<mixed-citation publication-type="journal" id="iid370102-cit-0039">
+<string-name name-style="western">
+<given-names>P. F.</given-names>
+<surname>Salvo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Farinacci</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Lombardi</surname>
+</string-name>, et al., “<article-title>Clinical Presentation of Human Monkeypox Virus Infection During the 2022 Outbreak: Descriptive Case Series From a Large Italian Research Hospital</article-title>,” <source>Virology Journal</source>
+<volume>20</volume>, no. <issue>1</issue> (<year>2023</year>): <fpage>214</fpage>, <pub-id pub-id-type="doi">10.1186/s12985-023-02178-w</pub-id>.<pub-id pub-id-type="pmid">37723564</pub-id>
+<pub-id pub-id-type="pmcid">PMC10506307</pub-id>
+</mixed-citation>
+</ref>
+<ref id="iid370102-bib-0040">
+<label>40</label>
+<mixed-citation publication-type="journal" id="iid370102-cit-0040">
+<string-name name-style="western">
+<given-names>S. J. R.</given-names>
+<surname>Silva</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Kohl</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Pena</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Pardee</surname>
+</string-name>, “<article-title>Clinical and Laboratory Diagnosis of Monkeypox (Mpox): Current Status and Future Directions</article-title>,” <source>iScience</source>
+<volume>26</volume>, no. <issue>6</issue> (<year>2023</year>): <elocation-id>106759</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.isci.2023.106759</pub-id>.<pub-id pub-id-type="pmid">37206155</pub-id>
+<pub-id pub-id-type="pmcid">PMC10183700</pub-id>
+</mixed-citation>
+</ref>
+<ref id="iid370102-bib-0041">
+<label>41</label>
+<mixed-citation publication-type="miscellaneous" id="iid370102-cit-0041">“Monkeypox Declared a Global Health Emergency by the World Health Organization,” UN News. July 23, 2022, accessed November 11, 2024. <ext-link ns1:href="https://news.un.org/en/story/2022/07/1123152" ext-link-type="uri">https://news.un.org/en/story/2022/07/1123152</ext-link>.</mixed-citation>
+</ref>
+<ref id="iid370102-bib-0042">
+<label>42</label>
+<mixed-citation publication-type="miscellaneous" id="iid370102-cit-0042">“Overview,” World Bank, accessed November 11, 2024. <ext-link ns1:href="https://www.worldbank.org/en/country/drc/overview" ext-link-type="uri">https://www.worldbank.org/en/country/drc/overview</ext-link>.</mixed-citation>
+</ref>
+<ref id="iid370102-bib-0043">
+<label>43</label>
+<mixed-citation publication-type="journal" id="iid370102-cit-0043">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Sasidharan</surname>
+</string-name> and <string-name name-style="western">
+<given-names>H. S.</given-names>
+<surname>Dhillon</surname>
+</string-name>, “<article-title>A Snapshot of Poverty, Diseases and War—The Democratic Republic of the Congo</article-title>,” <source>Disaster Medicine and Public Health Preparedness</source>
+<volume>16</volume>, no. <issue>5</issue> (<year>2022</year>): <fpage>1765</fpage>–<lpage>1768</lpage>, <pub-id pub-id-type="doi">10.1017/dmp.2021.227</pub-id>.<pub-id pub-id-type="pmid">34261572</pub-id>
+<pub-id pub-id-type="pmcid">PMC8438513</pub-id>
+</mixed-citation>
+</ref>
+<ref id="iid370102-bib-0044">
+<label>44</label>
+<mixed-citation publication-type="journal" id="iid370102-cit-0044">
+<string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Ilic</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Zivanovic Macuzic</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Ilic</surname>
+</string-name>, “<article-title>Global Outbreak of Human Monkeypox in 2022: Update of Epidemiology</article-title>,” <source>Tropical Medicine and Infectious Disease</source>
+<volume>7</volume>, no. <issue>10</issue> (<year>2022</year>): <elocation-id>264</elocation-id>, <pub-id pub-id-type="doi">10.3390/tropicalmed7100264</pub-id>.<pub-id pub-id-type="pmid">36288005</pub-id>
+<pub-id pub-id-type="pmcid">PMC9609983</pub-id>
+</mixed-citation>
+</ref>
+<ref id="iid370102-bib-0045">
+<label>45</label>
+<mixed-citation publication-type="miscellaneous" id="iid370102-cit-0045">“Mpox,” CDC, August 29, 2024, <ext-link ns1:href="https://www.cdc.gov/mpox/index.html" ext-link-type="uri">https://www.cdc.gov/mpox/index.html</ext-link>.</mixed-citation>
+</ref>
+<ref id="iid370102-bib-0046">
+<label>46</label>
+<mixed-citation publication-type="journal" id="iid370102-cit-0046">
+<string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Lahariya</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Thakur</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Dudeja</surname>
+</string-name>, “<article-title>Monkeypox Disease Outbreak (2022): Epidemiology, Challenges, and the Way Forward</article-title>,” <source>Indian Pediatrics</source>
+<volume>59</volume>, no. <issue>8</issue> (<year>2022</year>): <fpage>636</fpage>–<lpage>642</lpage>, <pub-id pub-id-type="doi">10.1007/s13312-022-2578-2</pub-id>.<pub-id pub-id-type="pmid">35762024</pub-id>
+<pub-id pub-id-type="pmcid">PMC9419123</pub-id>
+</mixed-citation>
+</ref>
+<ref id="iid370102-bib-0047">
+<label>47</label>
+<mixed-citation publication-type="journal" id="iid370102-cit-0047">
+<string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Moyo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Musuka</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Murewanhema</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Moyo</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Dzinamarira</surname>
+</string-name>, “<article-title>Monkeypox Outbreak: A Perspective on Africa's Diagnostic and Containment Capacity</article-title>,” <source>International Journal of Infectious Diseases</source>
+<volume>123</volume> (<year>2022</year>): <fpage>127</fpage>–<lpage>130</lpage>, <pub-id pub-id-type="doi">10.1016/j.ijid.2022.08.016</pub-id>.<pub-id pub-id-type="pmid">36007687</pub-id>
+<pub-id pub-id-type="pmcid">PMC9534167</pub-id>
+</mixed-citation>
+</ref>
+<ref id="iid370102-bib-0048">
+<label>48</label>
+<mixed-citation publication-type="journal" id="iid370102-cit-0048">
+<string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Chaudhari</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Treffeisen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Virk</surname>
+</string-name>, et al., “<article-title>The 2022 Monkeypox Epidemic and What has Led to the Current State of the Disease in the US: A Systematic Review</article-title>,” <source>Cureus</source>
+<volume>15</volume>, no. <issue>1</issue> (<year>2023</year>): <elocation-id>e33515</elocation-id>, <pub-id pub-id-type="doi">10.7759/cureus.33515</pub-id>.<pub-id pub-id-type="pmid">36779102</pub-id>
+<pub-id pub-id-type="pmcid">PMC9904802</pub-id>
+</mixed-citation>
+</ref>
+<ref id="iid370102-bib-0049">
+<label>49</label>
+<mixed-citation publication-type="journal" id="iid370102-cit-0049">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Altindis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Puca</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Shapo</surname>
+</string-name>, “<article-title>Diagnosis of Monkeypox Virus—An Overview</article-title>,” <source>Travel medicine and Infectious Disease</source>
+<volume>50</volume> (<year>2022</year>): <elocation-id>102459</elocation-id>, <pub-id pub-id-type="doi">10.1016/j.tmaid.2022.102459</pub-id>.<pub-id pub-id-type="pmid">36109000</pub-id>
+<pub-id pub-id-type="pmcid">PMC9534096</pub-id>
+</mixed-citation>
+</ref>
+<ref id="iid370102-bib-0050">
+<label>50</label>
+<mixed-citation publication-type="miscellaneous" id="iid370102-cit-0050">
+<string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Nirappil</surname>
+</string-name> and <string-name name-style="western">
+<given-names>L. H.</given-names>
+<surname>Sun</surname>
+</string-name>, “Mpox Surge in Congo Raises Concerns World Will Ignore Warnings Again,” <article-title>Washington Post</article-title>, December 6, 2023, <ext-link ns1:href="https://www.washingtonpost.com/health/2023/12/06/mpox-monkeypox-congo-who-vaccines/" ext-link-type="uri">https://www.washingtonpost.com/health/2023/12/06/mpox-monkeypox-congo-who-vaccines/</ext-link>.</mixed-citation>
+</ref>
+<ref id="iid370102-bib-0051">
+<label>51</label>
+<mixed-citation publication-type="miscellaneous" id="iid370102-cit-0051">
+<string-name name-style="western">
+<given-names>M.</given-names>
+<surname>McKenna</surname>
+</string-name>, “Three Possible Futures of the Monkeypox Epidemic,” <article-title>Wired</article-title>, accessed November 11, 2024. <ext-link ns1:href="https://www.wired.com/story/three-possible-futures-of-the-monkeypox-epidemic/" ext-link-type="uri">https://www.wired.com/story/three-possible-futures-of-the-monkeypox-epidemic/</ext-link>.</mixed-citation>
+</ref>
+</ref-list>
+</back>
+</article>
+</pmc-articleset>
