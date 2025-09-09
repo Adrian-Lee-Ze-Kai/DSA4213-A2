@@ -49,7 +49,7 @@ class SimpleTransformerLM(nn.Module):
         self,
         vocab_size,
         emb_dim=128,
-        n_heads=4,
+        n_heads=16,
         n_layers=2,
         ff_dim=256,
         dropout=0.3,

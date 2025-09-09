@@ -34,14 +34,6 @@ def pretty_print_xml(xml_text: str) -> str:
 
 
 def extract_plain_text(xml_text: str) -> str:
-    """
-    Minimal extractor:
-    - Title
-    - Abstract(s)
-    - Body sections: section titles + <p>
-    - Lists: each <list-item> on its own line prefixed with "• "
-    (We deliberately skip figures/tables/refs to keep it clean.)
-    """
     import re
     xml_text = re.sub(r"<!DOCTYPE[^>]*>", "", xml_text, flags=re.IGNORECASE)
     root = ET.fromstring(xml_text)
@@ -136,6 +128,12 @@ def extract_plain_text(xml_text: str) -> str:
     text = re.sub(r"\[[^\]]*\]", "", text)   # remove [stuff]
     text = re.sub(r"\([^)]*\)", "", text)    # remove (stuff)
 
+    # === Remove standalone numbers followed by commas ===
+    text = re.sub(r"\b\d+,\s*", "", text)    # remove numbers like 50, 62,
+
+    # Debug: Check text after cleaning
+    print("After cleaning:", text[:500])
+
     # === Clean up punctuation/spaces left behind by removals ===
     text = re.sub(r"\s{2,}", " ", text)
     text = re.sub(r"\s+([.,;:!?])", r"\1", text)
@@ -146,7 +144,6 @@ def extract_plain_text(xml_text: str) -> str:
     text = re.sub(r"\n{3,}", "\n\n", text)
 
     return text.strip().lower()
-
 
 def main():
     pathlib.Path("data").mkdir(exist_ok=True)
