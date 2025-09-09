@@ -3,7 +3,7 @@ import torch
 import matplotlib.pyplot as plt
 from math import exp
 from torch.utils.data import DataLoader
-from byte import ByteLMSeqDataset
+from characters import CharLMSeqDataset
 from models import LSTMLanguageModel
 
 # ----------------- CONFIG -----------------
@@ -17,30 +17,34 @@ runs_dir   = "runs"; os.makedirs(runs_dir, exist_ok=True)
 # ------------------------------------------
 
 @torch.no_grad()
-def sample_bytes(model, device, prompt="Monkeypox virus ", max_new_tokens=300, temperature=1.0):
-    """Autoregressive byte-level generation with temperature."""
+def sample_chars(model, dataset, device, prompt="Monkeypox virus ", max_new_tokens=300, temperature=1.0):
+    """Autoregressive character-level generation with temperature."""
     model.eval()
-    x = torch.tensor(list(prompt.encode("utf-8")), dtype=torch.long, device=device)[None, :]
+    stoi, itos = dataset.stoi, dataset.itos
+    x = torch.tensor([stoi.get(ch, 0) for ch in prompt], dtype=torch.long, device=device)[None, :]
     for _ in range(max_new_tokens):
         x_cond = x[:, -block_size:]
-        logits, _ = model(x_cond)              # (1, T, V)
+        logits, _ = model(x_cond)
         logits = logits[:, -1, :] / max(1e-6, temperature)
         probs = torch.softmax(logits, dim=-1)
-        next_id = torch.multinomial(probs, num_samples=1)  # (1,1)
+        next_id = torch.multinomial(probs, num_samples=1)
         x = torch.cat([x, next_id], dim=1)
-    return bytes(x.squeeze(0).tolist()).decode("utf-8", errors="ignore")
+    out = "".join([itos[i.item()] for i in x.squeeze(0)])
+    return out
 
 # --------------- data ---------------------
-train_ds = ByteLMSeqDataset(f"{data_dir}/train.bin", block_size)
-val_ds   = ByteLMSeqDataset(f"{data_dir}/val.bin",   block_size)
-test_ds  = ByteLMSeqDataset(f"{data_dir}/test.bin",  block_size)
+train_ds = CharLMSeqDataset("monkeypox_ds/train.txt", block_size)
+chars, stoi, itos = train_ds.chars, train_ds.stoi, train_ds.itos
+val_ds = CharLMSeqDataset("monkeypox_ds/val.txt", block_size, chars, stoi, itos)
+test_ds = CharLMSeqDataset("monkeypox_ds/test.txt", block_size, chars, stoi, itos)
 
 train_loader = DataLoader(train_ds, batch_size=batch_size, shuffle=True,  drop_last=True)
 val_loader   = DataLoader(val_ds,   batch_size=batch_size, shuffle=False, drop_last=True)
 test_loader  = DataLoader(test_ds,  batch_size=batch_size, shuffle=False, drop_last=True)
 
 # -------------- model/optim ---------------
-model = LSTMLanguageModel().to(device)
+vocab_size = len(train_ds.chars)
+model = LSTMLanguageModel(vocab_size=vocab_size).to(device)
 opt = torch.optim.AdamW(model.parameters(), lr=lr, betas=(0.9, 0.95), weight_decay=0.01)
 
 # -------- training + epoch logging --------
@@ -95,7 +99,7 @@ print(f"\nFinal Test CE={test_ce:.4f}, PPL={test_ppl:.2f}")
 
 # -------- generate final samples (once) --------
 for T in (0.7, 1.0, 1.3):
-    txt = sample_bytes(model, device, prompt="Monkeypox virus ", max_new_tokens=300, temperature=T)
+    txt = sample_chars(model, train_ds, device, prompt="Monkeypox virus ", max_new_tokens=300, temperature=T)
     print(f"\n--- Final Sample (T={T}) ---\n{txt}\n--- End sample ---\n")
 
 # -------- plot epoch curves --------
@@ -104,7 +108,7 @@ plt.figure(figsize=(7,4))
 plt.plot(epochs_axis, train_losses, marker="o", label="train CE (epoch)")
 plt.plot(epochs_axis, val_losses,   marker="o", label="val CE (epoch)")
 plt.xlabel("Epoch")
-plt.ylabel("Cross-Entropy (nats)")
+plt.ylabel("Cross-E ntropy (nats)")
 plt.title("Training / Validation Loss (per epoch)")
 plt.legend()
 plt.tight_layout()

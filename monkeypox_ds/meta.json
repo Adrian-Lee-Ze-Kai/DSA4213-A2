@@ -1,5 +1,0 @@
-{
-  "vocab_size": 256,
-  "encoding": "byte-level (0\u2013255)",
-  "separator": "\n\n<|doc|>\n\n"
-}

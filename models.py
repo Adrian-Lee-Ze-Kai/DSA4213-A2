@@ -7,8 +7,8 @@ class LSTMLanguageModel(nn.Module):
     def __init__(
         self,
         vocab_size=256,
-        emb_dim=128,          # free to choose
-        hidden_dim=256,       # free to choose
+        emb_dim=128,        
+        hidden_dim=256,     
         num_layers=1,
         dropout=0.3
     ):
