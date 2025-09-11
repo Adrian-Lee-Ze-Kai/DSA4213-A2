@@ -18,7 +18,7 @@ runs_dir   = "runs"; os.makedirs(runs_dir, exist_ok=True)
 # ------------------------------------------
 
 @torch.no_grad()
-def sample_words(model, dataset, device, prompt="Monkeypox virus", max_new_tokens=100, temperature=1.0):
+def sample_chars(model, dataset, device, prompt="Monkeypox virus", max_new_tokens=100, temperature=1.0):
     model.eval()
     stoi, itos = dataset.stoi, dataset.itos
     # Tokenize prompt
@@ -32,7 +32,7 @@ def sample_words(model, dataset, device, prompt="Monkeypox virus", max_new_token
         probs = torch.softmax(logits, dim=-1)
         next_id = torch.multinomial(probs, num_samples=1)
         x = torch.cat([x, next_id], dim=1)
-    out = " ".join([itos[i.item()] for i in x.squeeze(0)])
+    out = "".join([itos[i.item()] for i in x.squeeze(0)])
     return out
 # --------------- data ---------------------
 train_ds = CharLMSeqDataset("monkeypox_ds/train.txt", block_size)
@@ -101,7 +101,7 @@ print(f"\nFinal Test CE={test_ce:.4f}, PPL={test_ppl:.2f}")
 
 # -------- generate final samples (once) --------
 for T in (0.7, 1.0, 1.3):
-    txt = sample_words(model, train_ds, device, prompt= " Monkeypox virus ", max_new_tokens=300, temperature=T)
+    txt = sample_char(model, train_ds, device, prompt= " Monkeypox virus ", max_new_tokens=300, temperature=T)
     print(f"\n--- Final Sample (T={T}) ---\n{txt}\n--- End sample ---\n")
 
 # -------- plot epoch curves --------
