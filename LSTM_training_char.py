@@ -8,7 +8,7 @@ from models import LSTMLanguageModel
 from words import WordLMSeqDataset
 
 # ----------------- CONFIG -----------------
-block_size = 128
+block_size = 256
 batch_size = 32
 epochs     = 3
 lr         = 3e-4
@@ -101,7 +101,7 @@ print(f"\nFinal Test CE={test_ce:.4f}, PPL={test_ppl:.2f}")
 
 # -------- generate final samples (once) --------
 for T in (0.7, 1.0, 1.3):
-    txt = sample_char(model, train_ds, device, prompt= " Monkeypox virus ", max_new_tokens=300, temperature=T)
+    txt = sample_chars(model, train_ds, device, prompt= " Monkeypox virus ", max_new_tokens=300, temperature=T)
     print(f"\n--- Final Sample (T={T}) ---\n{txt}\n--- End sample ---\n")
 
 # -------- plot epoch curves --------
@@ -110,7 +110,7 @@ plt.figure(figsize=(7,4))
 plt.plot(epochs_axis, train_losses, marker="o", label="train CE (epoch)")
 plt.plot(epochs_axis, val_losses,   marker="o", label="val CE (epoch)")
 plt.xlabel("Epoch")
-plt.ylabel("Cross-E ntropy (nats)")
+plt.ylabel("Cross-Entropy (nats)")
 plt.title("Training / Validation Loss (per epoch)")
 plt.legend()
 plt.tight_layout()

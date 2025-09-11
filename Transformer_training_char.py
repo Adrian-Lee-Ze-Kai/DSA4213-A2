@@ -7,7 +7,7 @@ from characters import CharLMSeqDataset
 from models import SimpleTransformerLM
 
 # ----------------- CONFIG -----------------
-block_size = 128
+block_size = 256
 batch_size = 32
 epochs     = 3
 lr         = 3e-4
