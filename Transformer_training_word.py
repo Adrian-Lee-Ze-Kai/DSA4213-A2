@@ -17,7 +17,7 @@ runs_dir   = "runs"; os.makedirs(runs_dir, exist_ok=True)
 # ------------------------------------------
 
 @torch.no_grad()
-def sample_words(model, dataset, device, prompt="Monkeypox virus", max_new_tokens=100, temperature=1.0, repetition_penalty=1.2):
+def sample_words(model, dataset, device, prompt="Monkeypox virus", max_new_tokens=100, temperature=1.0):
     model.eval()
     stoi, itos = dataset.stoi, dataset.itos
     import re
@@ -28,8 +28,6 @@ def sample_words(model, dataset, device, prompt="Monkeypox virus", max_new_token
         x_cond = x[:, -dataset.block:]
         logits, _ = model(x_cond)
         logits = logits[:, -1, :] / max(1e-6, temperature)
-        for token_id in generated:
-            logits[0, token_id] /= repetition_penalty
         probs = torch.softmax(logits, dim=-1)
         next_id = torch.multinomial(probs, num_samples=1)
         generated.add(next_id.item())
@@ -55,7 +53,7 @@ model = SimpleTransformerLM(
     n_heads=4,
     n_layers=2,
     ff_dim=256,
-    dropout=0.3,
+    dropout=0,
     max_seq_len=block_size
 ).to(device)
 opt = torch.optim.AdamW(model.parameters(), lr=lr, betas=(0.9, 0.95), weight_decay=0.01)
