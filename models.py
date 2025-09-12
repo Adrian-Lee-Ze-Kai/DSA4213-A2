@@ -10,7 +10,7 @@ class LSTMLanguageModel(nn.Module):
         emb_dim=128,         
         hidden_dim=256,       
         num_layers=2,
-        dropout=0.0
+        dropout=0.0  # Change dropout here for LSTM!!
     ):
         super().__init__()
         self.emb = nn.Embedding(vocab_size, emb_dim)
@@ -51,8 +51,8 @@ class SimpleTransformerLM(nn.Module):
         emb_dim=128,
         n_heads=16,
         n_layers=2,
-        ff_dim=256,
-        dropout=0.0,
+        ff_dim=256, 
+        dropout=0.0,  # Change dropout here for Transformer!!
         max_seq_len=128
     ):
         super().__init__()

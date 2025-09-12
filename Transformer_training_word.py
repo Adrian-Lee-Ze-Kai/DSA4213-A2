@@ -53,7 +53,6 @@ model = SimpleTransformerLM(
     n_heads=4,
     n_layers=2,
     ff_dim=256,
-    dropout=0,
     max_seq_len=block_size
 ).to(device)
 opt = torch.optim.AdamW(model.parameters(), lr=lr, betas=(0.9, 0.95), weight_decay=0.01)
